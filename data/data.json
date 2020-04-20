@@ -3389,7 +3389,7 @@
       "VSD" : "BHI",
       "WC" : "0",
       "Water Rate" : "0",
-      "on" : 1
+      "on" : 0
     },
     "R-042" : {
       "ESP" : "NVM",
