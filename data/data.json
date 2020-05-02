@@ -93,7 +93,9 @@
       "VSD" : "NVM",
       "WC" : "0.778",
       "Water Rate" : "5283.398",
-      "on" : 0
+      "on" : 0,
+      "press_poly_id" : 283,
+      "status_poly_id" : 531
     },
     "Ru-444" : {
       "ESP" : "NVM",
