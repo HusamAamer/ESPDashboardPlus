@@ -128,7 +128,7 @@
       "VSD" : "BKR",
       "WC" : "0.713",
       "Water Rate" : "4042.71",
-      "on" : 1,
+      "on" : 0,
       "press_poly_id" : 330,
       "status_poly_id" : 335
     },
@@ -333,7 +333,7 @@
       "VSD" : "NVM",
       "WC" : "0.636",
       "Water Rate" : "2935.14",
-      "on" : 1,
+      "on" : 0,
       "press_poly_id" : 254,
       "status_poly_id" : 439
     },
@@ -734,7 +734,7 @@
       "VSD" : "NVM",
       "WC" : "0.493",
       "Water Rate" : "3751.237",
-      "on" : 0
+      "on" : 1
     },
     "Ru-358" : {
       "ESP" : "NVM",
@@ -1257,7 +1257,7 @@
       "VSD" : "BKR",
       "WC" : "0.67",
       "Water Rate" : "5432.36",
-      "on" : 1,
+      "on" : 0,
       "press_poly_id" : 259,
       "status_poly_id" : 423
     },
