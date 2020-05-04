@@ -2511,7 +2511,7 @@
       "VSD" : "NVM",
       "WC" : "",
       "Water Rate" : "#VALUE!",
-      "on" : 0
+      "on" : 1
     },
     "R-490y" : {
       "ESP" : "NVM",
@@ -3039,7 +3039,7 @@
       "VSD" : "NVM",
       "WC" : "0.61",
       "Water Rate" : "2914.58",
-      "on" : 0
+      "on" : 1
     },
     "R-188" : {
       "ESP" : "BHI",
