@@ -2436,6 +2436,17 @@
       "Water Rate" : "2374.4",
       "on" : 1
     },
+  "R-517" : {
+      "ESP" : "NVM",
+      "Fluid Rate" : "null",
+      "Genset" : "null",
+      "Oil rate" : "null",
+      "Station" : "DS3",
+      "VSD" : "NVM",
+      "WC" : "null",
+      "Water Rate" : "null",
+      "on" : 0
+    },
     "R-515" : {
       "ESP" : "NVM",
       "Fluid Rate" : "6752",
