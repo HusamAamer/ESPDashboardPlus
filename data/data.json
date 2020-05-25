@@ -3589,7 +3589,7 @@
       "VSD" : "NVM",
       "WC" : "0.705",
       "Water Rate" : "2738.22",
-      "on" : 0
+      "on" : 1
     },"R-001" : {
       "ESP" : "NVM",
       "Fluid Rate" : "6804",
