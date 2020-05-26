@@ -1541,7 +1541,7 @@
       "VSD" : "BKR",
       "WC" : "",
       "Water Rate" : "#VALUE!",
-      "on" : 0
+      "on" : 1
     },
     "Ru-089" : {
       "ESP" : "BHI",
