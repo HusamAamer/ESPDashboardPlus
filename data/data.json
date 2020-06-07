@@ -2073,6 +2073,7 @@
       "Water Rate" : "1424.514",
       "on" : 1,
       "press_poly_id" : 186,
+      "status_poly_id": 130
     },
     "R-653" : {
       "ESP" : "NVM",
@@ -2591,6 +2592,7 @@
       "Water Rate" : "689.396",
       "on" : 1,
       "press_poly_id" : 135,
+      "status_poly_id": 132
     },
     "R-463" : {
       "ESP" : "NVM",
@@ -2768,6 +2770,7 @@
       "Water Rate" : "451.935",
       "on" : 0,
       "press_poly_id" : 129,
+      "status_poly_id": 126
     },
     "R-309" : {
       "ESP" : "NVM",
@@ -3154,6 +3157,7 @@
       "Water Rate" : "0",
       "on" : 1,
       "press_poly_id" : 76,
+      "status_poly_id": 33
     },
     "R-124" : {
       "ESP" : "BHI",
@@ -3286,7 +3290,8 @@
       "WC" : "0.882",
       "Water Rate" : "3758.202",
       "on" : 1,
-      "press_poly_id" : 32
+      "press_poly_id" : 32,
+      "status_poly_id": 29
     },
     "R-062z" : {
       "ESP" : "NVM",
