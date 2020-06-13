@@ -2207,6 +2207,18 @@
       "Water Rate" : "2857.977",
       "on" : 1
     },
+  "R-567" : {
+      "ESP" : "NVM",
+      "Fluid Rate" : "3600",
+      "Genset" : "Perkins",
+      "Oil rate" : "3600",
+      "Station" : "DS4",
+      "VSD" : "",
+      "WC" : "0",
+      "Water Rate" : "0",
+      "on" : 1
+    },
+  
     "R-560" : {
       "ESP" : "BHI",
       "Fluid Rate" : "6429",
