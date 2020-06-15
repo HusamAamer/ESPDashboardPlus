@@ -309,7 +309,7 @@
       "VSD" : "",
       "WC" : "",
       "Water Rate" : "#VALUE!",
-      "on" : 1,
+      "on" : 0,
       "press_poly_id" : 65,
       "status_poly_id" : 66
     },
@@ -359,7 +359,7 @@
       "VSD" : "NVM",
       "WC" : "0.835",
       "Water Rate" : "5969.415",
-      "on" : 1,
+      "on" : 0,
       "press_poly_id" : 291,
       "status_poly_id" : 523
     },
@@ -396,7 +396,7 @@
       "VSD" : "NVM",
       "WC" : "0.624",
       "Water Rate" : "5446.272",
-      "on" : 1,
+      "on" : 0,
       "press_poly_id" : 267,
       "status_poly_id" : 270
     },
@@ -623,7 +623,7 @@
       "VSD" : "NVM",
       "WC" : "0.572",
       "Water Rate" : "4966.104",
-      "on" : 1,
+      "on" : 0,
       "press_poly_id" : 312,
       "status_poly_id" : 465
     },
@@ -686,7 +686,7 @@
       "VSD" : "BKR",
       "WC" : "",
       "Water Rate" : "#VALUE!",
-      "on" : 1,
+      "on" : 0,
       "press_poly_id" : 41,
       "status_poly_id" : 42
     },
@@ -782,7 +782,7 @@
       "VSD" : "NVM",
       "WC" : "0.829",
       "Water Rate" : "4463.336",
-      "on" : 1,
+      "on" : 0,
       "press_poly_id" : 336,
       "status_poly_id" : 338
     },
@@ -806,7 +806,7 @@
       "VSD" : "BKR",
       "WC" : "0.602",
       "Water Rate" : "4791.92",
-      "on" : 1,
+      "on" : 0,
       "press_poly_id" : 213,
       "status_poly_id" : 435
     },
@@ -898,7 +898,7 @@
       "VSD" : "NVM",
       "WC" : "0.395",
       "Water Rate" : "1062.155",
-      "on" : 1
+      "on" : 0
     },
     "Ru-256" : {
       "ESP" : "NVM",
@@ -909,7 +909,7 @@
       "VSD" : "BHI",
       "WC" : "0.637",
       "Water Rate" : "2332.694",
-      "on" : 1
+      "on" : 0
     },
     "Ru-252" : {
       "ESP" : "BHI",
@@ -1134,7 +1134,7 @@
       "VSD" : "NVM",
       "WC" : "0",
       "Water Rate" : "0",
-      "on" : 1
+      "on" : 0
     },
     "Ru-192" : {
       "ESP" : "APC",
@@ -1296,7 +1296,7 @@
       "VSD" : "NVM",
       "WC" : "0.867",
       "Water Rate" : "5628.564",
-      "on" : 1,
+      "on" : 0,
       "press_poly_id" : 219,
       "status_poly_id" : 389
     },
@@ -1646,7 +1646,7 @@
       "VSD" : "NVM",
       "WC" : "0.34",
       "Water Rate" : "1963.5",
-      "on" : 1
+      "on" : 0
     },
     "Ru-064" : {
       "ESP" : "APC",
@@ -1657,7 +1657,7 @@
       "VSD" : "APC",
       "WC" : "0",
       "Water Rate" : "0",
-      "on" : 1
+      "on" : 0
     },
     "Ru-063" : {
       "ESP" : "BHI",
@@ -1690,7 +1690,7 @@
       "VSD" : "BHI",
       "WC" : "0.361",
       "Water Rate" : "1489.125",
-      "on" : 1
+      "on" : 0
     },
     "Ru-059" : {
       "ESP" : "BHI",
@@ -2016,7 +2016,7 @@
       "VSD" : "NVM",
       "WC" : "0.834",
       "Water Rate" : "2486.154",
-      "on" : 1
+      "on" : 0
     },
     "R-676" : {
       "ESP" : "NVM",
