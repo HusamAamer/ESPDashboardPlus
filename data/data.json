@@ -23,6 +23,18 @@
       "Water Rate" : "11400",
       "on" : 1
     },
+  "Ru-463" : {
+      "ESP" : "null",
+      "Fluid Rate" : "null",
+      "Genset" : "null",
+      "Oil rate" : "null",
+      "Station" : "null",
+      "VSD" : "null",
+      "WC" : "null",
+      "Water Rate" : "null",
+      "on" : 1
+    }
+  ,
     "Ru-461" : {
       "ESP" : "NVM",
       "Fluid Rate" : "6215",
@@ -1817,6 +1829,17 @@
       "VSD" : "NVM",
       "WC" : "0",
       "Water Rate" : "0",
+      "on" : 1
+    },
+  "Ru-047A" : {
+      "ESP" : "null",
+      "Fluid Rate" : "null",
+      "Genset" : "null",
+      "Oil rate" : "null",
+      "Station" : "null",
+      "VSD" : "null",
+      "WC" : "null",
+      "Water Rate" : "null",
       "on" : 1
     },
     "Ru-047" : {
