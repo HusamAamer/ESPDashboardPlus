@@ -738,6 +738,17 @@
       "Water Rate" : "3751.237",
       "on" : 1
     },
+  "Ru-359" : {
+      "ESP" : "null",
+      "Fluid Rate" : "null",
+      "Genset" : "null",
+      "Oil rate" : "null",
+      "Station" : "null",
+      "VSD" : "null",
+      "WC" : "null",
+      "Water Rate" : "null",
+      "on" : 1
+    },
     "Ru-358" : {
       "ESP" : "NVM",
       "Fluid Rate" : "6720",
@@ -819,7 +830,7 @@
       "VSD" : "BHI",
       "WC" : "0",
       "Water Rate" : "0",
-      "on" : 1
+      "on" : 0
     },
     "Ru-297" : {
       "ESP" : "APC",
@@ -957,7 +968,7 @@
       "VSD" : "BKR",
       "WC" : "0.326",
       "Water Rate" : "2441.088",
-      "on" : 1,
+      "on" : 0,
       "press_poly_id" : 274,
       "status_poly_id" : 433
     },
