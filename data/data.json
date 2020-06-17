@@ -635,7 +635,7 @@
       "VSD" : "NVM",
       "WC" : "0.572",
       "Water Rate" : "4966.104",
-      "on" : 0,
+      "on" : 1,
       "press_poly_id" : 312,
       "status_poly_id" : 465
     },
