@@ -1043,7 +1043,7 @@
       "VSD" : "null",
       "WC" : "null",
       "Water Rate" : "null",
-      "on" : 0
+      "on" : 1
     },
     "Ru-220" : {
       "ESP" : "NVM",
