@@ -2197,17 +2197,6 @@
         "Water Rate": 2798.4,
         "on": 1
     },
-    "R-589":
-    {
-        "ESP": "NVM",
-        "Fluid Rate": 0,
-        "Oil rate": 0,
-        "Station": "DS2",
-        "VSD": "NVM",
-        "WC": 0,
-        "Water Rate": 0,
-        "on": 1
-    },
     "R-581":
     {
         "VSD": "-",
@@ -3789,7 +3778,7 @@
         "Station": "DS2",
         "WC": 0,
         "Water Rate": 0,
-        "on": 0
+        "on": 1
     },
     "R-612":
     {
