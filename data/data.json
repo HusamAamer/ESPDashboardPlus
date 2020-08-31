@@ -1,4 +1,14 @@
 {
+    "Ru-470":
+    {
+        "ESP": "NVM",
+        "Fluid Rate": 0,
+        "Oil rate": 0,
+        "Station": "Qurainat",
+        "WC": 0,
+        "Water Rate": 0,
+        "on": 1
+    },
     "Ru-467":
     {
         "ESP": "NVM",
