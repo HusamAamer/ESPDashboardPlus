@@ -2186,6 +2186,18 @@
         "Water Rate": 3024.3599999999997,
         "on": 0
     },
+     "R-605":
+    {
+        "ESP": "null",
+        "Fluid Rate": 0,
+        "Genset": "null",
+        "Oil rate": 0,
+        "Station": "DS4",
+        "VSD": "null",
+        "WC": 0,
+        "Water Rate": 0,
+        "on": 0
+    },
     "R-590":
     {
         "ESP": "NVM",
@@ -3174,6 +3186,18 @@
         "VSD": "BHI",
         "WC": 0.82,
         "Water Rate": 2879.02,
+        "on": 0
+    },
+    "R-193":
+    {
+        "ESP": "null",
+        "Fluid Rate": 0,
+        "Genset": "null",
+        "Oil rate": 0,
+        "Station": "DS5",
+        "VSD": "null",
+        "WC": 0,
+        "Water Rate": 0,
         "on": 0
     },
     "R-189":
