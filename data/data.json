@@ -169,7 +169,7 @@
         "VSD": "BKR",
         "WC": 0.7,
         "Water Rate": 4737.599999999999,
-        "on": 1
+        "on": 0
     },
     "Ru-425":
     {
@@ -301,7 +301,7 @@
         "VSD": "NVM",
         "WC": 0.64,
         "Water Rate": 4000.64,
-        "on": 1
+        "on": 0
     },
     "Ru-405":
     {
@@ -2193,10 +2193,10 @@
         "Genset": "null",
         "Oil rate": 0,
         "Station": "DS4",
-        "VSD": "null",
+        "VSD": "BHI",
         "WC": 0,
         "Water Rate": 0,
-        "on": 0
+        "on": 1
     },
     "R-590":
     {
@@ -3195,10 +3195,10 @@
         "Genset": "null",
         "Oil rate": 0,
         "Station": "DS5",
-        "VSD": "null",
+        "VSD": "BHI",
         "WC": 0,
         "Water Rate": 0,
-        "on": 0
+        "on": 1
     },
     "R-189":
     {
