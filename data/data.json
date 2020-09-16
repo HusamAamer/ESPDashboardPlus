@@ -114,14 +114,15 @@
         "WC": 0.74,
         "Water Rate": 5538.9,
         "on": 1
-    },    "Ru-444":
+    },    
+   "Ru-444":
     {
         "ESP": "NVM",
         "Genset": "Perkins",
         "Station": "Qurainat",
         "VSD": "BKR",
         "WC": "",
-        "on": 1
+        "on": 0
     },
     "Ru-443":
     {
@@ -592,7 +593,7 @@
         "VSD": "NVM",
         "WC": 0.533,
         "Water Rate": 3887.702,
-        "on": 0
+        "on": 1
     },
     "Ru-374":
     {
@@ -3850,7 +3851,7 @@
         "Station": "Markazia",
         "VSD": "NVM",
         "WC": "",
-        "on": 0
+        "on": 1
     },
     "Ru-020":
     {
