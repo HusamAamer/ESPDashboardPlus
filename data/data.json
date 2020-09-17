@@ -122,7 +122,7 @@
         "Station": "Qurainat",
         "VSD": "BKR",
         "WC": "",
-        "on": 0
+        "on": 1
     },
     "Ru-443":
     {
@@ -398,7 +398,7 @@
         "VSD": "NVM",
         "WC": 0.5,
         "Water Rate": 2268,
-        "on": 1
+        "on": 0
     },
     "Ru-393":
     {
