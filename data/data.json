@@ -2187,7 +2187,19 @@
         "Water Rate": 3024.3599999999997,
         "on": 0
     },
-     "R-605":
+    "R-606":
+    {
+        "ESP": "null",
+        "Fluid Rate": 0,
+        "Genset": "null",
+        "Oil rate": 0,
+        "Station": "DS4",
+        "VSD": "BHI",
+        "WC": 0,
+        "Water Rate": 0,
+        "on": 1
+    },
+    "R-605":
     {
         "ESP": "null",
         "Fluid Rate": 0,
