@@ -1,12 +1,14 @@
 {
     "Ru-470":
     {
-        "ESP": "NVM",
-        "Fluid Rate": 0,
-        "Oil rate": 0,
+        "ESP": "BHI",
+        "Fluid Rate": 3263,
+        "Genset": "Perkins",
+        "Oil rate": 1957.8,
         "Station": "Qurainat",
-        "WC": 0,
-        "Water Rate": 0,
+        "VSD": "BKR",
+        "WC": 0.4,
+        "Water Rate": 1305.2,
         "on": 1
     },
     "Ru-467":
@@ -24,104 +26,108 @@
     "Ru-466":
     {
         "ESP": "NVM",
-        "Fluid Rate": 7880,
+        "Fluid Rate": 12300,
         "Genset": "Perkins",
         "Oil rate": 0,
         "Station": "Janubia",
         "VSD": "BHI",
         "WC": 1,
-        "Water Rate": 7880,
+        "Water Rate": 12300,
         "on": 1
     },
     "Ru-463":
     {
         "ESP": "NVM",
-        "Fluid Rate": 2000,
-        "Oil rate": 2000,
+        "Fluid Rate": 3809,
+        "Genset": "Perkins",
+        "Oil rate": 2056.86,
         "Station": "Qurainat",
-        "WC": 0,
-        "Water Rate": 0,
+        "VSD": "BKR",
+        "WC": 0.46,
+        "Water Rate": 1752.1399999999999,
         "on": 1
     },
     "Ru-461":
     {
         "ESP": "BHI",
-        "Fluid Rate": 3412,
+        "Fluid Rate": 4090,
         "Genset": "Perkins",
-        "Oil rate": 1398.92,
+        "Oil rate": 1595.1000000000001,
         "Station": "Shamiya",
         "VSD": "NVM",
-        "WC": 0.59,
-        "Water Rate": 2013.08,
+        "WC": 0.61,
+        "Water Rate": 2494.8999999999996,
         "on": 1
     },
     "Ru-456":
     {
         "ESP": "NVM",
-        "Fluid Rate": 4531,
+        "Fluid Rate": 5071,
         "Genset": "Perkins",
-        "Oil rate": 2038.9499999999998,
+        "Oil rate": 2434.08,
         "Station": "Qurainat",
         "VSD": "NVM",
-        "WC": 0.55,
-        "Water Rate": 2492.05,
+        "WC": 0.52,
+        "Water Rate": 2636.92,
         "on": 1
     },
     "Ru-453":
     {
         "ESP": "NVM",
-        "Fluid Rate": 8773,
+        "Fluid Rate": 6351,
         "Genset": "Perkins",
-        "Oil rate": 1403.6800000000003,
+        "Oil rate": 889.1400000000001,
         "Station": "Markazia",
         "VSD": "NVM",
-        "WC": 0.84,
-        "Water Rate": 7369.32,
+        "WC": 0.86,
+        "Water Rate": 5461.86,
         "on": 1
     },
     "Ru-451":
     {
         "ESP": "NVM",
-        "Fluid Rate": 9255,
+        "Fluid Rate": 3551,
         "Genset": "Perkins",
-        "Oil rate": 944.0099999999998,
+        "Oil rate": 355.0999999999999,
         "Station": "Janubia",
         "VSD": "NVM",
-        "WC": 0.898,
-        "Water Rate": 8310.99,
+        "WC": 0.9,
+        "Water Rate": 3195.9,
         "on": 1
     },
     "Ru-450":
     {
         "ESP": "NVM",
-        "Fluid Rate": 3991,
-        "Genset": "Caterpillar",
-        "Oil rate": 1117.48,
+        "Fluid Rate": 4035,
+        "Genset": "CAT",
+        "Oil rate": 887.6999999999999,
         "Station": "Qurainat",
         "VSD": "NVM",
-        "WC": 0.72,
-        "Water Rate": 2873.52,
+        "WC": 0.78,
+        "Water Rate": 3147.3,
         "on": 1
-    },
-    "Ru-447":
+    },    "Ru-447":
     {
         "ESP": "NVM",
-        "Fluid Rate": 7485,
+        "Fluid Rate": 7467,
         "Genset": "Perkins",
-        "Oil rate": 1946.1000000000001,
+        "Oil rate": 1866.75,
         "Station": "Markazia",
         "VSD": "NVM",
-        "WC": 0.74,
-        "Water Rate": 5538.9,
+        "WC": 0.75,
+        "Water Rate": 5600.25,
         "on": 1
-    },    
-   "Ru-444":
+    },
+    "Ru-444":
     {
         "ESP": "NVM",
+        "Fluid Rate": 2688,
         "Genset": "Perkins",
+        "Oil rate": 2419.2000000000003,
         "Station": "Qurainat",
         "VSD": "BKR",
-        "WC": "",
+        "WC": 0.1,
+        "Water Rate": 268.7999999999997,
         "on": 1
     },
     "Ru-443":
@@ -138,50 +144,50 @@
     },
     "Ru-441":
     {
-        "ESP": "NVM",
-        "Fluid Rate": 4798,
+        "ESP": "BHI",
+        "Fluid Rate": 4832,
         "Genset": "Perkins",
-        "Oil rate": 1391.42,
+        "Oil rate": 531.52,
         "Station": "Markazia",
         "VSD": "BKR",
-        "WC": 0.71,
-        "Water Rate": 3406.58,
+        "WC": 0.89,
+        "Water Rate": 4300.48,
         "on": 1
     },
     "Ru-440":
     {
-        "ESP": "BHI",
-        "Fluid Rate": 7571,
+        "ESP": "NVM",
+        "Fluid Rate": 7513,
         "Genset": "Perkins",
-        "Oil rate": 3240.3880000000004,
+        "Oil rate": 2554.4199999999996,
         "Station": "Shamiya",
         "VSD": "BHI",
-        "WC": 0.572,
-        "Water Rate": 4330.611999999999,
+        "WC": 0.66,
+        "Water Rate": 4958.58,
         "on": 1
     },
     "Ru-430":
     {
         "ESP": "BHI",
-        "Fluid Rate": 6768,
+        "Fluid Rate": 6902,
         "Genset": "Perkins",
-        "Oil rate": 2030.4000000000003,
+        "Oil rate": 2042.9920000000002,
         "Station": "Shamiya",
         "VSD": "BKR",
-        "WC": 0.7,
-        "Water Rate": 4737.599999999999,
+        "WC": 0.704,
+        "Water Rate": 4859.008,
         "on": 0
     },
     "Ru-425":
     {
-        "ESP": "BHI",
-        "Fluid Rate": 6848,
+        "ESP": "NVM",
+        "Fluid Rate": 0,
         "Genset": "Perkins",
-        "Oil rate": 2540.608,
+        "Oil rate": 0,
         "Station": "Shamiya",
         "VSD": "NVM",
-        "WC": 0.629,
-        "Water Rate": 4307.392,
+        "WC": 0,
+        "Water Rate": 0,
         "on": 1
     },
     "Ru-423y":
@@ -199,13 +205,13 @@
     "Ru-422":
     {
         "ESP": "NVM",
-        "Fluid Rate": 7134,
+        "Fluid Rate": 7404,
         "Genset": "Perkins",
-        "Oil rate": 4779.78,
+        "Oil rate": 5627.04,
         "Station": "Qurainat",
         "VSD": "NVM",
-        "WC": 0.33,
-        "Water Rate": 2354.2200000000003,
+        "WC": 0.24,
+        "Water Rate": 1776.96,
         "on": 1
     },
     "Ru-420":
@@ -235,9 +241,9 @@
     "Ru-413z":
     {
         "ESP": "BHI",
-        "Fluid Rate": 2930,
+        "Fluid Rate": 3049,
         "Genset": "Perkins",
-        "Oil rate": 2930,
+        "Oil rate": 3049,
         "Station": "Shamiya",
         "VSD": "NVM",
         "WC": 0,
@@ -247,37 +253,37 @@
     "Ru-412":
     {
         "ESP": "NVM",
-        "Fluid Rate": 4269,
+        "Fluid Rate": 3686,
         "Genset": "Perkins",
-        "Oil rate": 4269,
+        "Oil rate": 3575.42,
         "Station": "Markazia",
         "VSD": "NVM",
-        "WC": 0,
-        "Water Rate": 0,
+        "WC": 0.03,
+        "Water Rate": 110.57999999999993,
         "on": 1
     },
     "Ru-411":
     {
         "ESP": "BHI",
-        "Fluid Rate": 7665,
+        "Fluid Rate": 7841,
         "Genset": "Perkins",
-        "Oil rate": 2299.5000000000005,
+        "Oil rate": 2273.8900000000003,
         "Station": "Markazia",
         "VSD": "BKR",
-        "WC": 0.7,
-        "Water Rate": 5365.5,
+        "WC": 0.71,
+        "Water Rate": 5567.11,
         "on": 1
     },
     "Ru-410":
     {
         "ESP": "BHI",
-        "Fluid Rate": 6127,
+        "Fluid Rate": 6122,
         "Genset": "Perkins",
-        "Oil rate": 2757.1499999999996,
+        "Oil rate": 2326.36,
         "Station": "Qurainat",
         "VSD": "NVM",
-        "WC": 0.55,
-        "Water Rate": 3369.8500000000004,
+        "WC": 0.62,
+        "Water Rate": 3795.64,
         "on": 1
     },
     "Ru-409":
@@ -295,56 +301,55 @@
     "Ru-406":
     {
         "ESP": "NVM",
-        "Fluid Rate": 6251,
+        "Fluid Rate": 7392,
         "Genset": "Perkins",
-        "Oil rate": 2250.36,
+        "Oil rate": 3030.7200000000003,
         "Station": "Qurainat",
         "VSD": "NVM",
-        "WC": 0.64,
-        "Water Rate": 4000.64,
+        "WC": 0.59,
+        "Water Rate": 4361.28,
         "on": 0
     },
     "Ru-405":
     {
-        "ESP": "BHI",
-        "Fluid Rate": 7061,
+        "ESP": "NVM",
+        "Fluid Rate": 9128,
         "Genset": "Perkins",
-        "Oil rate": 5189.835,
+        "Oil rate": 5659.36,
         "Station": "Qurainat",
-        "VSD": "BKR",
-        "WC": 0.265,
-        "Water Rate": 1871.165,
+        "VSD": "NVM",
+        "WC": 0.38,
+        "Water Rate": 3468.6400000000003,
         "on": 1
     },
     "Ru-403":
     {
         "ESP": "BHI",
-        "Fluid Rate": 6752,
+        "Fluid Rate": 4621,
         "Genset": "Perkins",
-        "Oil rate": 4253.76,
+        "Oil rate": 2726.3900000000003,
         "Station": "Janubia",
         "VSD": "BKR",
-        "WC": 0.37,
-        "Water Rate": 2498.24,
+        "WC": 0.41,
+        "Water Rate": 1894.6099999999997,
         "on": 1
     },
     "Ru-401":
     {
         "ESP": "BHI",
-        "Fluid Rate": 6245,
+        "Fluid Rate": 6832,
         "Genset": "Perkins",
-        "Oil rate": 2060.85,
+        "Oil rate": 1981.2800000000002,
         "Station": "Shamiya",
         "VSD": "NVM",
-        "WC": 0.67,
-        "Water Rate": 4184.15,
+        "WC": 0.71,
+        "Water Rate": 4850.719999999999,
         "on": 1
     },
     "Ru-400":
     {
         "ESP": "NVM",
         "Fluid Rate": 4615,
-        "Genset": "Perkins",
         "Oil rate": 1153.75,
         "Station": "Janubia",
         "VSD": "NVM",
@@ -355,25 +360,25 @@
     "Ru-397":
     {
         "ESP": "BHI",
-        "Fluid Rate": 4783,
+        "Fluid Rate": 4553,
         "Genset": "Perkins",
-        "Oil rate": 3061.12,
+        "Oil rate": 2686.2700000000004,
         "Station": "Markazia",
         "VSD": "BHI",
-        "WC": 0.36,
-        "Water Rate": 1721.88,
+        "WC": 0.41,
+        "Water Rate": 1866.7299999999996,
         "on": 0
     },
     "Ru-396":
     {
         "ESP": "NVM",
-        "Fluid Rate": 6583,
+        "Fluid Rate": 6591,
         "Genset": "Perkins",
-        "Oil rate": 921.6200000000001,
+        "Oil rate": 922.7400000000001,
         "Station": "Markazia",
         "VSD": "NVM",
         "WC": 0.86,
-        "Water Rate": 5661.38,
+        "Water Rate": 5668.26,
         "on": 0
     },
     "Ru-395a":
@@ -391,109 +396,109 @@
     "Ru-394":
     {
         "ESP": "BHI",
-        "Fluid Rate": 4536,
+        "Fluid Rate": 4331,
         "Genset": "Perkins",
-        "Oil rate": 2268,
+        "Oil rate": 1948.9499999999998,
         "Station": "Janubia",
         "VSD": "NVM",
-        "WC": 0.5,
-        "Water Rate": 2268,
+        "WC": 0.55,
+        "Water Rate": 2382.05,
         "on": 0
     },
     "Ru-393":
     {
         "ESP": "NVM",
-        "Fluid Rate": 7944,
+        "Fluid Rate": 1302,
         "Genset": "Perkins",
-        "Oil rate": 2939.2799999999997,
+        "Oil rate": 468.71999999999997,
         "Station": "Shamiya",
         "VSD": "NVM",
-        "WC": 0.63,
-        "Water Rate": 5004.72,
+        "WC": 0.64,
+        "Water Rate": 833.28,
         "on": 1
     },
     "Ru-392":
     {
         "ESP": "BHI",
-        "Fluid Rate": 4689,
+        "Fluid Rate": 4798,
         "Genset": "Perkins",
-        "Oil rate": 1266.03,
+        "Oil rate": 1343.44,
         "Station": "Shamiya",
         "VSD": "BKR",
-        "WC": 0.73,
-        "Water Rate": 3422.9700000000003,
+        "WC": 0.72,
+        "Water Rate": 3454.56,
         "on": 1
     },
     "Ru-391":
     {
         "ESP": "NVM",
-        "Fluid Rate": 5616,
+        "Fluid Rate": 3914,
         "Genset": "Perkins",
-        "Oil rate": 1123.1999999999998,
+        "Oil rate": 626.2400000000001,
         "Station": "Shamiya",
         "VSD": "NVM",
-        "WC": 0.8,
-        "Water Rate": 4492.8,
+        "WC": 0.84,
+        "Water Rate": 3287.7599999999998,
         "on": 1
     },
     "Ru-390":
     {
         "ESP": "BHI",
-        "Fluid Rate": 7553,
+        "Fluid Rate": 7333,
         "Genset": "Perkins",
-        "Oil rate": 2870.14,
+        "Oil rate": 2786.54,
         "Station": "Markazia",
         "VSD": "NVM",
         "WC": 0.62,
-        "Water Rate": 4682.860000000001,
+        "Water Rate": 4546.46,
         "on": 1
     },
     "Ru-389":
     {
         "ESP": "BHI",
-        "Fluid Rate": 6657,
+        "Fluid Rate": 6730,
         "Genset": "Perkins",
-        "Oil rate": 2596.23,
+        "Oil rate": 2624.7000000000003,
         "Station": "Shamiya",
         "VSD": "NVM",
         "WC": 0.61,
-        "Water Rate": 4060.77,
+        "Water Rate": 4105.299999999999,
         "on": 0
     },
     "Ru-388":
     {
         "ESP": "BHI",
-        "Fluid Rate": 4950,
+        "Fluid Rate": 4358,
         "Genset": "Perkins",
-        "Oil rate": 2534.4,
+        "Oil rate": 1873.9400000000003,
         "Station": "Janubia",
         "VSD": "NVM",
-        "WC": 0.488,
-        "Water Rate": 2415.6,
+        "WC": 0.57,
+        "Water Rate": 2484.0599999999995,
         "on": 1
     },
     "Ru-387":
     {
         "ESP": "NVM",
-        "Fluid Rate": 6815,
+        "Fluid Rate": 6729,
         "Genset": "Perkins",
-        "Oil rate": 1383.4449999999997,
+        "Oil rate": 1413.0899999999997,
         "Station": "Qurainat",
         "VSD": "NVM",
-        "WC": 0.797,
-        "Water Rate": 5431.555,
+        "WC": 0.79,
+        "Water Rate": 5315.91,
         "on": 1
     },
     "Ru-386":
     {
         "ESP": "NVM",
-        "Fluid Rate": 7797,
+        "Fluid Rate": 7856,
         "Genset": "Perkins",
-        "Oil rate": 2027.22,
+        "Oil rate": 1806.8799999999999,
         "Station": "Markazia",
         "VSD": "NVM",
-        "WC": 0.74,
-        "Water Rate": 5769.78,
+        "WC": 0.77,
+        "Water Rate": 6049.12,
         "on": 1
     },
     "Ru-384":
@@ -506,10 +511,13 @@
     "Ru-383":
     {
         "ESP": "NVM",
+        "Fluid Rate": 8024,
         "Genset": "Perkins",
+        "Oil rate": 4332.96,
         "Station": "Markazia",
         "VSD": "BKR",
-        "WC": "",
+        "WC": 0.46,
+        "Water Rate": 3691.04,
         "on": 1
     },
     "Ru-382":
@@ -527,20 +535,19 @@
     "Ru-381":
     {
         "ESP": "BHI",
-        "Fluid Rate": 6592,
+        "Fluid Rate": 4627,
         "Genset": "Perkins",
-        "Oil rate": 2175.3599999999997,
+        "Oil rate": 1249.2900000000002,
         "Station": "Janubia",
         "VSD": "NVM",
-        "WC": 0.67,
-        "Water Rate": 4416.64,
+        "WC": 0.73,
+        "Water Rate": 3377.71,
         "on": 1
     },
     "Ru-380":
     {
         "ESP": "BHI",
         "Fluid Rate": 7611,
-        "Genset": "Perkins",
         "Oil rate": 2283.3,
         "Station": "Shamiya",
         "VSD": "NVM",
@@ -551,20 +558,19 @@
     "Ru-379":
     {
         "ESP": "BHI",
-        "Fluid Rate": 7118,
+        "Fluid Rate": 1825,
         "Genset": "Perkins",
-        "Oil rate": 2747.5480000000002,
+        "Oil rate": 1825,
         "Station": "Shamiya",
         "VSD": "BKR",
-        "WC": 0.614,
-        "Water Rate": 4370.451999999999,
+        "WC": 0,
+        "Water Rate": 0,
         "on": 1
     },
     "Ru-378":
     {
         "ESP": "NVM",
         "Fluid Rate": 7947,
-        "Genset": "Perkins",
         "Oil rate": 1915.2269999999999,
         "Station": "Qurainat",
         "VSD": "NVM",
@@ -585,26 +591,26 @@
     },
     "Ru-376":
     {
-        "ESP": "BHI",
-        "Fluid Rate": 7294,
-        "Genset": "Caterpillar",
-        "Oil rate": 3406.298,
+        "ESP": "NVM",
+        "Fluid Rate": 7237,
+        "Genset": "CAT",
+        "Oil rate": 1519.7699999999998,
         "Station": "Markazia",
         "VSD": "NVM",
-        "WC": 0.533,
-        "Water Rate": 3887.702,
+        "WC": 0.79,
+        "Water Rate": 5717.2300000000005,
         "on": 1
     },
     "Ru-374":
     {
         "ESP": "NVM",
-        "Fluid Rate": 7452,
+        "Fluid Rate": 6424,
         "Genset": "Perkins",
-        "Oil rate": 2459.16,
+        "Oil rate": 1606,
         "Station": "Shamiya",
         "VSD": "NVM",
-        "WC": 0.67,
-        "Water Rate": 4992.84,
+        "WC": 0.75,
+        "Water Rate": 4818,
         "on": 1
     },
     "Ru-373":
@@ -612,140 +618,139 @@
         "ESP": "BHI",
         "Fluid Rate": 5590,
         "Genset": "Perkins",
-        "Oil rate": 1990.04,
+        "Oil rate": 5590,
         "Station": "Shamiya",
         "VSD": "NVM",
-        "WC": 0.644,
-        "Water Rate": 3599.96,
+        "WC": 0,
+        "Water Rate": 0,
         "on": 1
     },
     "Ru-372":
     {
         "ESP": "BHI",
-        "Fluid Rate": 8952,
+        "Fluid Rate": 8256,
         "Genset": "Perkins",
-        "Oil rate": 3222.72,
+        "Oil rate": 2724.4799999999996,
         "Station": "Shamiya",
         "VSD": "NVM",
-        "WC": 0.64,
-        "Water Rate": 5729.280000000001,
+        "WC": 0.67,
+        "Water Rate": 5531.52,
         "on": 1
     },
     "Ru-371":
     {
         "ESP": "BHI",
-        "Fluid Rate": 8616,
+        "Fluid Rate": 7805,
         "Genset": "Perkins",
-        "Oil rate": 6289.68,
+        "Oil rate": 5775.7,
         "Station": "Shamiya",
         "VSD": "NVM",
-        "WC": 0.27,
-        "Water Rate": 2326.3199999999997,
+        "WC": 0.26,
+        "Water Rate": 2029.3000000000002,
         "on": 1
     },
     "Ru-369":
     {
         "ESP": "NVM",
-        "Fluid Rate": 4714,
+        "Fluid Rate": 4996,
         "Genset": "Perkins",
-        "Oil rate": 1319.92,
+        "Oil rate": 1298.96,
         "Station": "Qurainat",
         "VSD": "BKR",
-        "WC": 0.72,
-        "Water Rate": 3394.08,
+        "WC": 0.74,
+        "Water Rate": 3697.04,
         "on": 1
     },
     "Ru-368":
     {
         "ESP": "BHI",
-        "Fluid Rate": 7650,
+        "Fluid Rate": 7753,
         "Genset": "Perkins",
-        "Oil rate": 3060,
+        "Oil rate": 3101.2000000000003,
         "Station": "Shamiya",
         "VSD": "NVM",
         "WC": 0.6,
-        "Water Rate": 4590,
+        "Water Rate": 4651.799999999999,
         "on": 0
     },
     "Ru-367":
     {
         "ESP": "NVM",
-        "Fluid Rate": 6454,
+        "Fluid Rate": 7237,
         "Genset": "Perkins",
-        "Oil rate": 3162.46,
+        "Oil rate": 2967.17,
         "Station": "Shamiya",
         "VSD": "NVM",
-        "WC": 0.51,
-        "Water Rate": 3291.54,
+        "WC": 0.59,
+        "Water Rate": 4269.83,
         "on": 1
     },
     "Ru-366":
     {
         "ESP": "BHI",
-        "Fluid Rate": 6341,
+        "Fluid Rate": 5658,
         "Genset": "Perkins",
-        "Oil rate": 1268.1999999999998,
+        "Oil rate": 509.2199999999998,
         "Station": "Janubia",
         "VSD": "BKR",
-        "WC": 0.8,
-        "Water Rate": 5072.8,
+        "WC": 0.91,
+        "Water Rate": 5148.780000000001,
         "on": 1
     },
     "Ru-364":
     {
         "ESP": "NVM",
-        "Fluid Rate": 6633,
+        "Fluid Rate": 6852,
         "Genset": "Perkins",
-        "Oil rate": 2520.54,
+        "Oil rate": 2535.24,
         "Station": "Shamiya",
         "VSD": "NVM",
-        "WC": 0.62,
-        "Water Rate": 4112.46,
+        "WC": 0.63,
+        "Water Rate": 4316.76,
         "on": 1
     },
     "Ru-363":
     {
         "ESP": "BHI",
-        "Fluid Rate": 6435,
+        "Fluid Rate": 5458,
         "Genset": "Perkins",
-        "Oil rate": 1222.6499999999996,
+        "Oil rate": 818.7000000000002,
         "Station": "Shamiya",
         "VSD": "BKR",
-        "WC": 0.81,
-        "Water Rate": 5212.35,
+        "WC": 0.85,
+        "Water Rate": 4639.3,
         "on": 1
     },
     "Ru-362":
     {
         "ESP": "BHI",
-        "Fluid Rate": 4400,
+        "Fluid Rate": 4158,
         "Genset": "Perkins",
-        "Oil rate": 483.99999999999994,
+        "Oil rate": 540.54,
         "Station": "Markazia",
         "VSD": "NVM",
-        "WC": 0.89,
-        "Water Rate": 3916,
+        "WC": 0.87,
+        "Water Rate": 3617.46,
         "on": 1
     },
     "Ru-360":
     {
         "ESP": "BHI",
-        "Fluid Rate": 6957,
+        "Fluid Rate": 6905,
         "Genset": "Perkins",
-        "Oil rate": 2852.3700000000003,
+        "Oil rate": 2762,
         "Station": "Shamiya",
         "VSD": "NVM",
-        "WC": 0.59,
-        "Water Rate": 4104.629999999999,
+        "WC": 0.6,
+        "Water Rate": 4143,
         "on": 1
     },
     "Ru-359":
     {
         "ESP": "NVM",
-        "Genset": "Perkins",
         "Station": "Shamiya",
         "VSD": "BKR",
-        "WC": "",
+        "WC": 0,
         "on": 0
     },
     "Ru-358":
@@ -763,44 +768,43 @@
     "Ru-314":
     {
         "ESP": "BHI",
-        "Fluid Rate": 7581,
+        "Fluid Rate": 6970,
         "Genset": "Perkins",
-        "Oil rate": 5079.2699999999995,
+        "Oil rate": 4251.7,
         "Station": "Janubia",
         "VSD": "NVM",
-        "WC": 0.33,
-        "Water Rate": 2501.7300000000005,
+        "WC": 0.39,
+        "Water Rate": 2718.3,
         "on": 1
     },
     "Ru-313":
     {
         "ESP": "BHI",
-        "Fluid Rate": 3661,
+        "Fluid Rate": 3570,
         "Genset": "Perkins",
-        "Oil rate": 995.792,
+        "Oil rate": 1074.5700000000002,
         "Station": "Janubia",
         "VSD": "NVM",
-        "WC": 0.728,
-        "Water Rate": 2665.208,
+        "WC": 0.699,
+        "Water Rate": 2495.43,
         "on": 0
     },
     "Ru-311":
     {
         "ESP": "BHI",
-        "Fluid Rate": 5200,
+        "Fluid Rate": 5204,
         "Genset": "Perkins",
-        "Oil rate": 624,
+        "Oil rate": 624.48,
         "Station": "Ratqa",
         "VSD": "NVM",
         "WC": 0.88,
-        "Water Rate": 4576,
+        "Water Rate": 4579.52,
         "on": 1
     },
     "Ru-309":
     {
         "ESP": "NVM",
         "Fluid Rate": 4941,
-        "Genset": "Perkins",
         "Oil rate": 741.1500000000001,
         "Station": "Shamiya",
         "VSD": "NVM",
@@ -811,43 +815,43 @@
     "Ru-305":
     {
         "ESP": "BHI",
-        "Fluid Rate": 8034,
+        "Fluid Rate": 7659,
         "Genset": "Perkins",
-        "Oil rate": 2651.22,
+        "Oil rate": 1991.3400000000001,
         "Station": "Janubia",
         "VSD": "BKR",
-        "WC": 0.67,
-        "Water Rate": 5382.780000000001,
+        "WC": 0.74,
+        "Water Rate": 5667.66,
         "on": 1
     },
     "Ru-299":
     {
         "ESP": "NVM",
-        "Fluid Rate": 1550,
-        "Genset": "Perkins",
-        "Oil rate": 1550,
+        "Fluid Rate": 1522,
+        "Oil rate": 1491.56,
         "Station": "Ratqa",
         "VSD": "BHI",
-        "WC": 0,
-        "Water Rate": 0,
+        "WC": 0.02,
+        "Water Rate": 30.440000000000055,
         "on": 0
     },
     "Ru-297":
     {
         "ESP": "APC",
-        "Fluid Rate": 4244,
-        "Oil rate": 4074.24,
+        "Fluid Rate": 3384,
+        "Oil rate": 3384,
         "Station": "M.Qurainat",
         "VSD": "NVM",
-        "WC": 0.04,
-        "Water Rate": 169.76000000000022,
+        "WC": 0,
+        "Water Rate": 0,
         "on": 1
     },
     "Ru-296":
     {
         "ESP": "BHI",
-        "Fluid Rate": 1177,
-        "Oil rate": 1177,
+        "Fluid Rate": 2038,
+        "Genset": "Perkins",
+        "Oil rate": 2038,
         "Station": "Ratqa",
         "VSD": "BHI",
         "WC": 0,
@@ -868,24 +872,24 @@
     "Ru-269":
     {
         "ESP": "NVM",
-        "Fluid Rate": 1374,
-        "Oil rate": 1360.26,
+        "Fluid Rate": 1543,
+        "Oil rate": 1465.85,
         "Station": "Janubia",
         "VSD": "-",
-        "WC": 0.01,
-        "Water Rate": 13.740000000000009,
+        "WC": 0.05,
+        "Water Rate": 77.15000000000009,
         "on": 0
     },
     "Ru-263":
     {
         "ESP": "NVM",
-        "Fluid Rate": 4252,
+        "Fluid Rate": 4770,
         "Genset": "Perkins",
-        "Oil rate": 4252,
+        "Oil rate": 4626.9,
         "Station": "Markazia",
         "VSD": "BHI",
-        "WC": 0,
-        "Water Rate": 0,
+        "WC": 0.03,
+        "Water Rate": 143.10000000000036,
         "on": 0
     },
     "Ru-262":
@@ -902,25 +906,25 @@
     "Ru-260":
     {
         "ESP": "NVM",
-        "Fluid Rate": 2719,
+        "Fluid Rate": 2657,
         "Genset": "Perkins",
-        "Oil rate": 1631.3999999999999,
+        "Oil rate": 1328.5,
         "Station": "Ratqa",
         "VSD": "NVM",
-        "WC": 0.4,
-        "Water Rate": 1087.6000000000001,
+        "WC": 0.5,
+        "Water Rate": 1328.5,
         "on": 1
     },
     "Ru-256":
     {
         "ESP": "NVM",
-        "Fluid Rate": 3213,
+        "Fluid Rate": 3175,
         "Genset": "Perkins",
-        "Oil rate": 1156.68,
+        "Oil rate": 1143,
         "Station": "Ratqa",
         "VSD": "BHI",
         "WC": 0.64,
-        "Water Rate": 2056.3199999999997,
+        "Water Rate": 2032,
         "on": 0
     },
     "Ru-252":
@@ -937,25 +941,25 @@
     "Ru-248":
     {
         "ESP": "NVM",
-        "Fluid Rate": 5025,
+        "Fluid Rate": 5821,
         "Genset": "Perkins",
-        "Oil rate": 552.7499999999999,
+        "Oil rate": 523.8899999999999,
         "Station": "Markazia",
         "VSD": "NVM",
-        "WC": 0.89,
-        "Water Rate": 4472.25,
+        "WC": 0.91,
+        "Water Rate": 5297.110000000001,
         "on": 1
     },
     "Ru-239":
     {
         "ESP": "NVM",
-        "Fluid Rate": 5074,
+        "Fluid Rate": 4598,
         "Genset": "Perkins",
-        "Oil rate": 1217.76,
+        "Oil rate": 1057.54,
         "Station": "Janubia",
         "VSD": "NVM",
-        "WC": 0.76,
-        "Water Rate": 3856.24,
+        "WC": 0.77,
+        "Water Rate": 3540.46,
         "on": 1
     },
     "Ru-237":
@@ -973,44 +977,44 @@
     "Ru-232z":
     {
         "ESP": "NVM",
-        "Fluid Rate": 5085,
+        "Fluid Rate": 4809,
         "Genset": "Perkins",
-        "Oil rate": 1067.85,
+        "Oil rate": 1586.9699999999998,
         "Station": "Markazia",
         "VSD": "BKR",
-        "WC": 0.79,
-        "Water Rate": 4017.15,
+        "WC": 0.67,
+        "Water Rate": 3222.03,
         "on": 1
     },
     "Ru-227":
     {
         "ESP": "NVM",
-        "Fluid Rate": 6188,
-        "Genset": "Caterpillar",
-        "Oil rate": 866.32,
+        "Fluid Rate": 5860,
+        "Genset": "CAT",
+        "Oil rate": 703.1999999999999,
         "Station": "Markazia",
         "VSD": "NVM",
-        "WC": 0.86,
-        "Water Rate": 5321.68,
+        "WC": 0.88,
+        "Water Rate": 5156.8,
         "on": 1
     },
     "Ru-226":
     {
         "ESP": "NVM",
-        "Fluid Rate": 3861,
+        "Fluid Rate": 4675,
         "Genset": "Perkins",
-        "Oil rate": 1853.28,
+        "Oil rate": 1916.7500000000002,
         "Station": "Markazia",
         "VSD": "BHI",
-        "WC": 0.52,
-        "Water Rate": 2007.72,
+        "WC": 0.59,
+        "Water Rate": 2758.25,
         "on": 1
     },
     "Ru-224":
     {
         "ESP": "BHI",
-        "Fluid Rate": 1982,
-        "Oil rate": 1982,
+        "Fluid Rate": 1924,
+        "Oil rate": 1924,
         "Station": "Markazia",
         "VSD": "BHI",
         "WC": 0,
@@ -1032,33 +1036,33 @@
     "Ru-220":
     {
         "ESP": "NVM",
-        "Fluid Rate": 3611,
+        "Fluid Rate": 2329,
         "Genset": "Perkins",
-        "Oil rate": 2888.8,
+        "Oil rate": 2142.6800000000003,
         "Station": "Ratqa",
         "VSD": "NVM",
-        "WC": 0.2,
-        "Water Rate": 722.1999999999998,
+        "WC": 0.08,
+        "Water Rate": 186.3199999999997,
         "on": 1
     },
     "Ru-219":
     {
         "ESP": "NVM",
-        "Fluid Rate": 1602,
+        "Fluid Rate": 1993,
         "Genset": "Perkins",
-        "Oil rate": 1297.6200000000001,
+        "Oil rate": 1335.31,
         "Station": "Ratqa",
         "VSD": "NVM",
-        "WC": 0.19,
-        "Water Rate": 304.3799999999999,
+        "WC": 0.33,
+        "Water Rate": 657.69,
         "on": 1
     },
     "Ru-218":
     {
         "ESP": "NVM",
-        "Fluid Rate": 1711,
+        "Fluid Rate": 1805,
         "Genset": "Perkins",
-        "Oil rate": 1711,
+        "Oil rate": 1805,
         "Station": "Ratqa",
         "VSD": "NVM",
         "WC": 0,
@@ -1068,32 +1072,31 @@
     "Ru-215":
     {
         "ESP": "NVM",
-        "Fluid Rate": 2236,
+        "Fluid Rate": 1727,
         "Genset": "Perkins",
-        "Oil rate": 2236,
+        "Oil rate": 1692.46,
         "Station": "Ratqa",
         "VSD": "NVM",
-        "WC": 0,
-        "Water Rate": 0,
+        "WC": 0.02,
+        "Water Rate": 34.539999999999964,
         "on": 1
     },
     "Ru-214":
     {
         "ESP": "NVM",
-        "Fluid Rate": 1383,
+        "Fluid Rate": 1024,
         "Genset": "Perkins",
-        "Oil rate": 1355.34,
+        "Oil rate": 972.8,
         "Station": "Ratqa",
         "VSD": "NVM",
-        "WC": 0.02,
-        "Water Rate": 27.660000000000082,
+        "WC": 0.05,
+        "Water Rate": 51.200000000000045,
         "on": 1
     },
     "Ru-212":
     {
         "ESP": "NVM",
         "Fluid Rate": 3211,
-        "Genset": "Caterpillar",
         "Oil rate": 2087.15,
         "Station": "Ratqa",
         "VSD": "NVM",
@@ -1116,25 +1119,25 @@
     "Ru-206":
     {
         "ESP": "NVM",
-        "Fluid Rate": 3017,
+        "Fluid Rate": 3701,
         "Genset": "Perkins",
-        "Oil rate": 3017,
+        "Oil rate": 3663.99,
         "Station": "Shamiya",
         "VSD": "NVM",
-        "WC": 0,
-        "Water Rate": 0,
+        "WC": 0.01,
+        "Water Rate": 37.01000000000022,
         "on": 1
     },
     "Ru-205":
     {
         "ESP": "BHI",
-        "Fluid Rate": 5919,
+        "Fluid Rate": 5503,
         "Genset": "Perkins",
-        "Oil rate": 5919,
+        "Oil rate": 5447.97,
         "Station": "Janubia",
         "VSD": "NVM",
-        "WC": 0,
-        "Water Rate": 0,
+        "WC": 0.01,
+        "Water Rate": 55.029999999999745,
         "on": 1
     },
     "Ru-204":
@@ -1151,9 +1154,9 @@
     "Ru-203":
     {
         "ESP": "NVM",
-        "Fluid Rate": 2211,
+        "Fluid Rate": 2089,
         "Genset": "Perkins",
-        "Oil rate": 2211,
+        "Oil rate": 2089,
         "Station": "Ratqa",
         "VSD": "NVM",
         "WC": 0,
@@ -1163,36 +1166,36 @@
     "Ru-192":
     {
         "ESP": "APC",
-        "Fluid Rate": 1935,
-        "Oil rate": 1896.3,
+        "Fluid Rate": 2102,
+        "Oil rate": 2038.94,
         "Station": "M.Shamya",
         "VSD": "APC",
-        "WC": 0.02,
-        "Water Rate": 38.700000000000045,
+        "WC": 0.03,
+        "Water Rate": 63.059999999999945,
         "on": 0
     },
     "Ru-185":
     {
         "ESP": "BHI",
-        "Fluid Rate": 4130,
+        "Fluid Rate": 5292,
         "Genset": "Perkins",
-        "Oil rate": 3473.33,
+        "Oil rate": 4921.5599999999995,
         "Station": "Qurainat",
         "VSD": "NVM",
-        "WC": 0.159,
-        "Water Rate": 656.6700000000001,
+        "WC": 0.07,
+        "Water Rate": 370.4400000000005,
         "on": 1
     },
     "Ru-172":
     {
         "ESP": "BHI",
-        "Fluid Rate": 4304,
+        "Fluid Rate": 3698,
         "Genset": "Perkins",
-        "Oil rate": 654.2080000000001,
+        "Oil rate": 332.8199999999999,
         "Station": "Qurainat",
         "VSD": "BKR",
-        "WC": 0.848,
-        "Water Rate": 3649.792,
+        "WC": 0.91,
+        "Water Rate": 3365.1800000000003,
         "on": 1
     },
     "Ru-167":
@@ -1201,14 +1204,13 @@
         "Genset": "Perkins",
         "Station": "Qurainat",
         "VSD": "BKR",
-        "WC": "",
+        "WC": 0,
         "on": 0
     },
     "Ru-166":
     {
         "ESP": "NVM",
         "Fluid Rate": 2050,
-        "Genset": "Perkins",
         "Oil rate": 1947.5,
         "Station": "Janubia",
         "VSD": "BHI",
@@ -1220,7 +1222,6 @@
     {
         "ESP": "BHI",
         "Fluid Rate": 1480,
-        "Genset": "Perkins",
         "Oil rate": 1475.56,
         "Station": "Markazia",
         "VSD": "-",
@@ -1231,21 +1232,21 @@
     "Ru-163":
     {
         "ESP": "BHI",
-        "Fluid Rate": 6790,
+        "Fluid Rate": 6855,
         "Genset": "Perkins",
-        "Oil rate": 2172.7999999999997,
+        "Oil rate": 1850.8500000000001,
         "Station": "Janubia",
         "VSD": "NVM",
-        "WC": 0.68,
-        "Water Rate": 4617.200000000001,
+        "WC": 0.73,
+        "Water Rate": 5004.15,
         "on": 1
     },
     "Ru-162z":
     {
         "ESP": "NVM",
-        "Fluid Rate": 1836,
+        "Fluid Rate": 1572,
         "Genset": "Perkins",
-        "Oil rate": 1836,
+        "Oil rate": 1572,
         "Station": "Markazia",
         "VSD": "BHI",
         "WC": 0,
@@ -1259,7 +1260,6 @@
         "Genset": "Perkins",
         "Oil rate": 4895.16,
         "Station": "Shamiya",
-        "VSD": "NVM",
         "WC": 0.24,
         "Water Rate": 1545.8400000000001,
         "on": 0
@@ -1267,13 +1267,13 @@
     "Ru-157":
     {
         "ESP": "BHI",
-        "Fluid Rate": 4042,
+        "Fluid Rate": 3038,
         "Genset": "Perkins",
-        "Oil rate": 3880.3199999999997,
+        "Oil rate": 2886.1,
         "Station": "Markazia",
         "VSD": "NVM",
-        "WC": 0.04,
-        "Water Rate": 161.6800000000003,
+        "WC": 0.05,
+        "Water Rate": 151.9000000000001,
         "on": 1
     },
     "Ru-151a":
@@ -1293,13 +1293,13 @@
     "Ru-149":
     {
         "ESP": "NVM",
-        "Fluid Rate": 6238,
+        "Fluid Rate": 5504,
         "Genset": "Perkins",
-        "Oil rate": 1185.2199999999996,
+        "Oil rate": 880.6400000000002,
         "Station": "Shamiya",
         "VSD": "NVM",
-        "WC": 0.81,
-        "Water Rate": 5052.780000000001,
+        "WC": 0.84,
+        "Water Rate": 4623.36,
         "on": 1
     },
     "Ru-148z":
@@ -1316,25 +1316,25 @@
     "Ru-141":
     {
         "ESP": "NVM",
-        "Fluid Rate": 6385,
+        "Fluid Rate": 7298,
         "Genset": "Perkins",
-        "Oil rate": 1085.4500000000003,
+        "Oil rate": 1167.6800000000003,
         "Station": "Markazia",
         "VSD": "NVM",
-        "WC": 0.83,
-        "Water Rate": 5299.549999999999,
+        "WC": 0.84,
+        "Water Rate": 6130.32,
         "on": 1
     },
     "Ru-140":
     {
         "ESP": "NVM",
-        "Fluid Rate": 5868,
+        "Fluid Rate": 5642,
         "Genset": "Perkins",
-        "Oil rate": 3696.84,
+        "Oil rate": 3498.04,
         "Station": "Qurainat",
         "VSD": "NVM",
-        "WC": 0.37,
-        "Water Rate": 2171.16,
+        "WC": 0.38,
+        "Water Rate": 2143.96,
         "on": 1
     },
     "Ru-138b":
@@ -1352,13 +1352,13 @@
     "Ru-138":
     {
         "ESP": "BHI",
-        "Fluid Rate": 4221,
+        "Fluid Rate": 3859,
         "Genset": "Perkins",
-        "Oil rate": 1004.598,
+        "Oil rate": 964.75,
         "Station": "Markazia",
         "VSD": "BKR",
-        "WC": 0.762,
-        "Water Rate": 3216.402,
+        "WC": 0.75,
+        "Water Rate": 2894.25,
         "on": 1
     },
     "Ru-134":
@@ -1376,13 +1376,13 @@
     "Ru-127":
     {
         "ESP": "BHI",
-        "Fluid Rate": 5896,
+        "Fluid Rate": 5026,
         "Genset": "Perkins",
-        "Oil rate": 5542.24,
+        "Oil rate": 4774.7,
         "Station": "Shamiya",
         "VSD": "NVM",
-        "WC": 0.06,
-        "Water Rate": 353.7600000000002,
+        "WC": 0.05,
+        "Water Rate": 251.30000000000018,
         "on": 1
     },
     "Ru-126":
@@ -1395,13 +1395,13 @@
     "Ru-121":
     {
         "ESP": "NVM",
-        "Fluid Rate": 2342,
-        "Genset": "Caterpillar",
-        "Oil rate": 936.8000000000001,
+        "Fluid Rate": 2245,
+        "Genset": "CAT",
+        "Oil rate": 853.1,
         "Station": "Markazia",
         "VSD": "NVM",
-        "WC": 0.6,
-        "Water Rate": 1405.1999999999998,
+        "WC": 0.62,
+        "Water Rate": 1391.9,
         "on": 1
     },
     "Ru-119":
@@ -1419,45 +1419,45 @@
     "Ru-116":
     {
         "ESP": "NVM",
-        "Fluid Rate": 1625,
+        "Fluid Rate": 2136,
         "Genset": "Perkins",
-        "Oil rate": 1462.5,
+        "Oil rate": 2136,
         "Station": "Markazia",
         "VSD": "NVM",
-        "WC": 0.1,
-        "Water Rate": 162.5,
+        "WC": 0,
+        "Water Rate": 0,
         "on": 1
     },
     "Ru-115":
     {
         "ESP": "NVM",
-        "Fluid Rate": 5895,
+        "Fluid Rate": 6997,
         "Genset": "Perkins",
-        "Oil rate": 3301.2000000000003,
+        "Oil rate": 3498.5,
         "Station": "Qurainat",
         "VSD": "NVM",
-        "WC": 0.44,
-        "Water Rate": 2593.7999999999997,
+        "WC": 0.5,
+        "Water Rate": 3498.5,
         "on": 1
     },
     "Ru-112":
     {
         "ESP": "NVM",
-        "Fluid Rate": 4073,
+        "Fluid Rate": 2962,
         "Genset": "Perkins",
-        "Oil rate": 3624.9700000000003,
+        "Oil rate": 2636.18,
         "Station": "Shamiya",
         "VSD": "BHI",
         "WC": 0.11,
-        "Water Rate": 448.02999999999975,
+        "Water Rate": 325.82000000000016,
         "on": 1
     },
     "Ru-109":
     {
         "ESP": "NVM",
-        "Fluid Rate": 1807,
+        "Fluid Rate": 1833,
         "Genset": "Perkins",
-        "Oil rate": 1807,
+        "Oil rate": 1833,
         "Station": "Shamiya",
         "VSD": "BHI",
         "WC": 0,
@@ -1478,21 +1478,21 @@
     "Ru-101":
     {
         "ESP": "NVM",
-        "Fluid Rate": 2432,
+        "Fluid Rate": 2563,
         "Genset": "Perkins",
-        "Oil rate": 2334.72,
+        "Oil rate": 2563,
         "Station": "Shamiya",
         "VSD": "BHI",
-        "WC": 0.04,
-        "Water Rate": 97.2800000000002,
+        "WC": 0,
+        "Water Rate": 0,
         "on": 1
     },
     "Ru-100":
     {
         "ESP": "APC",
-        "Fluid Rate": 3184,
+        "Fluid Rate": 2145,
         "Genset": "Perkins",
-        "Oil rate": 3184,
+        "Oil rate": 2145,
         "Station": "Shamiya",
         "VSD": "NVM",
         "WC": 0,
@@ -1502,21 +1502,21 @@
     "Ru-097":
     {
         "ESP": "NVM",
-        "Fluid Rate": 3386,
+        "Fluid Rate": 3609,
         "Genset": "Perkins",
-        "Oil rate": 1591.4199999999998,
+        "Oil rate": 1190.9699999999998,
         "Station": "Qurainat",
         "VSD": "NVM",
-        "WC": 0.53,
-        "Water Rate": 1794.5800000000002,
+        "WC": 0.67,
+        "Water Rate": 2418.03,
         "on": 1
     },
     "Ru-096":
     {
         "ESP": "NVM",
-        "Fluid Rate": 2499,
+        "Fluid Rate": 2399,
         "Genset": "Perkins",
-        "Oil rate": 2499,
+        "Oil rate": 2399,
         "Station": "Markazia",
         "VSD": "NVM",
         "WC": 0,
@@ -1526,13 +1526,13 @@
     "Ru-094":
     {
         "ESP": "BHI",
-        "Fluid Rate": 7406,
+        "Fluid Rate": 7440,
         "Genset": "Perkins",
-        "Oil rate": 3851.1200000000003,
+        "Oil rate": 4315.200000000001,
         "Station": "Markazia",
         "VSD": "NVM",
-        "WC": 0.48,
-        "Water Rate": 3554.8799999999997,
+        "WC": 0.42,
+        "Water Rate": 3124.7999999999993,
         "on": 1
     },
     "Ru-093":
@@ -1550,49 +1550,45 @@
     "Ru-092":
     {
         "ESP": "NVM",
-        "Fluid Rate": 4703,
+        "Fluid Rate": 5141,
         "Genset": "Perkins",
-        "Oil rate": 1354.4640000000002,
+        "Oil rate": 1439.4800000000002,
         "Station": "Qurainat",
         "VSD": "NVM",
-        "WC": 0.712,
-        "Water Rate": 3348.536,
+        "WC": 0.72,
+        "Water Rate": 3701.5199999999995,
         "on": 1
     },
     "Ru-090":
     {
         "ESP": "BHI",
-        "Fluid Rate": 5197,
+        "Fluid Rate": 4764,
         "Genset": "Perkins",
-        "Oil rate": 867.8990000000002,
+        "Oil rate": 619.32,
         "Station": "Markazia",
         "VSD": "BKR",
-        "WC": 0.833,
-        "Water Rate": 4329.101,
+        "WC": 0.87,
+        "Water Rate": 4144.68,
         "on": 1
     },
     "Ru-089":
     {
         "ESP": "BHI",
-        "Fluid Rate": 2727,
+        "Fluid Rate": 2746,
         "Genset": "Perkins",
-        "Oil rate": 1145.3400000000001,
+        "Oil rate": 1153.3200000000002,
         "Station": "Janubia",
         "VSD": "BHI",
         "WC": 0.58,
-        "Water Rate": 1581.6599999999999,
+        "Water Rate": 1592.6799999999998,
         "on": 0
     },
     "Ru-086":
     {
-        "ESP": "#N/A",
-        "Fluid Rate": "#N/A",
-        "Genset": "Jinan",
-        "Oil rate": "#N/A",
+        "ESP": "BHI",
         "Station": "Qurainat",
         "VSD": "BHI",
-        "WC": "#N/A",
-        "Water Rate": "#N/A",
+        "WC": 0,
         "on": 0
     },
     "Ru-082":
@@ -1609,33 +1605,33 @@
     "Ru-081":
     {
         "ESP": "NVM",
-        "Fluid Rate": 6150,
+        "Fluid Rate": 5968,
         "Genset": "Perkins",
-        "Oil rate": 4920,
+        "Oil rate": 4476,
         "Station": "Markazia",
         "VSD": "NVM",
-        "WC": 0.2,
-        "Water Rate": 1230,
+        "WC": 0.25,
+        "Water Rate": 1492,
         "on": 1
     },
     "Ru-076":
     {
         "ESP": "NVM",
-        "Fluid Rate": 7118,
+        "Fluid Rate": 7101,
         "Genset": "Perkins",
-        "Oil rate": 4349.098,
+        "Oil rate": 4402.62,
         "Station": "Qurainat",
         "VSD": "BHI",
-        "WC": 0.389,
-        "Water Rate": 2768.902,
+        "WC": 0.38,
+        "Water Rate": 2698.38,
         "on": 1
     },
     "Ru-075":
     {
         "ESP": "NVM",
-        "Fluid Rate": 1841,
+        "Fluid Rate": 2124,
         "Genset": "Perkins",
-        "Oil rate": 1841,
+        "Oil rate": 2124,
         "Station": "Markazia",
         "VSD": "NVM",
         "WC": 0,
@@ -1645,13 +1641,13 @@
     "Ru-073z":
     {
         "ESP": "NVM",
-        "Fluid Rate": 4670,
+        "Fluid Rate": 5016,
         "Genset": "Perkins",
-        "Oil rate": 1260.9,
+        "Oil rate": 1304.16,
         "Station": "Shamiya",
         "VSD": "NVM",
-        "WC": 0.73,
-        "Water Rate": 3409.1,
+        "WC": 0.74,
+        "Water Rate": 3711.84,
         "on": 1
     },
     "Ru-071":
@@ -1668,21 +1664,21 @@
     "Ru-069":
     {
         "ESP": "NVM",
-        "Fluid Rate": 5434,
+        "Fluid Rate": 5443,
         "Genset": "Perkins",
-        "Oil rate": 3586.4399999999996,
+        "Oil rate": 3156.9400000000005,
         "Station": "M.Shamya",
         "VSD": "NVM",
-        "WC": 0.34,
-        "Water Rate": 1847.5600000000004,
+        "WC": 0.42,
+        "Water Rate": 2286.0599999999995,
         "on": 1
     },
     "Ru-064":
     {
         "ESP": "APC",
-        "Fluid Rate": 2543,
+        "Fluid Rate": 2426,
         "Genset": "Perkins",
-        "Oil rate": 2543,
+        "Oil rate": 2426,
         "Station": "Ratqa",
         "VSD": "APC",
         "WC": 0,
@@ -1692,29 +1688,31 @@
     "Ru-063":
     {
         "ESP": "BHI",
+        "Fluid Rate": 4151,
         "Genset": "Perkins",
+        "Oil rate": 2075.5,
         "Station": "Markazia",
         "VSD": "NVM",
-        "WC": "",
+        "WC": 0.5,
+        "Water Rate": 2075.5,
         "on": 1
     },
     "Ru-062":
     {
         "ESP": "NVM",
-        "Fluid Rate": 2114,
+        "Fluid Rate": 1473,
         "Genset": "Perkins",
-        "Oil rate": 1374.1000000000001,
+        "Oil rate": 1060.56,
         "Station": "Markazia",
         "VSD": "NVM",
-        "WC": 0.35,
-        "Water Rate": 739.8999999999999,
+        "WC": 0.28,
+        "Water Rate": 412.44000000000005,
         "on": 0
     },
     "Ru-060":
     {
         "ESP": "BHI",
         "Fluid Rate": 6871,
-        "Genset": "Perkins",
         "Oil rate": 480.9699999999997,
         "Station": "Shamiya",
         "VSD": "BHI",
@@ -1735,26 +1733,23 @@
     },
     "Ru-058":
     {
-        "ESP": "NVM",
-        "Fluid Rate": 4062,
+        "ESP": "BHI",
         "Genset": "Perkins",
-        "Oil rate": 1746.6600000000003,
         "Station": "Qurainat",
         "VSD": "NVM",
-        "WC": 0.57,
-        "Water Rate": 2315.3399999999997,
+        "WC": 0,
         "on": 0
     },
     "Ru-057":
     {
         "ESP": "NVM",
-        "Fluid Rate": 2552,
+        "Fluid Rate": 1855,
         "Genset": "Perkins",
-        "Oil rate": 255.19999999999993,
+        "Oil rate": 166.94999999999993,
         "Station": "Janubia",
         "VSD": "NVM",
-        "WC": 0.9,
-        "Water Rate": 2296.8,
+        "WC": 0.91,
+        "Water Rate": 1688.0500000000002,
         "on": 1
     },
     "Ru-056":
@@ -1766,36 +1761,36 @@
     "Ru-054z":
     {
         "ESP": "NVM",
-        "Fluid Rate": 4442,
+        "Fluid Rate": 3083,
         "Genset": "Perkins",
-        "Oil rate": 2487.5200000000004,
+        "Oil rate": 1633.99,
         "Station": "Qurainat",
         "VSD": "NVM",
-        "WC": 0.44,
-        "Water Rate": 1954.4799999999996,
+        "WC": 0.47,
+        "Water Rate": 1449.01,
         "on": 1
     },
     "Ru-053":
     {
         "ESP": "APC",
-        "Fluid Rate": 3071,
+        "Fluid Rate": 2366,
         "Genset": "Perkins",
-        "Oil rate": 3071,
+        "Oil rate": 2318.68,
         "Station": "Shamiya",
         "VSD": "BHI",
-        "WC": 0,
-        "Water Rate": 0,
+        "WC": 0.02,
+        "Water Rate": 47.320000000000164,
         "on": 1
     },
     "Ru-052":
     {
         "ESP": "NVM",
-        "Fluid Rate": 6087,
-        "Oil rate": 4808.7300000000005,
+        "Fluid Rate": 5995,
+        "Oil rate": 4616.150000000001,
         "Station": "Markazia",
         "VSD": "-",
-        "WC": 0.21,
-        "Water Rate": 1278.2699999999995,
+        "WC": 0.23,
+        "Water Rate": 1378.8499999999995,
         "on": 0
     },
     "Ru-051":
@@ -1813,21 +1808,21 @@
     "Ru-049":
     {
         "ESP": "BHI",
-        "Fluid Rate": 4242,
+        "Fluid Rate": 4500,
         "Genset": "Perkins",
-        "Oil rate": 1035.048,
+        "Oil rate": 854.9999999999998,
         "Station": "Janubia",
         "VSD": "NVM",
-        "WC": 0.756,
-        "Water Rate": 3206.952,
+        "WC": 0.81,
+        "Water Rate": 3645,
         "on": 0
     },
     "Ru-048":
     {
         "ESP": "NVM",
-        "Fluid Rate": 3958,
+        "Fluid Rate": 4588,
         "Genset": "Perkins",
-        "Oil rate": 3958,
+        "Oil rate": 4588,
         "Station": "Qurainat",
         "VSD": "NVM",
         "WC": 0,
@@ -1837,13 +1832,13 @@
     "Ru-047a":
     {
         "ESP": "BHI",
-        "Fluid Rate": 3549,
+        "Fluid Rate": 3856,
         "Genset": "Perkins",
-        "Oil rate": 1036.3080000000002,
+        "Oil rate": 964,
         "Station": "Qurainat",
         "VSD": "NVM",
-        "WC": 0.708,
-        "Water Rate": 2512.692,
+        "WC": 0.75,
+        "Water Rate": 2892,
         "on": 1
     },
     "Ru-047":
@@ -1872,9 +1867,9 @@
     "Ru-044":
     {
         "ESP": "NVM",
-        "Fluid Rate": 1832,
+        "Fluid Rate": 1363,
         "Genset": "Perkins",
-        "Oil rate": 1832,
+        "Oil rate": 1363,
         "Station": "Markazia",
         "VSD": "NVM",
         "WC": 0,
@@ -1884,13 +1879,12 @@
     "Ru-043":
     {
         "ESP": "NVM",
-        "Fluid Rate": 3486,
-        "Genset": "Perkins",
-        "Oil rate": 1045.8000000000002,
+        "Fluid Rate": 2162,
+        "Oil rate": 821.5600000000001,
         "Station": "Qurainat",
         "VSD": "NVM",
-        "WC": 0.7,
-        "Water Rate": 2440.2,
+        "WC": 0.62,
+        "Water Rate": 1340.44,
         "on": 0
     },
     "Ru-041":
@@ -1911,19 +1905,19 @@
         "Genset": "Perkins",
         "Station": "Janubia",
         "VSD": "NVM",
-        "WC": "",
+        "WC": 0,
         "on": 1
     },
     "Ru-032":
     {
         "ESP": "NVM",
-        "Fluid Rate": 4532,
+        "Fluid Rate": 3483,
         "Genset": "Perkins",
-        "Oil rate": 4532,
+        "Oil rate": 3472.55099958204,
         "Station": "Qurainat",
         "VSD": "NVM",
-        "WC": 0,
-        "Water Rate": 0,
+        "WC": 0.00300000012,
+        "Water Rate": 10.449000417960178,
         "on": 1
     },
     "Ru-030":
@@ -1940,37 +1934,37 @@
     "Ru-026":
     {
         "ESP": "NVM",
-        "Fluid Rate": 4568,
+        "Fluid Rate": 4011,
         "Genset": "Perkins",
-        "Oil rate": 2055.6,
+        "Oil rate": 1484.07,
         "Station": "Janubia",
         "VSD": "NVM",
-        "WC": 0.55,
-        "Water Rate": 2512.4,
+        "WC": 0.63,
+        "Water Rate": 2526.9300000000003,
         "on": 1
     },
     "Ru-024":
     {
         "ESP": "NVM",
-        "Fluid Rate": 2436,
+        "Fluid Rate": 2792,
         "Genset": "Perkins",
-        "Oil rate": 925.6800000000001,
+        "Oil rate": 893.4399999999998,
         "Station": "Shamiya",
         "VSD": "NVM",
-        "WC": 0.62,
-        "Water Rate": 1510.32,
+        "WC": 0.68,
+        "Water Rate": 1898.5600000000002,
         "on": 1
     },
     "Ru-023":
     {
         "ESP": "NVM",
-        "Fluid Rate": 1165,
+        "Fluid Rate": 1174,
         "Genset": "Perkins",
-        "Oil rate": 1165,
+        "Oil rate": 1162.26,
         "Station": "Shamiya",
         "VSD": "NVM",
-        "WC": 0,
-        "Water Rate": 0,
+        "WC": 0.01,
+        "Water Rate": 11.740000000000009,
         "on": 1
     },
     "Ru-022":
@@ -1987,25 +1981,25 @@
     "Ru-018a":
     {
         "ESP": "BHI",
-        "Fluid Rate": 7309,
+        "Fluid Rate": 7809,
         "Genset": "Perkins",
-        "Oil rate": 4750.85,
+        "Oil rate": 7809,
         "Station": "Markazia",
         "VSD": "BKR",
-        "WC": 0.35,
-        "Water Rate": 2558.1499999999996,
+        "WC": 0,
+        "Water Rate": 0,
         "on": 1
     },
     "Ru-017":
     {
         "ESP": "NVM",
-        "Fluid Rate": 7003,
+        "Fluid Rate": 6799,
         "Genset": "Perkins",
-        "Oil rate": 1960.8400000000001,
+        "Oil rate": 1903.7200000000003,
         "Station": "Markazia",
         "VSD": "NVM",
         "WC": 0.72,
-        "Water Rate": 5042.16,
+        "Water Rate": 4895.28,
         "on": 1
     },
     "Ru-012":
@@ -2023,13 +2017,13 @@
     "Ru-009":
     {
         "ESP": "NVM",
-        "Fluid Rate": 2722,
-        "Genset": "Caterpillar",
-        "Oil rate": 2722,
+        "Fluid Rate": 2655,
+        "Genset": "CAT",
+        "Oil rate": 2548.7999999999997,
         "Station": "Janubia",
         "VSD": "NVM",
-        "WC": 0,
-        "Water Rate": 0,
+        "WC": 0.04,
+        "Water Rate": 106.20000000000027,
         "on": 1
     },
     "Ru-007":
@@ -2046,13 +2040,13 @@
     "Ru-004":
     {
         "ESP": "NVM",
-        "Fluid Rate": 2920,
+        "Fluid Rate": 2922,
         "Genset": "Perkins",
-        "Oil rate": 379.6,
+        "Oil rate": 262.9799999999999,
         "Station": "Janubia",
         "VSD": "NVM",
-        "WC": 0.87,
-        "Water Rate": 2540.4,
+        "WC": 0.91,
+        "Water Rate": 2659.02,
         "on": 1
     },
     "R-676":
@@ -2071,7 +2065,6 @@
     {
         "ESP": "NVM",
         "Fluid Rate": 2331,
-        "Genset": "Perkins",
         "Oil rate": 1794.8700000000001,
         "Station": "DS5",
         "VSD": "NVM",
@@ -2082,49 +2075,49 @@
     "R-669":
     {
         "ESP": "NVM",
-        "Fluid Rate": 3131,
+        "Fluid Rate": 2807,
         "Genset": "Perkins",
-        "Oil rate": 1346.3300000000002,
+        "Oil rate": 1207.0100000000002,
         "Station": "DS3",
         "VSD": "NVM",
         "WC": 0.57,
-        "Water Rate": 1784.6699999999998,
+        "Water Rate": 1599.9899999999998,
         "on": 0
     },
     "R-656":
     {
         "ESP": "NVM",
-        "Fluid Rate": 4747,
+        "Fluid Rate": 4758,
         "Genset": "Perkins",
-        "Oil rate": 1519.0399999999997,
+        "Oil rate": 1508.2859999999998,
         "Station": "DS5",
         "VSD": "NVM",
-        "WC": 0.68,
-        "Water Rate": 3227.96,
+        "WC": 0.683,
+        "Water Rate": 3249.714,
         "on": 0
     },
     "R-654":
     {
         "ESP": "NVM",
-        "Fluid Rate": 2737,
+        "Fluid Rate": 2756,
         "Genset": "Perkins",
-        "Oil rate": 1259.02,
+        "Oil rate": 1212.6399999999999,
         "Station": "DS4",
         "VSD": "NVM",
-        "WC": 0.54,
-        "Water Rate": 1477.98,
+        "WC": 0.56,
+        "Water Rate": 1543.3600000000001,
         "on": 0
     },
     "R-653":
     {
         "ESP": "NVM",
-        "Fluid Rate": 3013,
+        "Fluid Rate": 3024,
         "Genset": "Perkins",
-        "Oil rate": 1852.995,
+        "Oil rate": 1611.7919999999997,
         "Station": "DS5",
         "VSD": "NVM",
-        "WC": 0.385,
-        "Water Rate": 1160.005,
+        "WC": 0.467,
+        "Water Rate": 1412.2080000000003,
         "on": 0
     },
     "R-646":
@@ -2142,97 +2135,97 @@
     "R-644":
     {
         "ESP": "NVM",
-        "Fluid Rate": 2748,
+        "Fluid Rate": 2826,
         "Genset": "Perkins",
-        "Oil rate": 2198.4,
+        "Oil rate": 2209.9320000000002,
         "Station": "DS2",
         "VSD": "NVM",
-        "WC": 0.2,
-        "Water Rate": 549.5999999999999,
+        "WC": 0.218,
+        "Water Rate": 616.0679999999998,
         "on": 0
     },
     "R-640":
     {
         "ESP": "BHI",
-        "Fluid Rate": 5040,
-        "Genset": "Caterpillar",
-        "Oil rate": 1612.7999999999997,
+        "Fluid Rate": 5014,
+        "Genset": "CAT",
+        "Oil rate": 1514.2280000000003,
         "Station": "DS5",
         "VSD": "BHI",
-        "WC": 0.68,
-        "Water Rate": 3427.2000000000003,
+        "WC": 0.698,
+        "Water Rate": 3499.772,
         "on": 0
     },
     "R-611":
     {
         "ESP": "NVM",
-        "Fluid Rate": 7659,
+        "Fluid Rate": 7391,
         "Genset": "Perkins",
-        "Oil rate": 3101.895,
+        "Oil rate": 2978.5730000000003,
         "Station": "DS3",
         "VSD": "NVM",
-        "WC": 0.595,
-        "Water Rate": 4557.105,
+        "WC": 0.597,
+        "Water Rate": 4412.427,
         "on": 0
     },
     "R-609":
     {
         "ESP": "NVM",
-        "Fluid Rate": 4878,
+        "Fluid Rate": 4969,
         "Genset": "Perkins",
-        "Oil rate": 1853.64,
+        "Oil rate": 1888.22,
         "Station": "DS2",
         "VSD": "BHI",
         "WC": 0.62,
-        "Water Rate": 3024.3599999999997,
+        "Water Rate": 3080.7799999999997,
         "on": 0
     },
     "R-606":
     {
-        "ESP": "null",
-        "Fluid Rate": 0,
-        "Genset": "null",
-        "Oil rate": 0,
+        "ESP": "NVM",
+        "Fluid Rate": 4285,
+        "Genset": "Perkins",
+        "Oil rate": 4285,
         "Station": "DS4",
-        "VSD": "BHI",
+        "VSD": "BKR",
         "WC": 0,
         "Water Rate": 0,
         "on": 1
     },
     "R-605":
     {
-        "ESP": "null",
-        "Fluid Rate": 0,
-        "Genset": "null",
-        "Oil rate": 0,
+        "ESP": "NVM",
+        "Fluid Rate": 4897,
+        "Genset": "Perkins",
+        "Oil rate": 1518.0700000000002,
         "Station": "DS4",
-        "VSD": "BHI",
-        "WC": 0,
-        "Water Rate": 0,
+        "VSD": "BKR",
+        "WC": 0.69,
+        "Water Rate": 3378.93,
         "on": 1
     },
     "R-590":
     {
         "ESP": "NVM",
-        "Fluid Rate": 5171,
+        "Fluid Rate": 5184,
         "Genset": "Perkins",
-        "Oil rate": 2430.37,
+        "Oil rate": 2436.48,
         "Station": "DS3",
         "VSD": "NVM",
         "WC": 0.53,
-        "Water Rate": 2740.63,
+        "Water Rate": 2747.52,
         "on": 0
     },
     "R-588":
     {
         "ESP": "NVM",
-        "Fluid Rate": 0,
-        "Genset": "",
-        "Oil rate": 0,
+        "Fluid Rate": 7334,
+        "Genset": "Perkins",
+        "Oil rate": 3593.66,
         "Station": "DS3",
-        "VSD": "NVM",
-        "WC": 0,
-        "Water Rate": 0,
+        "VSD": "BKR",
+        "WC": 0.51,
+        "Water Rate": 3740.34,
         "on": 1
     },
     "R-581":
@@ -2265,109 +2258,108 @@
     "R-569z":
     {
         "ESP": "NVM",
-        "Fluid Rate": 2278,
+        "Fluid Rate": 2645,
         "Genset": "Perkins",
-        "Oil rate": 615.0600000000001,
+        "Oil rate": 714.1500000000001,
         "Station": "DS2",
         "VSD": "NVM",
         "WC": 0.73,
-        "Water Rate": 1662.94,
+        "Water Rate": 1930.85,
         "on": 0
     },
     "R-564":
     {
         "ESP": "BHI",
-        "Fluid Rate": 4207,
+        "Fluid Rate": 4202,
         "Genset": "Perkins",
-        "Oil rate": 1051.75,
+        "Oil rate": 1163.9540000000002,
         "Station": "DS5",
         "VSD": "NVM",
-        "WC": 0.75,
-        "Water Rate": 3155.25,
+        "WC": 0.723,
+        "Water Rate": 3038.046,
         "on": 0
     },
     "R-567":
     {
         "ESP": "NVM",
-        "Fluid Rate": 3080,
+        "Fluid Rate": 2946,
         "Genset": "Perkins",
-        "Oil rate": 1925,
+        "Oil rate": 2035.6860000000001,
         "Station": "DS4",
         "VSD": "BKR",
-        "WC": 0.375,
-        "Water Rate": 1155,
+        "WC": 0.309,
+        "Water Rate": 910.3139999999999,
         "on": 0
     },
     "R-560":
     {
         "ESP": "BHI",
-        "Fluid Rate": 5772,
+        "Fluid Rate": 5939,
         "Genset": "Perkins",
-        "Oil rate": 1760.4600000000003,
+        "Oil rate": 1823.2730000000004,
         "Station": "DS2",
         "VSD": "NVM",
-        "WC": 0.695,
-        "Water Rate": 4011.54,
+        "WC": 0.693,
+        "Water Rate": 4115.727,
         "on": 0
     },
     "R-559":
     {
         "ESP": "NVM",
-        "Fluid Rate": 5350,
-        "Genset": "Perkins",
-        "Oil rate": 4911.3,
+        "Fluid Rate": 6284,
+        "Oil rate": 5152.88,
         "Station": "DS3",
         "VSD": "NVM",
-        "WC": 0.082,
-        "Water Rate": 438.6999999999998,
+        "WC": 0.18,
+        "Water Rate": 1131.12,
         "on": 0
     },
     "R-554":
     {
         "ESP": "BHI",
-        "Fluid Rate": 3634,
+        "Fluid Rate": 3583,
         "Genset": "Perkins",
-        "Oil rate": 2616.48,
+        "Oil rate": 2418.525,
         "Station": "DS4",
         "VSD": "NVM",
-        "WC": 0.28,
-        "Water Rate": 1017.52,
+        "WC": 0.325,
+        "Water Rate": 1164.475,
         "on": 0
     },
     "R-552":
     {
         "ESP": "NVM",
-        "Fluid Rate": 3605,
+        "Fluid Rate": 3541,
         "Genset": "Perkins",
-        "Oil rate": 1658.3,
+        "Oil rate": 1604.0729999999999,
         "Station": "DS4",
         "VSD": "BKR",
-        "WC": 0.54,
-        "Water Rate": 1946.7,
+        "WC": 0.547,
+        "Water Rate": 1936.9270000000001,
         "on": 0
     },
     "R-551":
     {
         "ESP": "NVM",
-        "Fluid Rate": 6200,
+        "Fluid Rate": 6236,
         "Genset": "Perkins",
-        "Oil rate": 2480,
+        "Oil rate": 2407.096,
         "Station": "DS3",
         "VSD": "NVM",
-        "WC": 0.6,
-        "Water Rate": 3720,
+        "WC": 0.614,
+        "Water Rate": 3828.904,
         "on": 0
     },
     "R-547":
     {
         "ESP": "NVM",
-        "Fluid Rate": 4717,
+        "Fluid Rate": 4711,
         "Genset": "Perkins",
-        "Oil rate": 1320.7600000000002,
+        "Oil rate": 1319.0800000000002,
         "Station": "DS3",
         "VSD": "BHI",
         "WC": 0.72,
-        "Water Rate": 3396.24,
+        "Water Rate": 3391.92,
         "on": 0
     },
     "R-546":
@@ -2385,33 +2377,33 @@
     "R-543z":
     {
         "ESP": "BHI",
-        "Fluid Rate": 3654,
+        "Fluid Rate": 3663,
         "Genset": "Perkins",
-        "Oil rate": 2119.32,
+        "Oil rate": 1868.13,
         "Station": "DS3",
         "VSD": "NVM",
-        "WC": 0.42,
-        "Water Rate": 1534.6799999999998,
+        "WC": 0.49,
+        "Water Rate": 1794.87,
         "on": 0
     },
     "R-542z":
     {
         "ESP": "NVM",
-        "Fluid Rate": 2456,
+        "Fluid Rate": 2344,
         "Genset": "Perkins",
-        "Oil rate": 589.4399999999999,
+        "Oil rate": 569.592,
         "Station": "DS4",
         "VSD": "NVM",
-        "WC": 0.76,
-        "Water Rate": 1866.56,
+        "WC": 0.757,
+        "Water Rate": 1774.408,
         "on": 0
     },
     "R-539":
     {
         "ESP": "NVM",
-        "Fluid Rate": 1654,
+        "Fluid Rate": 1772,
         "Genset": "Perkins",
-        "Oil rate": 1654,
+        "Oil rate": 1772,
         "Station": "DS5",
         "VSD": "NVM",
         "WC": 0,
@@ -2421,25 +2413,24 @@
     "R-537":
     {
         "ESP": "NVM",
-        "Fluid Rate": 3835,
-        "Genset": "Perkins",
-        "Oil rate": 2032.5500000000002,
+        "Fluid Rate": 4063,
+        "Oil rate": 2194.02,
         "Station": "SIDS",
         "VSD": "BKR",
-        "WC": 0.47,
-        "Water Rate": 1802.4499999999998,
+        "WC": 0.46,
+        "Water Rate": 1868.98,
         "on": 0
     },
     "R-534":
     {
         "ESP": "NVM",
-        "Fluid Rate": 5262,
+        "Fluid Rate": 5260,
         "Genset": "Perkins",
-        "Oil rate": 1894.32,
+        "Oil rate": 1867.3,
         "Station": "DS3",
         "VSD": "BKR",
-        "WC": 0.64,
-        "Water Rate": 3367.6800000000003,
+        "WC": 0.645,
+        "Water Rate": 3392.7,
         "on": 0
     },
     "R-531":
@@ -2467,97 +2458,97 @@
     "R-528":
     {
         "ESP": "NVM",
-        "Fluid Rate": 2890,
+        "Fluid Rate": 2886,
         "Genset": "Perkins",
-        "Oil rate": 1213.8000000000002,
+        "Oil rate": 1290.042,
         "Station": "SIDS",
         "VSD": "BHI",
-        "WC": 0.58,
-        "Water Rate": 1676.1999999999998,
+        "WC": 0.553,
+        "Water Rate": 1595.958,
         "on": 0
     },
     "R-527":
     {
         "ESP": "BHI",
-        "Fluid Rate": 4365,
+        "Fluid Rate": 4489,
         "Genset": "Perkins",
-        "Oil rate": 1850.7600000000002,
+        "Oil rate": 1907.8250000000003,
         "Station": "DS5",
         "VSD": "NVM",
-        "WC": 0.576,
-        "Water Rate": 2514.24,
+        "WC": 0.575,
+        "Water Rate": 2581.1749999999997,
         "on": 0
     },
     "R-522":
     {
         "ESP": "BHI",
-        "Fluid Rate": 6280,
+        "Fluid Rate": 6364,
         "Genset": "Perkins",
-        "Oil rate": 1570,
+        "Oil rate": 1718.2800000000002,
         "Station": "DS1",
         "VSD": "NVM",
-        "WC": 0.75,
-        "Water Rate": 4710,
+        "WC": 0.73,
+        "Water Rate": 4645.719999999999,
         "on": 0
     },
     "R-521":
     {
         "ESP": "BHI",
-        "Fluid Rate": 8018,
+        "Fluid Rate": 8066,
         "Genset": "Perkins",
-        "Oil rate": 3784.4959999999996,
+        "Oil rate": 3807.1519999999996,
         "Station": "DS2",
         "VSD": "BHI",
         "WC": 0.528,
-        "Water Rate": 4233.504000000001,
+        "Water Rate": 4258.848,
         "on": 0
     },
     "R-520":
     {
         "ESP": "NVM",
-        "Fluid Rate": 5425,
+        "Fluid Rate": 5410,
         "Genset": "Perkins",
-        "Oil rate": 2875.25,
+        "Oil rate": 2894.3499999999995,
         "Station": "DS4",
         "VSD": "NVM",
-        "WC": 0.47,
-        "Water Rate": 2549.75,
+        "WC": 0.465,
+        "Water Rate": 2515.6500000000005,
         "on": 0
     },
     "R-519":
     {
         "ESP": "NVM",
-        "Fluid Rate": 2857,
+        "Fluid Rate": 2728,
         "Genset": "Perkins",
-        "Oil rate": 1399.93,
+        "Oil rate": 1284.888,
         "Station": "DS4",
         "VSD": "NVM",
-        "WC": 0.51,
-        "Water Rate": 1457.07,
+        "WC": 0.529,
+        "Water Rate": 1443.112,
         "on": 0
     },
     "R-518":
     {
         "ESP": "BHI",
-        "Fluid Rate": 3386,
+        "Fluid Rate": 3443,
         "Genset": "Perkins",
-        "Oil rate": 1015.8000000000002,
+        "Oil rate": 1032.9,
         "Station": "DS3",
         "VSD": "NVM",
         "WC": 0.7,
-        "Water Rate": 2370.2,
+        "Water Rate": 2410.1,
         "on": 0
     },
     "R-517":
     {
         "ESP": "NVM",
-        "Fluid Rate": 4200,
+        "Fluid Rate": 4195,
         "Genset": "Perkins",
-        "Oil rate": 2835,
+        "Oil rate": 2743.53,
         "Station": "DS2",
         "VSD": "BKR",
-        "WC": 0.325,
-        "Water Rate": 1365,
+        "WC": 0.346,
+        "Water Rate": 1451.4699999999998,
         "on": 0
     },
     "R-515":
@@ -2575,12 +2566,10 @@
     "R-514":
     {
         "ESP": "NVM",
-        "Fluid Rate": 600,
-        "Oil rate": 600,
+        "Genset": "Perkins",
         "Station": "DS4",
-        "VSD": "-",
+        "VSD": "BKR",
         "WC": 0,
-        "Water Rate": 0,
         "on": 0
     },
     "R-513":
@@ -2598,20 +2587,19 @@
     "R-511":
     {
         "ESP": "BHI",
-        "Fluid Rate": 4972,
+        "Fluid Rate": 4952,
         "Genset": "Perkins",
-        "Oil rate": 1864.5,
+        "Oil rate": 1837.192,
         "Station": "DS4",
         "VSD": "BHI",
-        "WC": 0.625,
-        "Water Rate": 3107.5,
+        "WC": 0.629,
+        "Water Rate": 3114.808,
         "on": 0
     },
     "R-510":
     {
         "ESP": "BHI",
         "Fluid Rate": 4936,
-        "Genset": "Perkins",
         "Oil rate": 2813.5200000000004,
         "Station": "DS3",
         "VSD": "BHI",
@@ -2634,9 +2622,9 @@
     "R-491z":
     {
         "ESP": "NVM",
-        "Fluid Rate": 4570,
+        "Fluid Rate": 4469,
         "Genset": "Perkins",
-        "Oil rate": 4570,
+        "Oil rate": 4469,
         "Station": "DS4",
         "VSD": "NVM",
         "WC": 0,
@@ -2659,7 +2647,6 @@
     {
         "ESP": "BHI",
         "Fluid Rate": 3306,
-        "Genset": "Jinan",
         "Oil rate": 793.4399999999999,
         "Station": "DS5",
         "VSD": "BHI",
@@ -2681,13 +2668,13 @@
     "R-474":
     {
         "ESP": "BHI",
-        "Fluid Rate": 5093,
+        "Fluid Rate": 5075,
         "Genset": "Perkins",
-        "Oil rate": 3397.0310000000004,
+        "Oil rate": 3420.5499999999997,
         "Station": "DS3",
         "VSD": "NVM",
-        "WC": 0.333,
-        "Water Rate": 1695.9689999999996,
+        "WC": 0.326,
+        "Water Rate": 1654.4500000000003,
         "on": 0
     },
     "R-473":
@@ -2705,44 +2692,43 @@
     "R-467":
     {
         "ESP": "NVM",
-        "Fluid Rate": 1931,
+        "Fluid Rate": 1838,
         "Genset": "Perkins",
-        "Oil rate": 1042.74,
+        "Oil rate": 1025.604,
         "Station": "DS4",
         "VSD": "BHI",
-        "WC": 0.46,
-        "Water Rate": 888.26,
+        "WC": 0.442,
+        "Water Rate": 812.396,
         "on": 0
     },
     "R-463":
     {
         "ESP": "NVM",
-        "Fluid Rate": 2563,
+        "Fluid Rate": 2484,
         "Genset": "Perkins",
-        "Oil rate": 2191.365,
+        "Oil rate": 2086.56,
         "Station": "SIDS",
         "VSD": "NVM",
-        "WC": 0.145,
-        "Water Rate": 371.6350000000002,
+        "WC": 0.16,
+        "Water Rate": 397.44000000000005,
         "on": 0
     },
     "R-462":
     {
         "ESP": "NVM",
-        "Fluid Rate": 4551,
+        "Fluid Rate": 4338,
         "Genset": "Perkins",
-        "Oil rate": 2666.8860000000004,
+        "Oil rate": 3531.1319835156,
         "Station": "DS5",
         "VSD": "BKR",
-        "WC": 0.414,
-        "Water Rate": 1884.1139999999996,
+        "WC": 0.1860000038,
+        "Water Rate": 806.8680164844,
         "on": 1
     },
     "R-456":
     {
         "ESP": "NVM",
         "Fluid Rate": 1344,
-        "Genset": "Perkins",
         "Oil rate": 1344,
         "Station": "NIDS",
         "VSD": "BHI",
@@ -2753,80 +2739,78 @@
     "R-446":
     {
         "ESP": "NVM",
-        "Fluid Rate": 1981,
+        "Fluid Rate": 1956,
         "Genset": "Perkins",
-        "Oil rate": 693.3499999999999,
+        "Oil rate": 766.7520000000001,
         "Station": "SIDS",
         "VSD": "NVM",
-        "WC": 0.65,
-        "Water Rate": 1287.65,
+        "WC": 0.608,
+        "Water Rate": 1189.248,
         "on": 0
     },
     "R-435":
     {
         "ESP": "NVM",
-        "Fluid Rate": 2746,
-        "Genset": "Jinan",
-        "Oil rate": 2224.26,
+        "Fluid Rate": 2496,
+        "Genset": "Perkins",
+        "Oil rate": 2188.9919952575997,
         "Station": "DS5",
         "VSD": "NVM",
-        "WC": 0.19,
-        "Water Rate": 521.7399999999998,
+        "WC": 0.1230000019,
+        "Water Rate": 307.0080047424003,
         "on": 1
     },
     "R-424":
     {
         "ESP": "NVM",
-        "Fluid Rate": 2228,
+        "Fluid Rate": 2238,
         "Genset": "Perkins",
-        "Oil rate": 1916.08,
+        "Oil rate": 1924.68,
         "Station": "DS5",
         "VSD": "BHI",
         "WC": 0.14,
-        "Water Rate": 311.9200000000001,
+        "Water Rate": 313.31999999999994,
         "on": 0
     },
     "R-423":
     {
         "ESP": "NVM",
-        "Fluid Rate": 3460,
+        "Fluid Rate": 3481,
         "Genset": "Perkins",
-        "Oil rate": 2370.1000000000004,
+        "Oil rate": 2374.042,
         "Station": "NIDS",
         "VSD": "NVM",
-        "WC": 0.315,
-        "Water Rate": 1089.8999999999996,
+        "WC": 0.318,
+        "Water Rate": 1106.958,
         "on": 0
     },
     "R-420":
     {
         "ESP": "BHI",
-        "Fluid Rate": 3952,
+        "Fluid Rate": 3680,
         "Genset": "Perkins",
-        "Oil rate": 2035.28,
+        "Oil rate": 2035.0399999999997,
         "Station": "NIDS",
         "VSD": "BHI",
-        "WC": 0.485,
-        "Water Rate": 1916.72,
+        "WC": 0.447,
+        "Water Rate": 1644.9600000000003,
         "on": 0
     },
     "R-419":
     {
         "ESP": "NVM",
-        "Fluid Rate": 3017,
-        "Genset": "Perkins",
-        "Oil rate": 2323.09,
+        "Fluid Rate": 2966,
+        "Oil rate": 2283.82,
         "Station": "DS5",
         "VSD": "NVM",
         "WC": 0.23,
-        "Water Rate": 693.9099999999999,
+        "Water Rate": 682.1799999999998,
         "on": 0
     },
     "R-379":
     {
         "ESP": "NVM",
         "Fluid Rate": 4826,
-        "Genset": "Perkins",
         "Oil rate": 3378.2,
         "Station": "SIDS",
         "VSD": "NVM",
@@ -2837,9 +2821,9 @@
     "R-368":
     {
         "ESP": "APC",
-        "Fluid Rate": 2088,
-        "Genset": "Caterpillar",
-        "Oil rate": 2088,
+        "Fluid Rate": 1680,
+        "Genset": "Perkins",
+        "Oil rate": 1680,
         "Station": "DS5",
         "VSD": "NVM",
         "WC": 0,
@@ -2849,73 +2833,73 @@
     "R-360":
     {
         "ESP": "BHI",
-        "Fluid Rate": 5577,
+        "Fluid Rate": 5717,
         "Genset": "Perkins",
-        "Oil rate": 1896.1799999999998,
+        "Oil rate": 1829.4399999999998,
         "Station": "DS5",
         "VSD": "NVM",
-        "WC": 0.66,
-        "Water Rate": 3680.82,
+        "WC": 0.68,
+        "Water Rate": 3887.5600000000004,
         "on": 0
     },
     "R-356":
     {
         "ESP": "NVM",
-        "Fluid Rate": 2619,
-        "Genset": "Caterpillar",
-        "Oil rate": 1126.17,
+        "Fluid Rate": 2605,
+        "Genset": "CAT",
+        "Oil rate": 1198.3,
         "Station": "DS4",
         "VSD": "NVM",
-        "WC": 0.57,
-        "Water Rate": 1492.83,
+        "WC": 0.54,
+        "Water Rate": 1406.7,
         "on": 0
     },
     "R-351":
     {
         "ESP": "NVM",
-        "Fluid Rate": 4953,
+        "Fluid Rate": 4924,
         "Genset": "Perkins",
-        "Oil rate": 1139.1899999999998,
+        "Oil rate": 753.3720000000001,
         "Station": "DS3",
         "VSD": "NVM",
-        "WC": 0.77,
-        "Water Rate": 3813.8100000000004,
+        "WC": 0.847,
+        "Water Rate": 4170.628,
         "on": 0
     },
     "R-337":
     {
         "ESP": "NVM",
-        "Fluid Rate": 2766,
+        "Fluid Rate": 2368,
         "Genset": "Perkins",
-        "Oil rate": 2461.7400000000002,
+        "Oil rate": 2012.8,
         "Station": "SIDS",
         "VSD": "NVM",
-        "WC": 0.11,
-        "Water Rate": 304.25999999999976,
+        "WC": 0.15,
+        "Water Rate": 355.20000000000005,
         "on": 1
     },
     "R-316":
     {
         "ESP": "NVM",
-        "Fluid Rate": 2739,
+        "Fluid Rate": 2642,
         "Genset": "Perkins",
-        "Oil rate": 2287.065,
+        "Oil rate": 1056.8,
         "Station": "DS4",
         "VSD": "BHI",
-        "WC": 0.165,
-        "Water Rate": 451.93499999999995,
+        "WC": 0.6,
+        "Water Rate": 1585.2,
         "on": 0
     },
     "R-309":
     {
         "ESP": "NVM",
-        "Fluid Rate": 4173,
+        "Fluid Rate": 4628,
         "Genset": "Perkins",
-        "Oil rate": 2712.4500000000003,
+        "Oil rate": 1943.7600000000002,
         "Station": "DS4",
         "VSD": "NVM",
-        "WC": 0.35,
-        "Water Rate": 1460.5499999999997,
+        "WC": 0.58,
+        "Water Rate": 2684.24,
         "on": 0
     },
     "R-277":
@@ -2933,61 +2917,61 @@
     "R-272":
     {
         "ESP": "BHI",
-        "Fluid Rate": 5382,
+        "Fluid Rate": 5108,
         "Genset": "Perkins",
-        "Oil rate": 2368.08,
+        "Oil rate": 2237.3039999999996,
         "Station": "NIDS",
         "VSD": "BHI",
-        "WC": 0.56,
-        "Water Rate": 3013.92,
+        "WC": 0.562,
+        "Water Rate": 2870.6960000000004,
         "on": 0
     },
     "R-270":
     {
         "ESP": "NVM",
-        "Fluid Rate": 4845,
+        "Fluid Rate": 4955,
         "Genset": "Perkins",
-        "Oil rate": 3003.9,
+        "Oil rate": 3121.65,
         "Station": "DS5",
         "VSD": "NVM",
-        "WC": 0.38,
-        "Water Rate": 1841.1,
+        "WC": 0.37,
+        "Water Rate": 1833.35,
         "on": 1
     },
     "R-267":
     {
         "ESP": "NVM",
-        "Fluid Rate": 3855,
+        "Fluid Rate": 3849,
         "Genset": "Perkins",
-        "Oil rate": 2274.4500000000003,
+        "Oil rate": 2771.2799999999997,
         "Station": "DS2",
         "VSD": "NVM",
-        "WC": 0.41,
-        "Water Rate": 1580.5499999999997,
+        "WC": 0.28,
+        "Water Rate": 1077.7200000000003,
         "on": 1
     },
     "R-265":
     {
         "ESP": "NVM",
-        "Fluid Rate": 3575,
+        "Fluid Rate": 3796,
         "Genset": "Perkins",
-        "Oil rate": 1930.5000000000002,
+        "Oil rate": 1708.1999999999998,
         "Station": "DS5",
         "VSD": "BHI",
-        "WC": 0.46,
-        "Water Rate": 1644.4999999999998,
+        "WC": 0.55,
+        "Water Rate": 2087.8,
         "on": 0
     },
     "R-264":
     {
         "ESP": "NVM",
-        "Fluid Rate": 1917,
+        "Fluid Rate": 1409,
         "Genset": "Perkins",
-        "Oil rate": 1917,
+        "Oil rate": 1192.0140053542,
         "Station": "DS5",
         "VSD": "NVM",
-        "WC": 0,
-        "Water Rate": 0,
+        "WC": 0.1539999962,
+        "Water Rate": 216.98599464580002,
         "on": 1
     },
     "R-259":
@@ -3016,13 +3000,13 @@
     "R-246":
     {
         "ESP": "NVM",
-        "Fluid Rate": 4292,
+        "Fluid Rate": 4312,
         "Genset": "Perkins",
-        "Oil rate": 1588.04,
+        "Oil rate": 1207.3600000000001,
         "Station": "DS3",
         "VSD": "NVM",
-        "WC": 0.63,
-        "Water Rate": 2703.96,
+        "WC": 0.72,
+        "Water Rate": 3104.64,
         "on": 0
     },
     "R-238":
@@ -3039,49 +3023,49 @@
     "R-236":
     {
         "ESP": "NVM",
-        "Fluid Rate": 2467,
+        "Fluid Rate": 2588,
         "Genset": "Perkins",
-        "Oil rate": 838.78,
+        "Oil rate": 763.4600000000002,
         "Station": "DS5",
         "VSD": "NVM",
-        "WC": 0.66,
-        "Water Rate": 1628.22,
+        "WC": 0.705,
+        "Water Rate": 1824.54,
         "on": 0
     },
     "R-231":
     {
         "ESP": "NVM",
-        "Fluid Rate": 7060,
+        "Fluid Rate": 6479,
         "Genset": "Perkins",
-        "Oil rate": 5295,
+        "Oil rate": 6479,
         "Station": "DS5",
         "VSD": "NVM",
-        "WC": 0.25,
-        "Water Rate": 1765,
+        "WC": 0,
+        "Water Rate": 0,
         "on": 1
     },
     "R-225":
     {
         "ESP": "NVM",
-        "Fluid Rate": 4082,
+        "Fluid Rate": 4196,
         "Genset": "Perkins",
-        "Oil rate": 2836.9900000000002,
+        "Oil rate": 3272.88,
         "Station": "NIDS",
         "VSD": "NVM",
-        "WC": 0.305,
-        "Water Rate": 1245.0099999999998,
+        "WC": 0.22,
+        "Water Rate": 923.1199999999999,
         "on": 1
     },
     "R-221":
     {
         "ESP": "NVM",
-        "Fluid Rate": 2608,
+        "Fluid Rate": 3622,
         "Genset": "Perkins",
-        "Oil rate": 2034.24,
+        "Oil rate": 2625.95,
         "Station": "DS4",
         "VSD": "BHI",
-        "WC": 0.22,
-        "Water Rate": 573.76,
+        "WC": 0.275,
+        "Water Rate": 996.0500000000002,
         "on": 0
     },
     "R-220":
@@ -3121,24 +3105,24 @@
     "R-208":
     {
         "ESP": "APC",
-        "Fluid Rate": 6681,
-        "Oil rate": 4075.41,
+        "Fluid Rate": 7065,
+        "Oil rate": 4309.65,
         "Station": "DS3",
         "VSD": "APC",
         "WC": 0.39,
-        "Water Rate": 2605.59,
+        "Water Rate": 2755.3500000000004,
         "on": 0
     },
     "R-204":
     {
         "ESP": "NVM",
-        "Fluid Rate": 4668,
-        "Genset": "Jinan",
-        "Oil rate": 1167,
+        "Fluid Rate": 6912,
+        "Genset": "Perkins",
+        "Oil rate": 1728,
         "Station": "DS4",
         "VSD": "NVM",
         "WC": 0.75,
-        "Water Rate": 3501,
+        "Water Rate": 5184,
         "on": 0
     },
     "R-203":
@@ -3156,37 +3140,37 @@
     "R-201":
     {
         "ESP": "NVM",
-        "Fluid Rate": 2589,
-        "Genset": "Jinan",
-        "Oil rate": 828.4799999999999,
+        "Fluid Rate": 3568,
+        "Genset": "Perkins",
+        "Oil rate": 1141.7599999999998,
         "Station": "DS5",
         "VSD": "BHI",
         "WC": 0.68,
-        "Water Rate": 1760.52,
+        "Water Rate": 2426.2400000000002,
         "on": 0
     },
     "R-200":
     {
         "ESP": "NVM",
-        "Fluid Rate": 6072,
-        "Genset": "Jinan",
-        "Oil rate": 3218.1600000000003,
+        "Fluid Rate": 6620,
+        "Genset": "Perkins",
+        "Oil rate": 3170.98,
         "Station": "DS4",
         "VSD": "NVM",
-        "WC": 0.47,
-        "Water Rate": 2853.8399999999997,
+        "WC": 0.521,
+        "Water Rate": 3449.02,
         "on": 0
     },
     "R-199":
     {
         "ESP": "BHI",
-        "Fluid Rate": 6353,
+        "Fluid Rate": 6338,
         "Genset": "Perkins",
-        "Oil rate": 2401.434,
+        "Oil rate": 2028.1599999999996,
         "Station": "DS2",
         "VSD": "BKR",
-        "WC": 0.622,
-        "Water Rate": 3951.566,
+        "WC": 0.68,
+        "Water Rate": 4309.84,
         "on": 0
     },
     "R-194":
@@ -3203,26 +3187,26 @@
     },
     "R-193":
     {
-        "ESP": "null",
-        "Fluid Rate": 0,
-        "Genset": "null",
-        "Oil rate": 0,
+        "ESP": "BHI",
+        "Fluid Rate": 6059,
+        "Genset": "Perkins",
+        "Oil rate": 2605.3700000000003,
         "Station": "DS5",
-        "VSD": "BHI",
-        "WC": 0,
-        "Water Rate": 0,
+        "VSD": "BKR",
+        "WC": 0.57,
+        "Water Rate": 3453.6299999999997,
         "on": 1
     },
     "R-189":
     {
         "ESP": "NVM",
-        "Fluid Rate": 3676,
-        "Genset": "Caterpillar",
-        "Oil rate": 1227.7839999999999,
+        "Fluid Rate": 3830,
+        "Genset": "Perkins",
+        "Oil rate": 1129.8500000000001,
         "Station": "DS5",
         "VSD": "NVM",
-        "WC": 0.666,
-        "Water Rate": 2448.2160000000003,
+        "WC": 0.705,
+        "Water Rate": 2700.1499999999996,
         "on": 0
     },
     "R-188":
@@ -3240,73 +3224,73 @@
     "R-179":
     {
         "ESP": "BHI",
-        "Fluid Rate": 4505,
+        "Fluid Rate": 5452,
         "Genset": "Perkins",
-        "Oil rate": 3288.65,
+        "Oil rate": 3979.96,
         "Station": "DS5",
         "VSD": "BKR",
         "WC": 0.27,
-        "Water Rate": 1216.35,
+        "Water Rate": 1472.04,
         "on": 1
     },
     "R-177":
     {
         "ESP": "NVM",
-        "Fluid Rate": 5276,
+        "Fluid Rate": 4509,
         "Genset": "Perkins",
-        "Oil rate": 3165.6,
+        "Oil rate": 2705.4,
         "Station": "DS5",
         "VSD": "BHI",
         "WC": 0.4,
-        "Water Rate": 2110.4,
+        "Water Rate": 1803.6,
         "on": 1
     },
     "R-175":
     {
         "ESP": "NVM",
-        "Fluid Rate": 4832,
+        "Fluid Rate": 4835,
         "Genset": "Perkins",
-        "Oil rate": 1111.36,
+        "Oil rate": 1044.36,
         "Station": "DS5",
         "VSD": "BHI",
-        "WC": 0.77,
-        "Water Rate": 3720.6400000000003,
+        "WC": 0.784,
+        "Water Rate": 3790.6400000000003,
         "on": 0
     },
     "R-173":
     {
         "ESP": "NVM",
-        "Fluid Rate": 3864,
+        "Fluid Rate": 4169,
         "Genset": "Perkins",
-        "Oil rate": 1429.68,
+        "Oil rate": 1625.91,
         "Station": "DS5",
         "VSD": "NVM",
-        "WC": 0.63,
-        "Water Rate": 2434.3199999999997,
+        "WC": 0.61,
+        "Water Rate": 2543.09,
         "on": 0
     },
     "R-169":
     {
         "ESP": "NVM",
-        "Fluid Rate": 4491,
+        "Fluid Rate": 4457,
         "Genset": "Perkins",
-        "Oil rate": 1526.9399999999998,
+        "Oil rate": 1381.6700000000003,
         "Station": "DS2",
         "VSD": "NVM",
-        "WC": 0.66,
-        "Water Rate": 2964.0600000000004,
+        "WC": 0.69,
+        "Water Rate": 3075.33,
         "on": 0
     },
     "R-164":
     {
         "ESP": "BHI",
-        "Fluid Rate": 6961,
+        "Fluid Rate": 7045,
         "Genset": "Perkins",
-        "Oil rate": 3090.6839999999997,
+        "Oil rate": 3099.7999999999997,
         "Station": "SIDS",
         "VSD": "BKR",
-        "WC": 0.556,
-        "Water Rate": 3870.3160000000003,
+        "WC": 0.56,
+        "Water Rate": 3945.2000000000003,
         "on": 0
     },
     "R-163z":
@@ -3324,56 +3308,55 @@
     "R-157z":
     {
         "ESP": "NVM",
-        "Fluid Rate": 2418,
+        "Fluid Rate": 2347,
         "Genset": "Perkins",
-        "Oil rate": 2418,
+        "Oil rate": 2300.06,
         "Station": "DS4",
         "VSD": "NVM",
-        "WC": 0,
-        "Water Rate": 0,
+        "WC": 0.02,
+        "Water Rate": 46.940000000000055,
         "on": 1
     },
     "R-124":
     {
         "ESP": "BHI",
-        "Fluid Rate": 4819,
+        "Fluid Rate": 4669,
         "Genset": "Perkins",
-        "Oil rate": 2819.115,
+        "Oil rate": 2824.745,
         "Station": "DS5",
         "VSD": "NVM",
-        "WC": 0.415,
-        "Water Rate": 1999.8850000000002,
+        "WC": 0.395,
+        "Water Rate": 1844.255,
         "on": 0
     },
     "R-086":
     {
         "ESP": "BHI",
-        "Fluid Rate": 7284,
+        "Fluid Rate": 7159,
         "Genset": "Perkins",
-        "Oil rate": 4588.92,
+        "Oil rate": 4366.99,
         "Station": "DS5",
         "VSD": "BHI",
-        "WC": 0.37,
-        "Water Rate": 2695.08,
+        "WC": 0.39,
+        "Water Rate": 2792.01,
         "on": 1
     },
     "R-082":
     {
         "ESP": "NVM",
-        "Fluid Rate": 2578,
+        "Fluid Rate": 2439,
         "Genset": "Perkins",
-        "Oil rate": 1005.4200000000001,
+        "Oil rate": 1007.3070000000001,
         "Station": "DS5",
         "VSD": "NVM",
-        "WC": 0.61,
-        "Water Rate": 1572.58,
+        "WC": 0.587,
+        "Water Rate": 1431.6929999999998,
         "on": 0
     },
     "R-080":
     {
         "ESP": "NVM",
         "Fluid Rate": 1917,
-        "Genset": "Jinan",
         "Oil rate": 1917,
         "Station": "DS5",
         "VSD": "NVM",
@@ -3396,13 +3379,13 @@
     "R-076z":
     {
         "ESP": "NVM",
-        "Fluid Rate": 3885,
+        "Fluid Rate": 3660,
         "Genset": "Perkins",
-        "Oil rate": 2059.05,
+        "Oil rate": 2049.6000000000004,
         "Station": "DS5",
         "VSD": "NVM",
-        "WC": 0.47,
-        "Water Rate": 1825.9499999999998,
+        "WC": 0.44,
+        "Water Rate": 1610.3999999999996,
         "on": 0
     },
     "R-075":
@@ -3419,25 +3402,25 @@
     "R-072":
     {
         "ESP": "NVM",
-        "Fluid Rate": 4613,
+        "Fluid Rate": 4363,
         "Genset": "Perkins",
-        "Oil rate": 1845.2,
+        "Oil rate": 1265.2700000000002,
         "Station": "DS3",
         "VSD": "NVM",
-        "WC": 0.6,
-        "Water Rate": 2767.8,
+        "WC": 0.71,
+        "Water Rate": 3097.7299999999996,
         "on": 0
     },
     "R-071":
     {
         "ESP": "BHI",
-        "Fluid Rate": 2779,
+        "Fluid Rate": 1812,
         "Genset": "Perkins",
-        "Oil rate": 2779,
+        "Oil rate": 1793.8799999999999,
         "Station": "NIDS",
         "VSD": "BHI",
-        "WC": 0,
-        "Water Rate": 0,
+        "WC": 0.01,
+        "Water Rate": 18.12000000000012,
         "on": 1
     },
     "R-068":
@@ -3488,25 +3471,25 @@
     "R-061":
     {
         "ESP": "NVM",
-        "Fluid Rate": 2500,
+        "Fluid Rate": 2468,
         "Genset": "Perkins",
-        "Oil rate": 1575,
+        "Oil rate": 1379.6119999999999,
         "Station": "DS4",
         "VSD": "NVM",
-        "WC": 0.37,
-        "Water Rate": 925,
+        "WC": 0.441,
+        "Water Rate": 1088.3880000000001,
         "on": 0
     },
     "R-058":
     {
         "ESP": "NVM",
-        "Fluid Rate": 9656,
+        "Fluid Rate": 9704,
         "Genset": "Perkins",
-        "Oil rate": 5021.12,
+        "Oil rate": 6792.799999999999,
         "Station": "DS4",
         "VSD": "NVM",
-        "WC": 0.48,
-        "Water Rate": 4634.88,
+        "WC": 0.3,
+        "Water Rate": 2911.2000000000007,
         "on": 1
     },
     "R-057":
@@ -3549,7 +3532,6 @@
     {
         "ESP": "NVM",
         "Fluid Rate": 2790,
-        "Genset": "Jinan",
         "Oil rate": 2790,
         "Station": "DS3",
         "VSD": "NVM",
@@ -3584,13 +3566,13 @@
     "R-044":
     {
         "ESP": "BHI",
-        "Fluid Rate": 5744,
+        "Fluid Rate": 4600,
         "Genset": "Perkins",
-        "Oil rate": 4020.7999999999997,
+        "Oil rate": 2760,
         "Station": "SIDS",
         "VSD": "NVM",
-        "WC": 0.3,
-        "Water Rate": 1723.2000000000003,
+        "WC": 0.4,
+        "Water Rate": 1840,
         "on": 0
     },
     "R-043":
@@ -3607,25 +3589,25 @@
     "R-042":
     {
         "ESP": "NVM",
-        "Fluid Rate": 4963,
-        "Genset": "Caterpillar",
-        "Oil rate": 794.0800000000002,
+        "Fluid Rate": 5449,
+        "Genset": "CAT",
+        "Oil rate": 937.2280000000002,
         "Station": "DS2",
         "VSD": "NVM",
-        "WC": 0.84,
-        "Water Rate": 4168.92,
+        "WC": 0.828,
+        "Water Rate": 4511.772,
         "on": 0
     },
     "R-040":
     {
         "ESP": "NVM",
-        "Fluid Rate": 4511,
+        "Fluid Rate": 4603,
         "Genset": "Perkins",
-        "Oil rate": 2932.15,
+        "Oil rate": 2991.9500000000003,
         "Station": "DS1",
         "VSD": "BHI",
         "WC": 0.35,
-        "Water Rate": 1578.85,
+        "Water Rate": 1611.0499999999997,
         "on": 0
     },
     "R-039":
@@ -3644,7 +3626,6 @@
     {
         "ESP": "NVM",
         "Fluid Rate": 2504,
-        "Genset": "Jinan",
         "Oil rate": 2504,
         "Station": "NIDS",
         "VSD": "NVM",
@@ -3655,25 +3636,25 @@
     "R-037":
     {
         "ESP": "NVM",
-        "Fluid Rate": 3532,
+        "Fluid Rate": 4211,
         "Genset": "Perkins",
-        "Oil rate": 812.3599999999999,
+        "Oil rate": 968.53,
         "Station": "DS1",
         "VSD": "NVM",
         "WC": 0.77,
-        "Water Rate": 2719.6400000000003,
+        "Water Rate": 3242.4700000000003,
         "on": 0
     },
     "R-035":
     {
         "ESP": "BHI",
-        "Fluid Rate": 4606,
+        "Fluid Rate": 4701,
         "Genset": "Perkins",
-        "Oil rate": 783.0200000000002,
+        "Oil rate": 752.1600000000002,
         "Station": "DS1",
         "VSD": "NVM",
-        "WC": 0.83,
-        "Water Rate": 3822.9799999999996,
+        "WC": 0.84,
+        "Water Rate": 3948.8399999999997,
         "on": 0
     },
     "R-030":
@@ -3691,25 +3672,25 @@
     "R-023":
     {
         "ESP": "NVM",
-        "Fluid Rate": 1646,
+        "Fluid Rate": 1054,
         "Genset": "Perkins",
-        "Oil rate": 1300.3400000000001,
+        "Oil rate": 843.2,
         "Station": "DS1",
         "VSD": "BHI",
-        "WC": 0.21,
-        "Water Rate": 345.65999999999985,
+        "WC": 0.2,
+        "Water Rate": 210.79999999999995,
         "on": 1
     },
     "R-017w":
     {
         "ESP": "NVM",
-        "Fluid Rate": 4559,
+        "Fluid Rate": 4655,
         "Genset": "Perkins",
-        "Oil rate": 1002.9799999999999,
+        "Oil rate": 1024.1,
         "Station": "DS3",
         "VSD": "BKR",
         "WC": 0.78,
-        "Water Rate": 3556.02,
+        "Water Rate": 3630.9,
         "on": 0
     },
     "R-016":
@@ -3727,57 +3708,56 @@
     "R-014":
     {
         "ESP": "NVM",
-        "Fluid Rate": 1298,
-        "Genset": "Caterpillar",
-        "Oil rate": 1207.1399999999999,
+        "Fluid Rate": 1338,
+        "Genset": "CAT",
+        "Oil rate": 1338,
         "Station": "DS1",
-        "VSD": "BKR",
-        "WC": 0.07,
-        "Water Rate": 90.86000000000013,
+        "VSD": "NVM",
+        "WC": 0,
+        "Water Rate": 0,
         "on": 1
     },
     "R-013":
     {
-        "ESP": "BHI",
-        "Fluid Rate": 8010,
+        "ESP": "NVM",
+        "Fluid Rate": 4964,
         "Genset": "Perkins",
-        "Oil rate": 1874.34,
+        "Oil rate": 3723,
         "Station": "SIDS",
         "VSD": "BKR",
-        "WC": 0.766,
-        "Water Rate": 6135.66,
+        "WC": 0.25,
+        "Water Rate": 1241,
         "on": 1
     },
     "R-012":
     {
         "ESP": "NVM",
-        "Fluid Rate": "3243",
-        "Genset": "Perkins",
-        "Oil rate": "246.468",
+        "Fluid Rate": 3243,
+        "Oil rate": 246.46799999999985,
         "Station": "SIDS",
-        "VSD": "NVM",
-        "WC": "0.924",
-        "Water Rate": "2996.532",
+        "VSD": "-",
+        "WC": 0.924,
+        "Water Rate": 2996.532,
         "on": 0
     },
     "R-011":
     {
         "ESP": "NVM",
-        "Fluid Rate": 4174,
+        "Fluid Rate": 4630,
         "Genset": "Perkins",
-        "Oil rate": 3297.46,
+        "Oil rate": 3217.8500000000004,
         "Station": "DS1",
         "VSD": "NVM",
-        "WC": 0.21,
-        "Water Rate": 876.54,
+        "WC": 0.305,
+        "Water Rate": 1412.1499999999996,
         "on": 1
     },
     "R-010":
     {
         "ESP": "NVM",
-        "Fluid Rate": 2478,
+        "Fluid Rate": 2602,
         "Genset": "Perkins",
-        "Oil rate": 2478,
+        "Oil rate": 2602,
         "Station": "DS1",
         "VSD": "NVM",
         "WC": 0,
@@ -3787,82 +3767,85 @@
     "R-007":
     {
         "ESP": "APC",
-        "Fluid Rate": 5292,
+        "Fluid Rate": 5367,
         "Genset": "Perkins",
-        "Oil rate": 1428.8400000000001,
+        "Oil rate": 1449.0900000000001,
         "Station": "DS3",
         "VSD": "NVM",
         "WC": 0.73,
-        "Water Rate": 3863.16,
+        "Water Rate": 3917.91,
         "on": 0
     },
     "R-006":
     {
         "ESP": "NVM",
-        "Fluid Rate": 3669,
+        "Fluid Rate": 3439,
         "Genset": "Perkins",
-        "Oil rate": 1027.3200000000002,
+        "Oil rate": 722.1899999999998,
         "Station": "SIDS",
         "VSD": "NVM",
-        "WC": 0.72,
-        "Water Rate": 2641.68,
+        "WC": 0.79,
+        "Water Rate": 2716.8100000000004,
         "on": 0
     },
     "R-001":
     {
         "ESP": "NVM",
-        "Fluid Rate": 6695,
+        "Fluid Rate": 6675,
         "Genset": "Perkins",
-        "Oil rate": 1539.85,
+        "Oil rate": 1535.2499999999998,
         "Station": "DS1",
         "VSD": "NVM",
         "WC": 0.77,
-        "Water Rate": 5155.15,
+        "Water Rate": 5139.75,
         "on": 0
     },
     "R-589":
     {
         "ESP": "BHI",
-        "Fluid Rate": 4582,
+        "Fluid Rate": 4572,
         "Genset": "Perkins",
-        "Oil rate": 2643.814,
+        "Oil rate": 2880.36,
         "Station": "DS2",
         "VSD": "BKR",
-        "WC": 0.423,
-        "Water Rate": 1938.1860000000001,
+        "WC": 0.37,
+        "Water Rate": 1691.6399999999999,
         "on": 0
     },
     "R-612":
     {
         "ESP": "BHI",
-        "Fluid Rate": 4141,
+        "Fluid Rate": 3800,
         "Genset": "Perkins",
-        "Oil rate": 2236.1400000000003,
+        "Oil rate": 3195.7999999999997,
         "Station": "DS4",
         "VSD": "BKR",
-        "WC": 0.46,
-        "Water Rate": 1904.8599999999997,
+        "WC": 0.159,
+        "Water Rate": 604.2000000000003,
         "on": 0
     },
     "Ru-001":
     {
         "ESP": "NVM",
-        "Fluid Rate": 3225,
+        "Fluid Rate": 3639,
         "Genset": "Perkins",
-        "Oil rate": 1725.3749999999998,
+        "Oil rate": 1673.9399999999998,
         "Station": "Markazia",
         "VSD": "BKR",
-        "WC": 0.465,
-        "Water Rate": 1499.6250000000002,
+        "WC": 0.54,
+        "Water Rate": 1965.0600000000002,
         "on": 1
     },
     "Ru-002":
     {
         "ESP": "NVM",
+        "Fluid Rate": 1158,
         "Genset": "Perkins",
+        "Oil rate": 1158,
         "Station": "Markazia",
         "VSD": "NVM",
-        "WC": "",
+        "WC": 0,
+        "Water Rate": 0,
         "on": 1
     },
     "Ru-020":
@@ -3870,15 +3853,15 @@
         "ESP": "NVM",
         "Genset": "Perkins",
         "Station": "Qurainat",
-        "VSD": "-",
-        "WC": "",
+        "VSD": "BKR",
+        "WC": 0,
         "on": 1
     },
     "Ru-151A":
     {
         "ESP": "BHI",
         "Fluid Rate": 8046,
-        "Genset": "Caterpillar",
+        "Genset": "CAT",
         "Oil rate": 2655.18,
         "Station": "Markazia",
         "VSD": "BKR",
@@ -3889,10 +3872,13 @@
     "Ru-298":
     {
         "ESP": "NVM",
+        "Fluid Rate": 4255,
         "Genset": "Perkins",
+        "Oil rate": 2382.8,
         "Station": "Janubia",
         "VSD": "BKR",
-        "WC": "",
+        "WC": 0.44,
+        "Water Rate": 1872.1999999999998,
         "on": 1
     },
     "Ru-319":
@@ -3904,19 +3890,43 @@
     },
     "Ru-286":
     {
+        "ESP": "NVM",
+        "Genset": "Perkins",
         "Station": "Ratqa",
+        "VSD": "NVM",
+        "WC": 0,
         "on": 1
     },
     "Ru-315":
     {
         "ESP": "BHI",
+        "Fluid Rate": 4487,
+        "Genset": "Perkins",
+        "Oil rate": 673.0500000000001,
         "Station": "Qurainat",
-        "WC": "",
+        "VSD": "BKR",
+        "WC": 0.85,
+        "Water Rate": 3813.95,
         "on": 1
     },
     "Ru-385":
     {
+        "ESP": "BHI",
+        "Fluid Rate": 4226,
+        "Genset": "Perkins",
+        "Oil rate": 1986.2199999999998,
         "Station": "Markazia",
+        "VSD": "BKR",
+        "WC": 0.53,
+        "Water Rate": 2239.78,
+        "on": 0
+    },
+    "R-700":
+    {
+        "ESP": "NVM",
+        "Genset": "Perkins",
+        "Station": "DS2",
+        "WC": 0,
         "on": 0
     }
 }
