@@ -3897,7 +3897,7 @@
         "VSD": "NVM",
         "WC": 0,
         "Water Rate": 0,
-        "on": 0
+        "on": 0,
         "link": "https://pivision.roobasra.com/PIVision/PB/#/PBDisplays/9870"
 
     },
@@ -3938,7 +3938,7 @@
         "VSD": "BHI",
         "WC": 0.01,
         "Water Rate": 10.950000000000045,
-        "on": 0
+        "on": 0,
         "link": "https://pivision.roobasra.com/PIVision/PB/#/PBDisplays/9866"
 
     },
