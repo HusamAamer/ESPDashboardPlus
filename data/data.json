@@ -3785,7 +3785,8 @@
         "VSD": "NVM",
         "WC": 0,
         "Water Rate": 0,
-        "on": 1
+        "on": 1,
+        "link":"http://google.com"
     },
     "R-007":
     {
