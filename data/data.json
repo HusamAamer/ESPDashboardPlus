@@ -1,5 +1,6 @@
 {
-    "R-001": {
+   "R-001":
+   {
        "ESP": "NVM",
        "Fluid Rate": "6513",
        "Genset": "Perkins",
@@ -8,12 +9,13 @@
        "VSD": "NVM",
        "WC": "0.77",
        "Water Rate": "5015.01",
-       "on": 0,
+       "on": 1,
        "press_poly_id": null,
        "status_poly_id": null,
        "link": "https://pivision.roobasra.com/PIVision/PB/#/PBDisplays/9856"
-    },
-    "R-006": {
+   },
+   "R-006":
+   {
        "ESP": "NVM",
        "Fluid Rate": "3439",
        "Genset": "Perkins",
@@ -26,8 +28,9 @@
        "press_poly_id": null,
        "status_poly_id": null,
        "link": "https://pivision.roobasra.com/PIVision/PB/#/PBDisplays/9857"
-    },
-    "R-007": {
+   },
+   "R-007":
+   {
        "ESP": "APC",
        "Fluid Rate": "5367",
        "Genset": "Perkins",
@@ -40,8 +43,9 @@
        "press_poly_id": null,
        "status_poly_id": null,
        "link": "https://pivision.roobasra.com/PIVision/PB/#/PBDisplays/9858"
-    },
-    "R-010": {
+   },
+   "R-010":
+   {
        "ESP": "NVM",
        "Fluid Rate": "2602",
        "Genset": "Perkins",
@@ -54,8 +58,9 @@
        "press_poly_id": null,
        "status_poly_id": null,
        "link": "https://pivision.roobasra.com/PIVision/PB/#/PBDisplays/9859"
-    },
-    "R-011": {
+   },
+   "R-011":
+   {
        "ESP": "NVM",
        "Fluid Rate": "4630",
        "Genset": "Perkins",
@@ -68,8 +73,9 @@
        "press_poly_id": null,
        "status_poly_id": null,
        "link": "https://pivision.roobasra.com/PIVision/PB/#/PBDisplays/9860"
-    },
-    "R-012": {
+   },
+   "R-012":
+   {
        "ESP": "NVM",
        "Fluid Rate": "3243",
        "Genset": "",
@@ -82,8 +88,9 @@
        "press_poly_id": null,
        "status_poly_id": null,
        "link": "https://pivision.roobasra.com/PIVision/PB/#/PBDisplays/9861"
-    },
-    "R-013": {
+   },
+   "R-013":
+   {
        "ESP": "NVM",
        "Fluid Rate": "4964",
        "Genset": "Perkins",
@@ -96,8 +103,9 @@
        "press_poly_id": null,
        "status_poly_id": null,
        "link": "https://pivision.roobasra.com/PIVision/PB/#/PBDisplays/9862"
-    },
-    "R-014": {
+   },
+   "R-014":
+   {
        "ESP": "NVM",
        "Fluid Rate": "1279",
        "Genset": "CAT",
@@ -110,8 +118,9 @@
        "press_poly_id": null,
        "status_poly_id": null,
        "link": "https://pivision.roobasra.com/PIVision/PB/#/PBDisplays/9863"
-    },
-    "R-016": {
+   },
+   "R-016":
+   {
        "ESP": "NVM",
        "Fluid Rate": "7970",
        "Genset": "Perkins",
@@ -124,8 +133,9 @@
        "press_poly_id": null,
        "status_poly_id": null,
        "link": "https://pivision.roobasra.com/PIVision/PB/#/PBDisplays/9864"
-    },
-    "R-017w": {
+   },
+   "R-017w":
+   {
        "ESP": "NVM",
        "Fluid Rate": "4655",
        "Genset": "Perkins",
@@ -138,8 +148,9 @@
        "press_poly_id": null,
        "status_poly_id": null,
        "link": "https://pivision.roobasra.com/PIVision/PB/#/PBDisplays/13866"
-    },
-    "R-023": {
+   },
+   "R-023":
+   {
        "ESP": "NVM",
        "Fluid Rate": "1760",
        "Genset": "Perkins",
@@ -152,8 +163,9 @@
        "press_poly_id": null,
        "status_poly_id": null,
        "link": "https://pivision.roobasra.com/PIVision/PB/#/PBDisplays/9865"
-    },
-    "R-030": {
+   },
+   "R-030":
+   {
        "ESP": "NVM",
        "Fluid Rate": "1095",
        "Genset": "Perkins",
@@ -166,8 +178,8 @@
        "press_poly_id": null,
        "status_poly_id": null,
        "link": "https://pivision.roobasra.com/PIVision/PB/#/PBDisplays/9866"
-    },
-    "R-035": {
+   },    "R-035":
+   {
        "ESP": "BHI",
        "Fluid Rate": "4701",
        "Genset": "Perkins",
@@ -180,8 +192,9 @@
        "press_poly_id": null,
        "status_poly_id": null,
        "link": "https://pivision.roobasra.com/PIVision/PB/#/PBDisplays/9868"
-    },
-    "R-037": {
+   },
+   "R-037":
+   {
        "ESP": "NVM",
        "Fluid Rate": "4211",
        "Genset": "Perkins",
@@ -194,8 +207,9 @@
        "press_poly_id": null,
        "status_poly_id": null,
        "link": "https://pivision.roobasra.com/PIVision/PB/#/PBDisplays/9869"
-    },
-    "R-038": {
+   },
+   "R-038":
+   {
        "ESP": "NVM",
        "Fluid Rate": "2504",
        "Genset": "",
@@ -208,8 +222,9 @@
        "press_poly_id": null,
        "status_poly_id": null,
        "link": "https://pivision.roobasra.com/PIVision/PB/#/PBDisplays/9870"
-    },
-    "R-039": {
+   },
+   "R-039":
+   {
        "ESP": "APC",
        "Fluid Rate": "7100",
        "Genset": "#N/A",
@@ -222,8 +237,9 @@
        "press_poly_id": null,
        "status_poly_id": null,
        "link": "https://pivision.roobasra.com/PIVision/PB/#/PBDisplays/9871"
-    },
-    "R-040": {
+   },
+   "R-040":
+   {
        "ESP": "NVM",
        "Fluid Rate": "3406",
        "Genset": "Perkins",
@@ -236,8 +252,9 @@
        "press_poly_id": null,
        "status_poly_id": null,
        "link": "https://pivision.roobasra.com/PIVision/PB/#/PBDisplays/9872"
-    },
-    "R-042": {
+   },
+   "R-042":
+   {
        "ESP": "NVM",
        "Fluid Rate": "3483",
        "Genset": "CAT",
@@ -250,8 +267,9 @@
        "press_poly_id": null,
        "status_poly_id": null,
        "link": "https://pivision.roobasra.com/PIVision/PB/#/PBDisplays/9873"
-    },
-    "R-043": {
+   },
+   "R-043":
+   {
        "ESP": "BHI",
        "Fluid Rate": "3537",
        "Genset": "",
@@ -264,8 +282,9 @@
        "press_poly_id": null,
        "status_poly_id": null,
        "link": "https://pivision.roobasra.com/PIVision/PB/#/PBDisplays/9874"
-    },
-    "R-044": {
+   },
+   "R-044":
+   {
        "ESP": "BHI",
        "Fluid Rate": "4600",
        "Genset": "Perkins",
@@ -278,8 +297,9 @@
        "press_poly_id": null,
        "status_poly_id": null,
        "link": "https://pivision.roobasra.com/PIVision/PB/#/PBDisplays/9875"
-    },
-    "R-049": {
+   },
+   "R-049":
+   {
        "ESP": "NVM",
        "Fluid Rate": "2416",
        "Genset": "Perkins",
@@ -292,8 +312,9 @@
        "press_poly_id": null,
        "status_poly_id": null,
        "link": "https://pivision.roobasra.com/PIVision/PB/#/PBDisplays/13709"
-    },
-    "R-050": {
+   },
+   "R-050":
+   {
        "ESP": "BHI",
        "Fluid Rate": "4236",
        "Genset": "Perkins",
@@ -306,8 +327,9 @@
        "press_poly_id": null,
        "status_poly_id": null,
        "link": "https://pivision.roobasra.com/PIVision/PB/#/PBDisplays/9877"
-    },
-    "R-052y": {
+   },
+   "R-052y":
+   {
        "ESP": "NVM",
        "Fluid Rate": "2790",
        "Genset": "",
@@ -320,8 +342,9 @@
        "press_poly_id": null,
        "status_poly_id": null,
        "link": "https://pivision.roobasra.com/PIVision/PB/#/PBDisplays/13832"
-    },
-    "R-053": {
+   },
+   "R-053":
+   {
        "ESP": "BHI",
        "Fluid Rate": "5298",
        "Genset": "Perkins",
@@ -334,8 +357,9 @@
        "press_poly_id": null,
        "status_poly_id": null,
        "link": "https://pivision.roobasra.com/PIVision/PB/#/PBDisplays/14381"
-    },
-    "R-054y": {
+   },
+   "R-054y":
+   {
        "ESP": "BHI",
        "Fluid Rate": "6729",
        "Genset": "Perkins",
@@ -348,8 +372,9 @@
        "press_poly_id": null,
        "status_poly_id": null,
        "link": "https://pivision.roobasra.com/PIVision/PB/#/PBDisplays/9878"
-    },
-    "R-057": {
+   },
+   "R-057":
+   {
        "ESP": "#N/A",
        "Fluid Rate": "#N/A",
        "Genset": "Perkins",
@@ -362,8 +387,9 @@
        "press_poly_id": null,
        "status_poly_id": null,
        "link": "https://pivision.roobasra.com/PIVision/PB/#/PBDisplays/9879"
-    },
-    "R-058": {
+   },
+   "R-058":
+   {
        "ESP": "NVM",
        "Fluid Rate": "9543",
        "Genset": "Perkins",
@@ -376,8 +402,9 @@
        "press_poly_id": null,
        "status_poly_id": null,
        "link": "https://pivision.roobasra.com/PIVision/PB/#/PBDisplays/9880"
-    },
-    "R-061": {
+   },
+   "R-061":
+   {
        "ESP": "NVM",
        "Fluid Rate": "2468",
        "Genset": "Perkins",
@@ -386,12 +413,13 @@
        "VSD": "NVM",
        "WC": "0.441",
        "Water Rate": "1088.3880000000001",
-       "on": 0,
+       "on": 1,
        "press_poly_id": null,
        "status_poly_id": null,
        "link": "https://pivision.roobasra.com/PIVision/PB/#/PBDisplays/9881"
-    },
-    "R-062z": {
+   },
+   "R-062z":
+   {
        "ESP": "NVM",
        "Fluid Rate": "4100",
        "Genset": "",
@@ -404,8 +432,9 @@
        "press_poly_id": null,
        "status_poly_id": null,
        "link": "https://pivision.roobasra.com/PIVision/#/Displays/10109/R-062Z-Well-Status"
-    },
-    "R-065": {
+   },
+   "R-065":
+   {
        "ESP": "NVM",
        "Fluid Rate": "4239",
        "Genset": "Perkins",
@@ -418,8 +447,9 @@
        "press_poly_id": null,
        "status_poly_id": null,
        "link": "https://pivision.roobasra.com/PIVision/PB/#/PBDisplays/9882"
-    },
-    "R-066": {
+   },
+   "R-066":
+   {
        "ESP": "NVM",
        "Fluid Rate": "1774",
        "Genset": "",
@@ -432,8 +462,9 @@
        "press_poly_id": null,
        "status_poly_id": null,
        "link": "https://pivision.roobasra.com/PIVision/PB/#/PBDisplays/9883"
-    },
-    "R-068": {
+   },
+   "R-068":
+   {
        "ESP": "BHI",
        "Fluid Rate": "4378",
        "Genset": "",
@@ -446,8 +477,9 @@
        "press_poly_id": null,
        "status_poly_id": null,
        "link": "https://pivision.roobasra.com/PIVision/PB/#/PBDisplays/9884"
-    },
-    "R-071": {
+   },
+   "R-071":
+   {
        "ESP": "BHI",
        "Fluid Rate": "1812",
        "Genset": "Perkins",
@@ -460,8 +492,9 @@
        "press_poly_id": null,
        "status_poly_id": null,
        "link": "https://pivision.roobasra.com/PIVision/PB/#/PBDisplays/9885"
-    },
-    "R-072": {
+   },
+   "R-072":
+   {
        "ESP": "NVM",
        "Fluid Rate": "4363",
        "Genset": "Perkins",
@@ -474,8 +507,9 @@
        "press_poly_id": null,
        "status_poly_id": null,
        "link": "https://pivision.roobasra.com/PIVision/PB/#/PBDisplays/9886"
-    },
-    "R-075": {
+   },
+   "R-075":
+   {
        "ESP": "NVM",
        "Fluid Rate": "1388",
        "Genset": "",
@@ -488,8 +522,9 @@
        "press_poly_id": null,
        "status_poly_id": null,
        "link": "https://pivision.roobasra.com/PIVision/PB/#/PBDisplays/9887"
-    },
-    "R-076z": {
+   },
+   "R-076z":
+   {
        "ESP": "NVM",
        "Fluid Rate": "3883",
        "Genset": "Perkins",
@@ -502,8 +537,9 @@
        "press_poly_id": null,
        "status_poly_id": null,
        "link": "https://pivision.roobasra.com/PIVision/PB/#/PBDisplays/14099"
-    },
-    "R-077": {
+   },
+   "R-077":
+   {
        "ESP": "NVM",
        "Fluid Rate": "2527",
        "Genset": "Perkins",
@@ -516,8 +552,9 @@
        "press_poly_id": null,
        "status_poly_id": null,
        "link": "https://pivision.roobasra.com/PIVision/PB/#/PBDisplays/9888"
-    },
-    "R-080": {
+   },
+   "R-080":
+   {
        "ESP": "NVM",
        "Fluid Rate": "1917",
        "Genset": "",
@@ -530,8 +567,9 @@
        "press_poly_id": null,
        "status_poly_id": null,
        "link": "https://pivision.roobasra.com/PIVision/PB/#/PBDisplays/9889"
-    },
-    "R-082": {
+   },
+   "R-082":
+   {
        "ESP": "NVM",
        "Fluid Rate": "2439",
        "Genset": "Perkins",
@@ -540,12 +578,13 @@
        "VSD": "NVM",
        "WC": "0.587",
        "Water Rate": "1431.6929999999998",
-       "on": 0,
+       "on": 1,
        "press_poly_id": null,
        "status_poly_id": null,
        "link": "https://pivision.roobasra.com/PIVision/PB/#/PBDisplays/13695"
-    },
-    "R-086": {
+   },
+   "R-086":
+   {
        "ESP": "BHI",
        "Fluid Rate": "7176",
        "Genset": "Perkins",
@@ -558,8 +597,9 @@
        "press_poly_id": null,
        "status_poly_id": null,
        "link": "https://pivision.roobasra.com/PIVision/PB/#/PBDisplays/9890"
-    },
-    "R-124": {
+   },
+   "R-124":
+   {
        "ESP": "BHI",
        "Fluid Rate": "4669",
        "Genset": "Perkins",
@@ -572,8 +612,9 @@
        "press_poly_id": null,
        "status_poly_id": null,
        "link": "https://pivision.roobasra.com/PIVision/PB/#/PBDisplays/9892"
-    },
-    "R-157z": {
+   },
+   "R-157z":
+   {
        "ESP": "NVM",
        "Fluid Rate": "2415",
        "Genset": "Perkins",
@@ -586,8 +627,9 @@
        "press_poly_id": null,
        "status_poly_id": null,
        "link": "https://pivision.roobasra.com/PIVision/PB/#/PBDisplays/9893"
-    },
-    "R-163z": {
+   },
+   "R-163z":
+   {
        "ESP": "BHI",
        "Fluid Rate": "3389",
        "Genset": "Perkins",
@@ -600,8 +642,9 @@
        "press_poly_id": null,
        "status_poly_id": null,
        "link": "https://pivision.roobasra.com/PIVision/PB/#/PBDisplays/9894"
-    },
-    "R-164": {
+   },
+   "R-164":
+   {
        "ESP": "BHI",
        "Fluid Rate": "4152",
        "Genset": "Perkins",
@@ -614,8 +657,9 @@
        "press_poly_id": null,
        "status_poly_id": null,
        "link": "https://pivision.roobasra.com/PIVision/PB/#/PBDisplays/13948"
-    },
-    "R-169": {
+   },
+   "R-169":
+   {
        "ESP": "NVM",
        "Fluid Rate": "4457",
        "Genset": "Perkins",
@@ -624,12 +668,13 @@
        "VSD": "NVM",
        "WC": "0.69",
        "Water Rate": "3075.33",
-       "on": 0,
+       "on": 1,
        "press_poly_id": null,
        "status_poly_id": null,
        "link": "https://pivision.roobasra.com/PIVision/PB/#/PBDisplays/9895"
-    },
-    "R-173": {
+   },
+   "R-173":
+   {
        "ESP": "NVM",
        "Fluid Rate": "4169",
        "Genset": "Perkins",
@@ -638,12 +683,13 @@
        "VSD": "NVM",
        "WC": "0.61",
        "Water Rate": "2543.09",
-       "on": 0,
+       "on": 1,
        "press_poly_id": null,
        "status_poly_id": null,
        "link": "https://pivision.roobasra.com/PIVision/PB/#/PBDisplays/9896"
-    },
-    "R-175": {
+   },
+   "R-175":
+   {
        "ESP": "NVM",
        "Fluid Rate": "4835",
        "Genset": "Perkins",
@@ -656,8 +702,9 @@
        "press_poly_id": null,
        "status_poly_id": null,
        "link": "https://pivision.roobasra.com/PIVision/PB/#/PBDisplays/9634"
-    },
-    "R-177": {
+   },
+   "R-177":
+   {
        "ESP": "NVM",
        "Fluid Rate": "4983",
        "Genset": "Perkins",
@@ -670,8 +717,9 @@
        "press_poly_id": null,
        "status_poly_id": null,
        "link": "https://pivision.roobasra.com/PIVision/PB/#/PBDisplays/9897"
-    },
-    "R-179": {
+   },
+   "R-179":
+   {
        "ESP": "BHI",
        "Fluid Rate": "5452",
        "Genset": "Perkins",
@@ -684,8 +732,9 @@
        "press_poly_id": null,
        "status_poly_id": null,
        "link": "https://pivision.roobasra.com/PIVision/PB/#/PBDisplays/14454"
-    },
-    "R-188": {
+   },
+   "R-188":
+   {
        "ESP": "BHI",
        "Fluid Rate": "4698",
        "Genset": "Perkins",
@@ -698,8 +747,9 @@
        "press_poly_id": null,
        "status_poly_id": null,
        "link": "https://pivision.roobasra.com/PIVision/PB/#/PBDisplays/9898"
-    },
-    "R-189": {
+   },
+   "R-189":
+   {
        "ESP": "NVM",
        "Fluid Rate": "3830",
        "Genset": "Perkins",
@@ -712,8 +762,9 @@
        "press_poly_id": null,
        "status_poly_id": null,
        "link": "https://pivision.roobasra.com/PIVision/PB/#/PBDisplays/9637"
-    },
-    "R-193": {
+   },
+   "R-193":
+   {
        "ESP": "BHI",
        "Fluid Rate": "6059",
        "Genset": "Perkins",
@@ -726,8 +777,9 @@
        "press_poly_id": null,
        "status_poly_id": null,
        "link": "https://pivision.roobasra.com/PIVision/PB/#/PBDisplays/14916"
-    },
-    "R-194": {
+   },
+   "R-194":
+   {
        "ESP": "NVM",
        "Fluid Rate": "3511",
        "Genset": "Perkins",
@@ -740,8 +792,9 @@
        "press_poly_id": null,
        "status_poly_id": null,
        "link": "https://pivision.roobasra.com/PIVision/PB/#/PBDisplays/9638"
-    },
-    "R-199": {
+   },
+   "R-199":
+   {
        "ESP": "BHI",
        "Fluid Rate": "3031",
        "Genset": "Perkins",
@@ -754,8 +807,9 @@
        "press_poly_id": null,
        "status_poly_id": null,
        "link": "https://pivision.roobasra.com/PIVision/PB/#/PBDisplays/9639"
-    },
-    "R-200": {
+   },
+   "R-200":
+   {
        "ESP": "NVM",
        "Fluid Rate": "6620",
        "Genset": "Perkins",
@@ -768,8 +822,9 @@
        "press_poly_id": null,
        "status_poly_id": null,
        "link": "https://pivision.roobasra.com/PIVision/PB/#/PBDisplays/9640"
-    },
-    "R-201": {
+   },
+   "R-201":
+   {
        "ESP": "NVM",
        "Fluid Rate": "3568",
        "Genset": "Perkins",
@@ -782,8 +837,9 @@
        "press_poly_id": null,
        "status_poly_id": null,
        "link": "https://pivision.roobasra.com/PIVision/PB/#/PBDisplays/9641"
-    },
-    "R-203": {
+   },
+   "R-203":
+   {
        "ESP": "NVM",
        "Fluid Rate": "2051",
        "Genset": "Perkins",
@@ -796,8 +852,9 @@
        "press_poly_id": null,
        "status_poly_id": null,
        "link": "https://pivision.roobasra.com/PIVision/PB/#/PBDisplays/9642"
-    },
-    "R-204": {
+   },
+   "R-204":
+   {
        "ESP": "NVM",
        "Fluid Rate": "6912",
        "Genset": "Perkins",
@@ -810,8 +867,9 @@
        "press_poly_id": null,
        "status_poly_id": null,
        "link": "https://pivision.roobasra.com/PIVision/PB/#/PBDisplays/9643"
-    },
-    "R-208": {
+   },
+   "R-208":
+   {
        "ESP": "APC",
        "Fluid Rate": "2548",
        "Genset": "",
@@ -824,8 +882,9 @@
        "press_poly_id": null,
        "status_poly_id": null,
        "link": "https://pivision.roobasra.com/PIVision/PB/#/PBDisplays/9644"
-    },
-    "R-210": {
+   },
+   "R-210":
+   {
        "ESP": "BHI",
        "Fluid Rate": "4701",
        "Genset": "",
@@ -838,8 +897,9 @@
        "press_poly_id": null,
        "status_poly_id": null,
        "link": "https://pivision.roobasra.com/PIVision/PB/#/PBDisplays/9645"
-    },
-    "R-214": {
+   },
+   "R-214":
+   {
        "ESP": "NVM",
        "Fluid Rate": "2964",
        "Genset": "Perkins",
@@ -852,8 +912,9 @@
        "press_poly_id": null,
        "status_poly_id": null,
        "link": "https://pivision.roobasra.com/PIVision/PB/#/PBDisplays/9646"
-    },
-    "R-220": {
+   },
+   "R-220":
+   {
        "ESP": "BHI",
        "Fluid Rate": "558",
        "Genset": "",
@@ -866,8 +927,9 @@
        "press_poly_id": null,
        "status_poly_id": null,
        "link": "https://pivision.roobasra.com/PIVision/PB/#/PBDisplays/9647"
-    },
-    "R-221": {
+   },
+   "R-221":
+   {
        "ESP": "NVM",
        "Fluid Rate": "3622",
        "Genset": "Perkins",
@@ -880,8 +942,9 @@
        "press_poly_id": null,
        "status_poly_id": null,
        "link": "https://pivision.roobasra.com/PIVision/PB/#/PBDisplays/9648"
-    },
-    "R-225": {
+   },
+   "R-225":
+   {
        "ESP": "NVM",
        "Fluid Rate": "4196",
        "Genset": "Perkins",
@@ -894,8 +957,9 @@
        "press_poly_id": null,
        "status_poly_id": null,
        "link": "https://pivision.roobasra.com/PIVision/PB/#/PBDisplays/9649"
-    },
-    "R-231": {
+   },
+   "R-231":
+   {
        "ESP": "NVM",
        "Fluid Rate": "5737",
        "Genset": "Perkins",
@@ -908,8 +972,9 @@
        "press_poly_id": null,
        "status_poly_id": null,
        "link": "https://pivision.roobasra.com/PIVision/PB/#/PBDisplays/9650"
-    },
-    "R-236": {
+   },
+   "R-236":
+   {
        "ESP": "NVM",
        "Fluid Rate": "2588",
        "Genset": "Perkins",
@@ -922,8 +987,9 @@
        "press_poly_id": null,
        "status_poly_id": null,
        "link": "https://pivision.roobasra.com/PIVision/PB/#/PBDisplays/9651"
-    },
-    "R-238": {
+   },
+   "R-238":
+   {
        "ESP": "NVM",
        "Fluid Rate": "1287",
        "Genset": "",
@@ -936,8 +1002,9 @@
        "press_poly_id": null,
        "status_poly_id": null,
        "link": "https://pivision.roobasra.com/PIVision/PB/#/PBDisplays/14948"
-    },
-    "R-246": {
+   },
+   "R-246":
+   {
        "ESP": "NVM",
        "Fluid Rate": "4312",
        "Genset": "Perkins",
@@ -950,8 +1017,9 @@
        "press_poly_id": null,
        "status_poly_id": null,
        "link": "https://pivision.roobasra.com/PIVision/PB/#/PBDisplays/9652"
-    },
-    "R-254": {
+   },
+   "R-254":
+   {
        "ESP": "NVM",
        "Fluid Rate": "730",
        "Genset": "Perkins",
@@ -964,8 +1032,9 @@
        "press_poly_id": null,
        "status_poly_id": null,
        "link": "https://pivision.roobasra.com/PIVision/PB/#/PBDisplays/9653"
-    },
-    "R-259": {
+   },
+   "R-259":
+   {
        "ESP": "NVM",
        "Fluid Rate": "1359",
        "Genset": "",
@@ -978,8 +1047,9 @@
        "press_poly_id": null,
        "status_poly_id": null,
        "link": "https://pivision.roobasra.com/PIVision/PB/#/PBDisplays/9654"
-    },
-    "R-264": {
+   },
+   "R-264":
+   {
        "ESP": "NVM",
        "Fluid Rate": "1409",
        "Genset": "Perkins",
@@ -992,8 +1062,9 @@
        "press_poly_id": null,
        "status_poly_id": null,
        "link": "https://pivision.roobasra.com/PIVision/PB/#/PBDisplays/9655"
-    },
-    "R-265": {
+   },
+   "R-265":
+   {
        "ESP": "NVM",
        "Fluid Rate": "3796",
        "Genset": "Perkins",
@@ -1006,8 +1077,9 @@
        "press_poly_id": null,
        "status_poly_id": null,
        "link": "https://pivision.roobasra.com/PIVision/PB/#/PBDisplays/13831"
-    },
-    "R-267": {
+   },
+   "R-267":
+   {
        "ESP": "NVM",
        "Fluid Rate": "3849",
        "Genset": "Perkins",
@@ -1020,8 +1092,9 @@
        "press_poly_id": null,
        "status_poly_id": null,
        "link": "https://pivision.roobasra.com/PIVision/PB/#/PBDisplays/9656"
-    },
-    "R-270": {
+   },
+   "R-270":
+   {
        "ESP": "NVM",
        "Fluid Rate": "4955",
        "Genset": "Perkins",
@@ -1034,8 +1107,9 @@
        "press_poly_id": null,
        "status_poly_id": null,
        "link": "https://pivision.roobasra.com/PIVision/PB/#/PBDisplays/12960"
-    },
-    "R-272": {
+   },
+   "R-272":
+   {
        "ESP": "BHI",
        "Fluid Rate": "5108",
        "Genset": "Perkins",
@@ -1048,8 +1122,9 @@
        "press_poly_id": null,
        "status_poly_id": null,
        "link": "https://pivision.roobasra.com/PIVision/PB/#/PBDisplays/9657"
-    },
-    "R-277": {
+   },
+   "R-277":
+   {
        "ESP": "NVM",
        "Fluid Rate": "7820",
        "Genset": "Perkins",
@@ -1062,8 +1137,9 @@
        "press_poly_id": null,
        "status_poly_id": null,
        "link": "https://pivision.roobasra.com/PIVision/PB/#/PBDisplays/9658"
-    },
-    "R-309": {
+   },
+   "R-309":
+   {
        "ESP": "NVM",
        "Fluid Rate": "4628",
        "Genset": "Perkins",
@@ -1076,8 +1152,9 @@
        "press_poly_id": null,
        "status_poly_id": null,
        "link": "https://pivision.roobasra.com/PIVision/PB/#/PBDisplays/9659"
-    },
-    "R-316": {
+   },
+   "R-316":
+   {
        "ESP": "NVM",
        "Fluid Rate": "2642",
        "Genset": "Perkins",
@@ -1090,8 +1167,9 @@
        "press_poly_id": null,
        "status_poly_id": null,
        "link": "https://pivision.roobasra.com/PIVision/PB/#/PBDisplays/13697"
-    },
-    "R-337": {
+   },
+   "R-337":
+   {
        "ESP": "NVM",
        "Fluid Rate": "2625",
        "Genset": "Perkins",
@@ -1104,8 +1182,9 @@
        "press_poly_id": null,
        "status_poly_id": null,
        "link": "https://pivision.roobasra.com/PIVision/PB/#/PBDisplays/14498"
-    },
-    "R-351": {
+   },
+   "R-351":
+   {
        "ESP": "NVM",
        "Fluid Rate": "4924",
        "Genset": "Perkins",
@@ -1118,8 +1197,9 @@
        "press_poly_id": null,
        "status_poly_id": null,
        "link": "https://pivision.roobasra.com/PIVision/PB/#/PBDisplays/9662"
-    },
-    "R-356": {
+   },
+   "R-356":
+   {
        "ESP": "NVM",
        "Fluid Rate": "2605",
        "Genset": "CAT",
@@ -1128,12 +1208,13 @@
        "VSD": "NVM",
        "WC": "0.54",
        "Water Rate": "1406.7",
-       "on": 0,
+       "on": 1,
        "press_poly_id": null,
        "status_poly_id": null,
        "link": "https://pivision.roobasra.com/PIVision/PB/#/PBDisplays/13744"
-    },
-    "R-360": {
+   },
+   "R-360":
+   {
        "ESP": "BHI",
        "Fluid Rate": "5717",
        "Genset": "Perkins",
@@ -1142,12 +1223,13 @@
        "VSD": "NVM",
        "WC": "0.68",
        "Water Rate": "3887.5600000000004",
-       "on": 0,
+       "on": 1,
        "press_poly_id": null,
        "status_poly_id": null,
        "link": "https://pivision.roobasra.com/PIVision/PB/#/PBDisplays/9663"
-    },
-    "R-362": {
+   },
+   "R-362":
+   {
        "ESP": null,
        "Fluid Rate": "",
        "Genset": null,
@@ -1160,8 +1242,9 @@
        "press_poly_id": null,
        "status_poly_id": null,
        "link": "https://pivision.roobasra.com/PIVision/PB/#/PBDisplays/15026"
-    },
-    "R-368": {
+   },
+   "R-368":
+   {
        "ESP": "APC",
        "Fluid Rate": "1680",
        "Genset": "Perkins",
@@ -1174,8 +1257,9 @@
        "press_poly_id": null,
        "status_poly_id": null,
        "link": "https://pivision.roobasra.com/PIVision/PB/#/PBDisplays/9664"
-    },
-    "R-379": {
+   },
+   "R-379":
+   {
        "ESP": "NVM",
        "Fluid Rate": "4826",
        "Genset": "",
@@ -1188,8 +1272,9 @@
        "press_poly_id": null,
        "status_poly_id": null,
        "link": "https://pivision.roobasra.com/PIVision/PB/#/PBDisplays/13763"
-    },
-    "R-419": {
+   },
+   "R-419":
+   {
        "ESP": "NVM",
        "Fluid Rate": "2966",
        "Genset": "",
@@ -1202,8 +1287,9 @@
        "press_poly_id": null,
        "status_poly_id": null,
        "link": "https://pivision.roobasra.com/PIVision/PB/#/PBDisplays/13830"
-    },
-    "R-420": {
+   },
+   "R-420":
+   {
        "ESP": "BHI",
        "Fluid Rate": "1637",
        "Genset": "Perkins",
@@ -1216,8 +1302,9 @@
        "press_poly_id": null,
        "status_poly_id": null,
        "link": "https://pivision.roobasra.com/PIVision/PB/#/PBDisplays/9665"
-    },
-    "R-423": {
+   },
+   "R-423":
+   {
        "ESP": "NVM",
        "Fluid Rate": "804",
        "Genset": "Perkins",
@@ -1230,8 +1317,9 @@
        "press_poly_id": null,
        "status_poly_id": null,
        "link": "https://pivision.roobasra.com/PIVision/PB/#/PBDisplays/9666"
-    },
-    "R-424": {
+   },
+   "R-424":
+   {
        "ESP": "NVM",
        "Fluid Rate": "434",
        "Genset": "Perkins",
@@ -1244,8 +1332,9 @@
        "press_poly_id": null,
        "status_poly_id": null,
        "link": "https://pivision.roobasra.com/PIVision/PB/#/PBDisplays/9667"
-    },
-    "R-435": {
+   },
+   "R-435":
+   {
        "ESP": "NVM",
        "Fluid Rate": "2496",
        "Genset": "Perkins",
@@ -1258,8 +1347,9 @@
        "press_poly_id": null,
        "status_poly_id": null,
        "link": "https://pivision.roobasra.com/PIVision/PB/#/PBDisplays/13810"
-    },
-    "R-446": {
+   },
+   "R-446":
+   {
        "ESP": "NVM",
        "Fluid Rate": "1956",
        "Genset": "Perkins",
@@ -1272,8 +1362,9 @@
        "press_poly_id": null,
        "status_poly_id": null,
        "link": "https://pivision.roobasra.com/PIVision/PB/#/PBDisplays/14681"
-    },
-    "R-456": {
+   },
+   "R-456":
+   {
        "ESP": "NVM",
        "Fluid Rate": "1344",
        "Genset": "",
@@ -1286,8 +1377,9 @@
        "press_poly_id": null,
        "status_poly_id": null,
        "link": "https://pivision.roobasra.com/PIVision/PB/#/PBDisplays/9668"
-    },
-    "R-462": {
+   },
+   "R-462":
+   {
        "ESP": "NVM",
        "Fluid Rate": "4338",
        "Genset": "Perkins",
@@ -1300,8 +1392,9 @@
        "press_poly_id": null,
        "status_poly_id": null,
        "link": "https://pivision.roobasra.com/PIVision/PB/#/PBDisplays/13865"
-    },
-    "R-463": {
+   },
+   "R-463":
+   {
        "ESP": "NVM",
        "Fluid Rate": "2507",
        "Genset": "Perkins",
@@ -1314,8 +1407,9 @@
        "press_poly_id": null,
        "status_poly_id": null,
        "link": "https://pivision.roobasra.com/PIVision/PB/#/PBDisplays/9669"
-    },
-    "R-467": {
+   },
+   "R-467":
+   {
        "ESP": "NVM",
        "Fluid Rate": "1838",
        "Genset": "Perkins",
@@ -1328,8 +1422,9 @@
        "press_poly_id": null,
        "status_poly_id": null,
        "link": "https://pivision.roobasra.com/PIVision/PB/#/PBDisplays/9671"
-    },
-    "R-473": {
+   },
+   "R-473":
+   {
        "ESP": "NVM",
        "Fluid Rate": "2646",
        "Genset": "Perkins",
@@ -1342,8 +1437,9 @@
        "press_poly_id": null,
        "status_poly_id": null,
        "link": "https://pivision.roobasra.com/PIVision/PB/#/PBDisplays/9672"
-    },
-    "R-474": {
+   },
+   "R-474":
+   {
        "ESP": "BHI",
        "Fluid Rate": "5048",
        "Genset": "Perkins",
@@ -1356,8 +1452,9 @@
        "press_poly_id": null,
        "status_poly_id": null,
        "link": "https://pivision.roobasra.com/PIVision/PB/#/PBDisplays/9673"
-    },
-    "R-476": {
+   },
+   "R-476":
+   {
        "ESP": "NVM",
        "Fluid Rate": "1537",
        "Genset": "",
@@ -1370,8 +1467,9 @@
        "press_poly_id": null,
        "status_poly_id": null,
        "link": "https://pivision.roobasra.com/PIVision/PB/#/PBDisplays/9674"
-    },
-    "R-488z": {
+   },
+   "R-488z":
+   {
        "ESP": "BHI",
        "Fluid Rate": "3306",
        "Genset": "",
@@ -1384,8 +1482,9 @@
        "press_poly_id": null,
        "status_poly_id": null,
        "link": "https://pivision.roobasra.com/PIVision/PB/#/PBDisplays/9676"
-    },
-    "R-490y": {
+   },
+   "R-490y":
+   {
        "ESP": "NVM",
        "Fluid Rate": "2569",
        "Genset": "Perkins",
@@ -1398,8 +1497,9 @@
        "press_poly_id": null,
        "status_poly_id": null,
        "link": "https://pivision.roobasra.com/PIVision/PB/#/PBDisplays/14494"
-    },
-    "R-491z": {
+   },
+   "R-491z":
+   {
        "ESP": "NVM",
        "Fluid Rate": "4469",
        "Genset": "Perkins",
@@ -1412,8 +1512,9 @@
        "press_poly_id": null,
        "status_poly_id": null,
        "link": "https://pivision.roobasra.com/PIVision/PB/#/PBDisplays/12964"
-    },
-    "R-508": {
+   },
+   "R-508":
+   {
        "ESP": "BHI",
        "Fluid Rate": "2859",
        "Genset": "Perkins",
@@ -1426,8 +1527,9 @@
        "press_poly_id": null,
        "status_poly_id": null,
        "link": "https://pivision.roobasra.com/PIVision/PB/#/PBDisplays/9677"
-    },
-    "R-510": {
+   },
+   "R-510":
+   {
        "ESP": "BHI",
        "Fluid Rate": "4936",
        "Genset": "",
@@ -1440,8 +1542,9 @@
        "press_poly_id": null,
        "status_poly_id": null,
        "link": "https://pivision.roobasra.com/PIVision/PB/#/PBDisplays/9899"
-    },
-    "R-511": {
+   },
+   "R-511":
+   {
        "ESP": "BHI",
        "Fluid Rate": "1915",
        "Genset": "Perkins",
@@ -1454,8 +1557,9 @@
        "press_poly_id": null,
        "status_poly_id": null,
        "link": "https://pivision.roobasra.com/PIVision/PB/#/PBDisplays/9900"
-    },
-    "R-513": {
+   },
+   "R-513":
+   {
        "ESP": "NVM",
        "Fluid Rate": "5397",
        "Genset": "Perkins",
@@ -1468,8 +1572,9 @@
        "press_poly_id": null,
        "status_poly_id": null,
        "link": "https://pivision.roobasra.com/PIVision/PB/#/PBDisplays/9901"
-    },
-    "R-514": {
+   },
+   "R-514":
+   {
        "ESP": "NVM",
        "Fluid Rate": "4326",
        "Genset": "Perkins",
@@ -1482,8 +1587,9 @@
        "press_poly_id": null,
        "status_poly_id": null,
        "link": "https://pivision.roobasra.com/PIVision/PB/#/PBDisplays/14956"
-    },
-    "R-515": {
+   },
+   "R-515":
+   {
        "ESP": "BHI",
        "Fluid Rate": "2300",
        "Genset": "Perkins",
@@ -1496,8 +1602,9 @@
        "press_poly_id": null,
        "status_poly_id": null,
        "link": "https://pivision.roobasra.com/PIVision/PB/#/PBDisplays/9902"
-    },
-    "R-517": {
+   },
+   "R-517":
+   {
        "ESP": "NVM",
        "Fluid Rate": "4538",
        "Genset": "Perkins",
@@ -1510,8 +1617,9 @@
        "press_poly_id": null,
        "status_poly_id": null,
        "link": "https://pivision.roobasra.com/PIVision/PB/#/PBDisplays/14721"
-    },
-    "R-518": {
+   },
+   "R-518":
+   {
        "ESP": "BHI",
        "Fluid Rate": "3443",
        "Genset": "Perkins",
@@ -1524,8 +1632,9 @@
        "press_poly_id": null,
        "status_poly_id": null,
        "link": "https://pivision.roobasra.com/PIVision/PB/#/PBDisplays/9903"
-    },
-    "R-519": {
+   },
+   "R-519":
+   {
        "ESP": "NVM",
        "Fluid Rate": "2728",
        "Genset": "Perkins",
@@ -1534,12 +1643,13 @@
        "VSD": "NVM",
        "WC": "0.529",
        "Water Rate": "1443.112",
-       "on": 0,
+       "on": 1,
        "press_poly_id": null,
        "status_poly_id": null,
        "link": "https://pivision.roobasra.com/PIVision/PB/#/PBDisplays/12962"
-    },
-    "R-520": {
+   },
+   "R-520":
+   {
        "ESP": "NVM",
        "Fluid Rate": "5410",
        "Genset": "Perkins",
@@ -1552,8 +1662,9 @@
        "press_poly_id": null,
        "status_poly_id": null,
        "link": "https://pivision.roobasra.com/PIVision/PB/#/PBDisplays/9904"
-    },
-    "R-521": {
+   },
+   "R-521":
+   {
        "ESP": "BHI",
        "Fluid Rate": "8066",
        "Genset": "Perkins",
@@ -1566,8 +1677,9 @@
        "press_poly_id": null,
        "status_poly_id": null,
        "link": "https://pivision.roobasra.com/PIVision/PB/#/PBDisplays/9905"
-    },
-    "R-522": {
+   },
+   "R-522":
+   {
        "ESP": "BHI",
        "Fluid Rate": "2731",
        "Genset": "Perkins",
@@ -1580,8 +1692,9 @@
        "press_poly_id": null,
        "status_poly_id": null,
        "link": "https://pivision.roobasra.com/PIVision/PB/#/PBDisplays/9906"
-    },
-    "R-527": {
+   },
+   "R-527":
+   {
        "ESP": "BHI",
        "Fluid Rate": "4489",
        "Genset": "Perkins",
@@ -1594,8 +1707,9 @@
        "press_poly_id": null,
        "status_poly_id": null,
        "link": "https://pivision.roobasra.com/PIVision/PB/#/PBDisplays/9908"
-    },
-    "R-528": {
+   },
+   "R-528":
+   {
        "ESP": "NVM",
        "Fluid Rate": "2338",
        "Genset": "Perkins",
@@ -1608,8 +1722,9 @@
        "press_poly_id": null,
        "status_poly_id": null,
        "link": "https://pivision.roobasra.com/PIVision/PB/#/PBDisplays/9909"
-    },
-    "R-529": {
+   },
+   "R-529":
+   {
        "ESP": "NVM",
        "Fluid Rate": "1116",
        "Genset": "",
@@ -1622,8 +1737,9 @@
        "press_poly_id": null,
        "status_poly_id": null,
        "link": "https://pivision.roobasra.com/PIVision/PB/#/PBDisplays/9910"
-    },
-    "R-531": {
+   },
+   "R-531":
+   {
        "ESP": "NVM",
        "Fluid Rate": "1800",
        "Genset": "",
@@ -1636,8 +1752,9 @@
        "press_poly_id": null,
        "status_poly_id": null,
        "link": "https://pivision.roobasra.com/PIVision/#/Displays/1060/R-531-Well-Status"
-    },
-    "R-534": {
+   },
+   "R-534":
+   {
        "ESP": "NVM",
        "Fluid Rate": "5260",
        "Genset": "Perkins",
@@ -1650,8 +1767,9 @@
        "press_poly_id": null,
        "status_poly_id": null,
        "link": "https://pivision.roobasra.com/PIVision/PB/#/PBDisplays/14452"
-    },
-    "R-537": {
+   },
+   "R-537":
+   {
        "ESP": "NVM",
        "Fluid Rate": "4063",
        "Genset": "",
@@ -1664,8 +1782,9 @@
        "press_poly_id": null,
        "status_poly_id": null,
        "link": "https://pivision.roobasra.com/PIVision/PB/#/PBDisplays/14116"
-    },
-    "R-539": {
+   },
+   "R-539":
+   {
        "ESP": "NVM",
        "Fluid Rate": "1772",
        "Genset": "Perkins",
@@ -1678,8 +1797,9 @@
        "press_poly_id": null,
        "status_poly_id": null,
        "link": "https://pivision.roobasra.com/PIVision/PB/#/PBDisplays/9911"
-    },
-    "R-542z": {
+   },
+   "R-542z":
+   {
        "ESP": "NVM",
        "Fluid Rate": "2344",
        "Genset": "Perkins",
@@ -1692,8 +1812,9 @@
        "press_poly_id": null,
        "status_poly_id": null,
        "link": "https://pivision.roobasra.com/PIVision/PB/#/PBDisplays/13110"
-    },
-    "R-543z": {
+   },
+   "R-543z":
+   {
        "ESP": "BHI",
        "Fluid Rate": "3663",
        "Genset": "Perkins",
@@ -1706,8 +1827,9 @@
        "press_poly_id": null,
        "status_poly_id": null,
        "link": "https://pivision.roobasra.com/PIVision/PB/#/PBDisplays/9912"
-    },
-    "R-546": {
+   },
+   "R-546":
+   {
        "ESP": "NVM",
        "Fluid Rate": "4128",
        "Genset": "Perkins",
@@ -1720,8 +1842,9 @@
        "press_poly_id": null,
        "status_poly_id": null,
        "link": "https://pivision.roobasra.com/PIVision/PB/#/PBDisplays/9913"
-    },
-    "R-547": {
+   },
+   "R-547":
+   {
        "ESP": "NVM",
        "Fluid Rate": "4711",
        "Genset": "Perkins",
@@ -1734,8 +1857,9 @@
        "press_poly_id": null,
        "status_poly_id": null,
        "link": "https://pivision.roobasra.com/PIVision/PB/#/PBDisplays/9914"
-    },
-    "R-551": {
+   },
+   "R-551":
+   {
        "ESP": "NVM",
        "Fluid Rate": "6236",
        "Genset": "Perkins",
@@ -1748,8 +1872,9 @@
        "press_poly_id": null,
        "status_poly_id": null,
        "link": "https://pivision.roobasra.com/PIVision/PB/#/PBDisplays/13829"
-    },
-    "R-552": {
+   },
+   "R-552":
+   {
        "ESP": "NVM",
        "Fluid Rate": "3541",
        "Genset": "Perkins",
@@ -1762,8 +1887,9 @@
        "press_poly_id": null,
        "status_poly_id": null,
        "link": "https://pivision.roobasra.com/PIVision/PB/#/PBDisplays/9915"
-    },
-    "R-554": {
+   },
+   "R-554":
+   {
        "ESP": "BHI",
        "Fluid Rate": "3583",
        "Genset": "Perkins",
@@ -1776,8 +1902,9 @@
        "press_poly_id": null,
        "status_poly_id": null,
        "link": "https://pivision.roobasra.com/PIVision/PB/#/PBDisplays/9916"
-    },
-    "R-559": {
+   },
+   "R-559":
+   {
        "ESP": "NVM",
        "Fluid Rate": "6284",
        "Genset": "",
@@ -1790,8 +1917,9 @@
        "press_poly_id": null,
        "status_poly_id": null,
        "link": "https://pivision.roobasra.com/PIVision/PB/#/PBDisplays/9917"
-    },
-    "R-560": {
+   },
+   "R-560":
+   {
        "ESP": "BHI",
        "Fluid Rate": "5939",
        "Genset": "Perkins",
@@ -1804,8 +1932,9 @@
        "press_poly_id": null,
        "status_poly_id": null,
        "link": "https://pivision.roobasra.com/PIVision/PB/#/PBDisplays/9918"
-    },
-    "R-564": {
+   },
+   "R-564":
+   {
        "ESP": "BHI",
        "Fluid Rate": "3824",
        "Genset": "Perkins",
@@ -1818,8 +1947,9 @@
        "press_poly_id": null,
        "status_poly_id": null,
        "link": "https://pivision.roobasra.com/PIVision/PB/#/PBDisplays/9920"
-    },
-    "R-567": {
+   },
+   "R-567":
+   {
        "ESP": "NVM",
        "Fluid Rate": "2946",
        "Genset": "Perkins",
@@ -1832,8 +1962,9 @@
        "press_poly_id": null,
        "status_poly_id": null,
        "link": "https://pivision.roobasra.com/PIVision/PB/#/PBDisplays/14780"
-    },
-    "R-569z": {
+   },
+   "R-569z":
+   {
        "ESP": "NVM",
        "Fluid Rate": "2645",
        "Genset": "Perkins",
@@ -1842,12 +1973,13 @@
        "VSD": "NVM",
        "WC": "0.73",
        "Water Rate": "1930.85",
-       "on": 0,
+       "on": 1,
        "press_poly_id": null,
        "status_poly_id": null,
        "link": "https://pivision.roobasra.com/PIVision/PB/#/PBDisplays/13945"
-    },
-    "R-572": {
+   },
+   "R-572":
+   {
        "ESP": "NVM",
        "Fluid Rate": "1280",
        "Genset": "",
@@ -1860,8 +1992,9 @@
        "press_poly_id": null,
        "status_poly_id": null,
        "link": "https://pivision.roobasra.com/PIVision/PB/#/PBDisplays/9921"
-    },
-    "R-574z": {
+   },
+   "R-574z":
+   {
        "ESP": "NVM",
        "Fluid Rate": "908",
        "Genset": "",
@@ -1874,8 +2007,9 @@
        "press_poly_id": null,
        "status_poly_id": null,
        "link": "https://pivision.roobasra.com/PIVision/PB/#/PBDisplays/9922"
-    },
-    "R-581": {
+   },
+   "R-581":
+   {
        "ESP": "",
        "Fluid Rate": "",
        "Genset": "",
@@ -1888,8 +2022,9 @@
        "press_poly_id": null,
        "status_poly_id": null,
        "link": "https://pivision.roobasra.com/PIVision/#/Displays/1088/R-581-Well-Status"
-    },
-    "R-588": {
+   },
+   "R-588":
+   {
        "ESP": "NVM",
        "Fluid Rate": "7334",
        "Genset": "Perkins",
@@ -1902,8 +2037,9 @@
        "press_poly_id": null,
        "status_poly_id": null,
        "link": "https://pivision.roobasra.com/PIVision/PB/#/PBDisplays/9923"
-    },
-    "R-589": {
+   },
+   "R-589":
+   {
        "ESP": "BHI",
        "Fluid Rate": "4427",
        "Genset": "Perkins",
@@ -1916,8 +2052,9 @@
        "press_poly_id": null,
        "status_poly_id": null,
        "link": "https://pivision.roobasra.com/PIVision/PB/#/PBDisplays/14807"
-    },
-    "R-590": {
+   },
+   "R-590":
+   {
        "ESP": "NVM",
        "Fluid Rate": "5184",
        "Genset": "Perkins",
@@ -1930,8 +2067,9 @@
        "press_poly_id": null,
        "status_poly_id": null,
        "link": "https://pivision.roobasra.com/PIVision/PB/#/PBDisplays/9924"
-    },
-    "R-605": {
+   },
+   "R-605":
+   {
        "ESP": "NVM",
        "Fluid Rate": "5003",
        "Genset": "Perkins",
@@ -1944,8 +2082,9 @@
        "press_poly_id": null,
        "status_poly_id": null,
        "link": "https://pivision.roobasra.com/PIVision/PB/#/PBDisplays/14918"
-    },
-    "R-606": {
+   },
+   "R-606":
+   {
        "ESP": "NVM",
        "Fluid Rate": "4761",
        "Genset": "Perkins",
@@ -1958,8 +2097,9 @@
        "press_poly_id": null,
        "status_poly_id": null,
        "link": "https://pivision.roobasra.com/PIVision/PB/#/PBDisplays/14925"
-    },
-    "R-609": {
+   },
+   "R-609":
+   {
        "ESP": "NVM",
        "Fluid Rate": "4969",
        "Genset": "Perkins",
@@ -1968,12 +2108,13 @@
        "VSD": "BHI",
        "WC": "0.62",
        "Water Rate": "3080.7799999999997",
-       "on": 0,
+       "on": 1,
        "press_poly_id": null,
        "status_poly_id": null,
        "link": "https://pivision.roobasra.com/PIVision/PB/#/PBDisplays/9926"
-    },
-    "R-611": {
+   },
+   "R-611":
+   {
        "ESP": "NVM",
        "Fluid Rate": "7391",
        "Genset": "Perkins",
@@ -1986,8 +2127,9 @@
        "press_poly_id": null,
        "status_poly_id": null,
        "link": "https://pivision.roobasra.com/PIVision/PB/#/PBDisplays/9927"
-    },
-    "R-612": {
+   },
+   "R-612":
+   {
        "ESP": "BHI",
        "Fluid Rate": "3800",
        "Genset": "Perkins",
@@ -1996,12 +2138,13 @@
        "VSD": "BKR",
        "WC": "0.159",
        "Water Rate": "604.2000000000003",
-       "on": 0,
+       "on": 1,
        "press_poly_id": null,
        "status_poly_id": null,
        "link": "https://pivision.roobasra.com/PIVision/PB/#/PBDisplays/14798"
-    },
-    "R-640": {
+   },
+   "R-640":
+   {
        "ESP": "BHI",
        "Fluid Rate": "5014",
        "Genset": "CAT",
@@ -2014,8 +2157,9 @@
        "press_poly_id": null,
        "status_poly_id": null,
        "link": "https://pivision.roobasra.com/PIVision/PB/#/PBDisplays/13749"
-    },
-    "R-644": {
+   },
+   "R-644":
+   {
        "ESP": "NVM",
        "Fluid Rate": "2826",
        "Genset": "Perkins",
@@ -2028,8 +2172,9 @@
        "press_poly_id": null,
        "status_poly_id": null,
        "link": "https://pivision.roobasra.com/PIVision/PB/#/PBDisplays/13750"
-    },
-    "R-646": {
+   },
+   "R-646":
+   {
        "ESP": "BHI",
        "Fluid Rate": "3803",
        "Genset": "Perkins",
@@ -2042,8 +2187,9 @@
        "press_poly_id": null,
        "status_poly_id": null,
        "link": "https://pivision.roobasra.com/PIVision/PB/#/PBDisplays/14112"
-    },
-    "R-653": {
+   },
+   "R-653":
+   {
        "ESP": "NVM",
        "Fluid Rate": "2606",
        "Genset": "Perkins",
@@ -2056,8 +2202,9 @@
        "press_poly_id": null,
        "status_poly_id": null,
        "link": "https://pivision.roobasra.com/PIVision/PB/#/PBDisplays/14339"
-    },
-    "R-654": {
+   },
+   "R-654":
+   {
        "ESP": "NVM",
        "Fluid Rate": "2756",
        "Genset": "Perkins",
@@ -2070,8 +2217,9 @@
        "press_poly_id": null,
        "status_poly_id": null,
        "link": "https://pivision.roobasra.com/PIVision/PB/#/PBDisplays/13864"
-    },
-    "R-656": {
+   },
+   "R-656":
+   {
        "ESP": "NVM",
        "Fluid Rate": "4758",
        "Genset": "Perkins",
@@ -2084,8 +2232,9 @@
        "press_poly_id": null,
        "status_poly_id": null,
        "link": "https://pivision.roobasra.com/PIVision/PB/#/PBDisplays/13863"
-    },
-    "R-669": {
+   },
+   "R-669":
+   {
        "ESP": "NVM",
        "Fluid Rate": "2807",
        "Genset": "Perkins",
@@ -2098,8 +2247,9 @@
        "press_poly_id": null,
        "status_poly_id": null,
        "link": "https://pivision.roobasra.com/PIVision/PB/#/PBDisplays/14130"
-    },
-    "R-674": {
+   },
+   "R-674":
+   {
        "ESP": "NVM",
        "Fluid Rate": "2331",
        "Genset": "",
@@ -2112,8 +2262,9 @@
        "press_poly_id": null,
        "status_poly_id": null,
        "link": "https://pivision.roobasra.com/PIVision/PB/#/PBDisplays/14162"
-    },
-    "R-676": {
+   },
+   "R-676":
+   {
        "ESP": "NVM",
        "Fluid Rate": "1973",
        "Genset": "Perkins",
@@ -2126,8 +2277,9 @@
        "press_poly_id": null,
        "status_poly_id": null,
        "link": "https://pivision.roobasra.com/PIVision/PB/#/PBDisplays/14007"
-    },
-    "R-700": {
+   },
+   "R-700":
+   {
        "ESP": "NVM",
        "Fluid Rate": "1900",
        "Genset": "Perkins",
@@ -2140,8 +2292,9 @@
        "press_poly_id": null,
        "status_poly_id": null,
        "link": "https://pivision.roobasra.com/PIVision/PB/#/PBDisplays/14971"
-    },
-    "Ru-001": {
+   },
+   "Ru-001":
+   {
        "ESP": "NVM",
        "Fluid Rate": "3639",
        "Genset": "Perkins",
@@ -2154,8 +2307,9 @@
        "press_poly_id": null,
        "status_poly_id": null,
        "link": "https://pivision.roobasra.com/PIVision/PB/#/PBDisplays/14809"
-    },
-    "Ru-002": {
+   },
+   "Ru-002":
+   {
        "ESP": "NVM",
        "Fluid Rate": "1158",
        "Genset": "Perkins",
@@ -2168,8 +2322,9 @@
        "press_poly_id": null,
        "status_poly_id": null,
        "link": "https://pivision.roobasra.com/PIVision/PB/#/PBDisplays/14774"
-    },
-    "Ru-004": {
+   },
+   "Ru-004":
+   {
        "ESP": "NVM",
        "Fluid Rate": "3022",
        "Genset": "Perkins",
@@ -2182,8 +2337,9 @@
        "press_poly_id": null,
        "status_poly_id": null,
        "link": "https://pivision.roobasra.com/PIVision/PB/#/PBDisplays/9929"
-    },
-    "Ru-007": {
+   },
+   "Ru-007":
+   {
        "ESP": "NVM",
        "Fluid Rate": "5140",
        "Genset": "",
@@ -2196,8 +2352,9 @@
        "press_poly_id": null,
        "status_poly_id": null,
        "link": "https://pivision.roobasra.com/PIVision/PB/#/PBDisplays/9931"
-    },
-    "Ru-009": {
+   },
+   "Ru-009":
+   {
        "ESP": "NVM",
        "Fluid Rate": "2655",
        "Genset": "CAT",
@@ -2210,8 +2367,9 @@
        "press_poly_id": null,
        "status_poly_id": null,
        "link": "https://pivision.roobasra.com/PIVision/PB/#/PBDisplays/9932"
-    },
-    "Ru-012": {
+   },
+   "Ru-012":
+   {
        "ESP": "NVM",
        "Fluid Rate": "2813",
        "Genset": "#N/A",
@@ -2224,8 +2382,9 @@
        "press_poly_id": null,
        "status_poly_id": null,
        "link": "https://pivision.roobasra.com/PIVision/PB/#/PBDisplays/9933"
-    },
-    "Ru-017": {
+   },
+   "Ru-017":
+   {
        "ESP": "NVM",
        "Fluid Rate": "6799",
        "Genset": "Perkins",
@@ -2238,8 +2397,9 @@
        "press_poly_id": null,
        "status_poly_id": null,
        "link": "https://pivision.roobasra.com/PIVision/PB/#/PBDisplays/9935"
-    },
-    "Ru-018a": {
+   },
+   "Ru-018a":
+   {
        "ESP": "BHI",
        "Fluid Rate": "7273",
        "Genset": "Perkins",
@@ -2252,8 +2412,9 @@
        "press_poly_id": null,
        "status_poly_id": null,
        "link": "https://pivision.roobasra.com/PIVision/PB/#/PBDisplays/14538"
-    },
-    "Ru-020": {
+   },
+   "Ru-020":
+   {
        "ESP": "NVM",
        "Fluid Rate": "2877",
        "Genset": "Perkins",
@@ -2266,8 +2427,9 @@
        "press_poly_id": null,
        "status_poly_id": null,
        "link": "https://pivision.roobasra.com/PIVision/PB/#/PBDisplays/14831"
-    },
-    "Ru-022": {
+   },
+   "Ru-022":
+   {
        "ESP": "NVM",
        "Fluid Rate": "1751",
        "Genset": "",
@@ -2280,8 +2442,9 @@
        "press_poly_id": null,
        "status_poly_id": null,
        "link": "https://pivision.roobasra.com/PIVision/PB/#/PBDisplays/9936"
-    },
-    "Ru-023": {
+   },
+   "Ru-023":
+   {
        "ESP": "NVM",
        "Fluid Rate": "1174",
        "Genset": "Perkins",
@@ -2294,8 +2457,9 @@
        "press_poly_id": null,
        "status_poly_id": null,
        "link": "https://pivision.roobasra.com/PIVision/PB/#/PBDisplays/9937"
-    },
-    "Ru-024": {
+   },
+   "Ru-024":
+   {
        "ESP": "NVM",
        "Fluid Rate": "2792",
        "Genset": "Perkins",
@@ -2308,8 +2472,9 @@
        "press_poly_id": null,
        "status_poly_id": null,
        "link": "https://pivision.roobasra.com/PIVision/PB/#/PBDisplays/14113"
-    },
-    "Ru-026": {
+   },
+   "Ru-026":
+   {
        "ESP": "NVM",
        "Fluid Rate": "3980",
        "Genset": "Perkins",
@@ -2322,8 +2487,9 @@
        "press_poly_id": null,
        "status_poly_id": null,
        "link": "https://pivision.roobasra.com/PIVision/PB/#/PBDisplays/9938"
-    },
-    "Ru-030": {
+   },
+   "Ru-030":
+   {
        "ESP": "NVM",
        "Fluid Rate": "6337",
        "Genset": "",
@@ -2336,8 +2502,9 @@
        "press_poly_id": null,
        "status_poly_id": null,
        "link": "https://pivision.roobasra.com/PIVision/PB/#/PBDisplays/9939"
-    },
-    "Ru-032": {
+   },
+   "Ru-032":
+   {
        "ESP": "NVM",
        "Fluid Rate": "3483",
        "Genset": "Perkins",
@@ -2350,8 +2517,9 @@
        "press_poly_id": null,
        "status_poly_id": null,
        "link": "https://pivision.roobasra.com/PIVision/PB/#/PBDisplays/9940"
-    },
-    "Ru-040": {
+   },
+   "Ru-040":
+   {
        "ESP": "NVM",
        "Fluid Rate": "1700",
        "Genset": "Perkins",
@@ -2364,8 +2532,9 @@
        "press_poly_id": null,
        "status_poly_id": null,
        "link": "https://pivision.roobasra.com/PIVision/PB/#/PBDisplays/13828"
-    },
-    "Ru-041": {
+   },
+   "Ru-041":
+   {
        "ESP": "NVM",
        "Fluid Rate": "7126",
        "Genset": "Perkins",
@@ -2378,8 +2547,9 @@
        "press_poly_id": null,
        "status_poly_id": null,
        "link": "https://pivision.roobasra.com/PIVision/PB/#/PBDisplays/9941"
-    },
-    "Ru-043": {
+   },
+   "Ru-043":
+   {
        "ESP": "NVM",
        "Fluid Rate": "2162",
        "Genset": "",
@@ -2392,8 +2562,9 @@
        "press_poly_id": null,
        "status_poly_id": null,
        "link": "https://pivision.roobasra.com/PIVision/PB/#/PBDisplays/13827"
-    },
-    "Ru-044": {
+   },
+   "Ru-044":
+   {
        "ESP": "NVM",
        "Fluid Rate": "1324",
        "Genset": "Perkins",
@@ -2406,8 +2577,9 @@
        "press_poly_id": null,
        "status_poly_id": null,
        "link": "https://pivision.roobasra.com/PIVision/PB/#/PBDisplays/9942"
-    },
-    "Ru-045": {
+   },
+   "Ru-045":
+   {
        "ESP": "NVM",
        "Fluid Rate": "2355",
        "Genset": "",
@@ -2420,8 +2592,9 @@
        "press_poly_id": null,
        "status_poly_id": null,
        "link": "https://pivision.roobasra.com/PIVision/PB/#/PBDisplays/9943"
-    },
-    "Ru-047": {
+   },
+   "Ru-047":
+   {
        "ESP": "BHI",
        "Fluid Rate": "3150",
        "Genset": "Perkins",
@@ -2434,8 +2607,9 @@
        "press_poly_id": null,
        "status_poly_id": null,
        "link": "https://pivision.roobasra.com/PIVision/PB/#/PBDisplays/12956"
-    },
-    "Ru-047a": {
+   },
+   "Ru-047a":
+   {
        "ESP": "BHI",
        "Fluid Rate": "3856",
        "Genset": "Perkins",
@@ -2448,8 +2622,9 @@
        "press_poly_id": null,
        "status_poly_id": null,
        "link": "https://pivision.roobasra.com/PIVision/PB/#/PBDisplays/13021"
-    },
-    "Ru-048": {
+   },
+   "Ru-048":
+   {
        "ESP": "NVM",
        "Fluid Rate": "4647",
        "Genset": "Perkins",
@@ -2462,8 +2637,9 @@
        "press_poly_id": null,
        "status_poly_id": null,
        "link": "https://pivision.roobasra.com/PIVision/PB/#/PBDisplays/9944"
-    },
-    "Ru-049": {
+   },
+   "Ru-049":
+   {
        "ESP": "BHI",
        "Fluid Rate": "4295",
        "Genset": "Perkins",
@@ -2476,8 +2652,9 @@
        "press_poly_id": null,
        "status_poly_id": null,
        "link": "https://pivision.roobasra.com/PIVision/PB/#/PBDisplays/9945"
-    },
-    "Ru-051": {
+   },
+   "Ru-051":
+   {
        "ESP": "NVM",
        "Fluid Rate": "2273",
        "Genset": "Perkins",
@@ -2490,8 +2667,9 @@
        "press_poly_id": null,
        "status_poly_id": null,
        "link": "https://pivision.roobasra.com/PIVision/PB/#/PBDisplays/9946"
-    },
-    "Ru-052": {
+   },
+   "Ru-052":
+   {
        "ESP": "NVM",
        "Fluid Rate": "5995",
        "Genset": "",
@@ -2504,8 +2682,9 @@
        "press_poly_id": null,
        "status_poly_id": null,
        "link": "https://pivision.roobasra.com/PIVision/PB/#/PBDisplays/9947"
-    },
-    "Ru-053": {
+   },
+   "Ru-053":
+   {
        "ESP": "APC",
        "Fluid Rate": "2366",
        "Genset": "Perkins",
@@ -2518,8 +2697,9 @@
        "press_poly_id": null,
        "status_poly_id": null,
        "link": "https://pivision.roobasra.com/PIVision/PB/#/PBDisplays/9948"
-    },
-    "Ru-054z": {
+   },
+   "Ru-054z":
+   {
        "ESP": "NVM",
        "Fluid Rate": "3083",
        "Genset": "",
@@ -2532,8 +2712,9 @@
        "press_poly_id": null,
        "status_poly_id": null,
        "link": "https://pivision.roobasra.com/PIVision/PB/#/PBDisplays/14194"
-    },
-    "Ru-056": {
+   },
+   "Ru-056":
+   {
        "ESP": "",
        "Fluid Rate": "",
        "Genset": "",
@@ -2546,8 +2727,9 @@
        "press_poly_id": null,
        "status_poly_id": null,
        "link": "https://pivision.roobasra.com/PIVision/PB/#/PBDisplays/13867"
-    },
-    "Ru-057": {
+   },
+   "Ru-057":
+   {
        "ESP": "NVM",
        "Fluid Rate": "2479",
        "Genset": "Perkins",
@@ -2560,8 +2742,9 @@
        "press_poly_id": null,
        "status_poly_id": null,
        "link": "https://pivision.roobasra.com/PIVision/PB/#/PBDisplays/9949"
-    },
-    "Ru-058": {
+   },
+   "Ru-058":
+   {
        "ESP": "BHI",
        "Fluid Rate": "1400",
        "Genset": "Perkins",
@@ -2574,8 +2757,9 @@
        "press_poly_id": null,
        "status_poly_id": null,
        "link": "https://pivision.roobasra.com/PIVision/PB/#/PBDisplays/9950"
-    },
-    "Ru-059": {
+   },
+   "Ru-059":
+   {
        "ESP": "BHI",
        "Fluid Rate": "980",
        "Genset": "",
@@ -2588,8 +2772,9 @@
        "press_poly_id": null,
        "status_poly_id": null,
        "link": "https://pivision.roobasra.com/PIVision/#/Displays/10105/RU-059-Well-Status"
-    },
-    "Ru-060": {
+   },
+   "Ru-060":
+   {
        "ESP": "BHI",
        "Fluid Rate": "6871",
        "Genset": "",
@@ -2602,8 +2787,9 @@
        "press_poly_id": null,
        "status_poly_id": null,
        "link": "https://pivision.roobasra.com/PIVision/PB/#/PBDisplays/9951"
-    },
-    "Ru-062": {
+   },
+   "Ru-062":
+   {
        "ESP": "NVM",
        "Fluid Rate": "1803",
        "Genset": "Perkins",
@@ -2616,8 +2802,9 @@
        "press_poly_id": null,
        "status_poly_id": null,
        "link": "https://pivision.roobasra.com/PIVision/PB/#/PBDisplays/9953"
-    },
-    "Ru-063": {
+   },
+   "Ru-063":
+   {
        "ESP": "BHI",
        "Fluid Rate": "4151",
        "Genset": "Perkins",
@@ -2630,8 +2817,9 @@
        "press_poly_id": null,
        "status_poly_id": null,
        "link": "https://pivision.roobasra.com/PIVision/PB/#/PBDisplays/13784"
-    },
-    "Ru-064": {
+   },
+   "Ru-064":
+   {
        "ESP": "APC",
        "Fluid Rate": "2426",
        "Genset": "Perkins",
@@ -2644,8 +2832,9 @@
        "press_poly_id": null,
        "status_poly_id": null,
        "link": "https://pivision.roobasra.com/PIVision/PB/#/PBDisplays/9954"
-    },
-    "Ru-069": {
+   },
+   "Ru-069":
+   {
        "ESP": "NVM",
        "Fluid Rate": "5443",
        "Genset": "Perkins",
@@ -2658,8 +2847,9 @@
        "press_poly_id": null,
        "status_poly_id": null,
        "link": "https://pivision.roobasra.com/PIVision/PB/#/PBDisplays/9955"
-    },
-    "Ru-071": {
+   },
+   "Ru-071":
+   {
        "ESP": "NVM",
        "Fluid Rate": "1385",
        "Genset": "",
@@ -2672,8 +2862,9 @@
        "press_poly_id": null,
        "status_poly_id": null,
        "link": "https://pivision.roobasra.com/PIVision/PB/#/PBDisplays/9956"
-    },
-    "Ru-073z": {
+   },
+   "Ru-073z":
+   {
        "ESP": "NVM",
        "Fluid Rate": "5016",
        "Genset": "Perkins",
@@ -2686,8 +2877,9 @@
        "press_poly_id": null,
        "status_poly_id": null,
        "link": "https://pivision.roobasra.com/PIVision/PB/#/PBDisplays/9957"
-    },
-    "Ru-075": {
+   },
+   "Ru-075":
+   {
        "ESP": "NVM",
        "Fluid Rate": "2124",
        "Genset": "Perkins",
@@ -2700,8 +2892,9 @@
        "press_poly_id": null,
        "status_poly_id": null,
        "link": "https://pivision.roobasra.com/PIVision/PB/#/PBDisplays/9958"
-    },
-    "Ru-076": {
+   },
+   "Ru-076":
+   {
        "ESP": "NVM",
        "Fluid Rate": "302",
        "Genset": "Perkins",
@@ -2714,8 +2907,9 @@
        "press_poly_id": null,
        "status_poly_id": null,
        "link": "https://pivision.roobasra.com/PIVision/PB/#/PBDisplays/9959"
-    },
-    "Ru-081": {
+   },
+   "Ru-081":
+   {
        "ESP": "NVM",
        "Fluid Rate": "5968",
        "Genset": "Perkins",
@@ -2728,8 +2922,9 @@
        "press_poly_id": null,
        "status_poly_id": null,
        "link": "https://pivision.roobasra.com/PIVision/PB/#/PBDisplays/9960"
-    },
-    "Ru-082": {
+   },
+   "Ru-082":
+   {
        "ESP": "BHI",
        "Fluid Rate": "2531",
        "Genset": "",
@@ -2742,8 +2937,9 @@
        "press_poly_id": null,
        "status_poly_id": null,
        "link": "https://pivision.roobasra.com/PIVision/PB/#/PBDisplays/9961"
-    },
-    "Ru-086": {
+   },
+   "Ru-086":
+   {
        "ESP": "BHI",
        "Fluid Rate": "",
        "Genset": "Perkins",
@@ -2756,8 +2952,9 @@
        "press_poly_id": null,
        "status_poly_id": null,
        "link": "https://pivision.roobasra.com/PIVision/PB/#/PBDisplays/9963"
-    },
-    "Ru-089": {
+   },
+   "Ru-089":
+   {
        "ESP": "BHI",
        "Fluid Rate": "3439",
        "Genset": "Perkins",
@@ -2770,8 +2967,9 @@
        "press_poly_id": null,
        "status_poly_id": null,
        "link": "https://pivision.roobasra.com/PIVision/PB/#/PBDisplays/9964"
-    },
-    "Ru-090": {
+   },
+   "Ru-090":
+   {
        "ESP": "BHI",
        "Fluid Rate": "4764",
        "Genset": "Perkins",
@@ -2784,8 +2982,9 @@
        "press_poly_id": null,
        "status_poly_id": null,
        "link": "https://pivision.roobasra.com/PIVision/PB/#/PBDisplays/14417"
-    },
-    "Ru-092": {
+   },
+   "Ru-092":
+   {
        "ESP": "NVM",
        "Fluid Rate": "5141",
        "Genset": "Perkins",
@@ -2798,8 +2997,9 @@
        "press_poly_id": null,
        "status_poly_id": null,
        "link": "https://pivision.roobasra.com/PIVision/PB/#/PBDisplays/13813"
-    },
-    "Ru-093": {
+   },
+   "Ru-093":
+   {
        "ESP": "NVM",
        "Fluid Rate": "914",
        "Genset": "Perkins",
@@ -2812,8 +3012,9 @@
        "press_poly_id": null,
        "status_poly_id": null,
        "link": "https://pivision.roobasra.com/PIVision/PB/#/PBDisplays/14714"
-    },
-    "Ru-094": {
+   },
+   "Ru-094":
+   {
        "ESP": "BHI",
        "Fluid Rate": "7440",
        "Genset": "Perkins",
@@ -2826,8 +3027,9 @@
        "press_poly_id": null,
        "status_poly_id": null,
        "link": "https://pivision.roobasra.com/PIVision/PB/#/PBDisplays/9965"
-    },
-    "Ru-096": {
+   },
+   "Ru-096":
+   {
        "ESP": "NVM",
        "Fluid Rate": "2399",
        "Genset": "Perkins",
@@ -2840,8 +3042,9 @@
        "press_poly_id": null,
        "status_poly_id": null,
        "link": "https://pivision.roobasra.com/PIVision/PB/#/PBDisplays/12939"
-    },
-    "Ru-097": {
+   },
+   "Ru-097":
+   {
        "ESP": "NVM",
        "Fluid Rate": "3609",
        "Genset": "Perkins",
@@ -2854,8 +3057,9 @@
        "press_poly_id": null,
        "status_poly_id": null,
        "link": "https://pivision.roobasra.com/PIVision/PB/#/PBDisplays/9966"
-    },
-    "Ru-100": {
+   },
+   "Ru-100":
+   {
        "ESP": "APC",
        "Fluid Rate": "2145",
        "Genset": "Perkins",
@@ -2868,8 +3072,9 @@
        "press_poly_id": null,
        "status_poly_id": null,
        "link": "https://pivision.roobasra.com/PIVision/PB/#/PBDisplays/9967"
-    },
-    "Ru-101": {
+   },
+   "Ru-101":
+   {
        "ESP": "NVM",
        "Fluid Rate": "2563",
        "Genset": "Perkins",
@@ -2882,8 +3087,9 @@
        "press_poly_id": null,
        "status_poly_id": null,
        "link": "https://pivision.roobasra.com/PIVision/PB/#/PBDisplays/9968"
-    },
-    "Ru-107": {
+   },
+   "Ru-107":
+   {
        "ESP": "NVM",
        "Fluid Rate": "4491",
        "Genset": "",
@@ -2896,8 +3102,9 @@
        "press_poly_id": null,
        "status_poly_id": null,
        "link": "https://pivision.roobasra.com/PIVision/PB/#/PBDisplays/9969"
-    },
-    "Ru-109": {
+   },
+   "Ru-109":
+   {
        "ESP": "NVM",
        "Fluid Rate": "1833",
        "Genset": "Perkins",
@@ -2910,8 +3117,9 @@
        "press_poly_id": null,
        "status_poly_id": null,
        "link": "https://pivision.roobasra.com/PIVision/PB/#/PBDisplays/9970"
-    },
-    "Ru-112": {
+   },
+   "Ru-112":
+   {
        "ESP": "NVM",
        "Fluid Rate": "2962",
        "Genset": "Perkins",
@@ -2924,8 +3132,9 @@
        "press_poly_id": null,
        "status_poly_id": null,
        "link": "https://pivision.roobasra.com/PIVision/PB/#/PBDisplays/9971"
-    },
-    "Ru-115": {
+   },
+   "Ru-115":
+   {
        "ESP": "NVM",
        "Fluid Rate": "6997",
        "Genset": "Perkins",
@@ -2938,8 +3147,9 @@
        "press_poly_id": null,
        "status_poly_id": null,
        "link": "https://pivision.roobasra.com/PIVision/PB/#/PBDisplays/9972"
-    },
-    "Ru-116": {
+   },
+   "Ru-116":
+   {
        "ESP": "NVM",
        "Fluid Rate": "2136",
        "Genset": "Perkins",
@@ -2952,8 +3162,9 @@
        "press_poly_id": null,
        "status_poly_id": null,
        "link": "https://pivision.roobasra.com/PIVision/PB/#/PBDisplays/12905"
-    },
-    "Ru-119": {
+   },
+   "Ru-119":
+   {
        "ESP": "NVM",
        "Fluid Rate": "1700",
        "Genset": "Perkins",
@@ -2966,8 +3177,9 @@
        "press_poly_id": null,
        "status_poly_id": null,
        "link": "https://pivision.roobasra.com/PIVision/PB/#/PBDisplays/9973"
-    },
-    "Ru-121": {
+   },
+   "Ru-121":
+   {
        "ESP": "NVM",
        "Fluid Rate": "2245",
        "Genset": "CAT",
@@ -2980,8 +3192,9 @@
        "press_poly_id": null,
        "status_poly_id": null,
        "link": "https://pivision.roobasra.com/PIVision/PB/#/PBDisplays/9974"
-    },
-    "Ru-126": {
+   },
+   "Ru-126":
+   {
        "ESP": "",
        "Fluid Rate": "",
        "Genset": "Caterpillar",
@@ -2994,8 +3207,9 @@
        "press_poly_id": null,
        "status_poly_id": null,
        "link": "https://pivision.roobasra.com/PIVision/PB/#/PBDisplays/9975"
-    },
-    "Ru-127": {
+   },
+   "Ru-127":
+   {
        "ESP": "BHI",
        "Fluid Rate": "5026",
        "Genset": "Perkins",
@@ -3008,8 +3222,9 @@
        "press_poly_id": null,
        "status_poly_id": null,
        "link": "https://pivision.roobasra.com/PIVision/PB/#/PBDisplays/9976"
-    },
-    "Ru-134": {
+   },
+   "Ru-134":
+   {
        "ESP": "NVM",
        "Fluid Rate": "3707",
        "Genset": "Perkins",
@@ -3022,8 +3237,9 @@
        "press_poly_id": null,
        "status_poly_id": null,
        "link": "https://pivision.roobasra.com/PIVision/PB/#/PBDisplays/13853"
-    },
-    "Ru-138": {
+   },
+   "Ru-138":
+   {
        "ESP": "BHI",
        "Fluid Rate": "3859",
        "Genset": "Perkins",
@@ -3036,8 +3252,9 @@
        "press_poly_id": null,
        "status_poly_id": null,
        "link": "https://pivision.roobasra.com/PIVision/PB/#/PBDisplays/13869"
-    },
-    "Ru-138b": {
+   },
+   "Ru-138b":
+   {
        "ESP": "NVM",
        "Fluid Rate": "6117",
        "Genset": "Perkins",
@@ -3050,8 +3267,9 @@
        "press_poly_id": null,
        "status_poly_id": null,
        "link": "https://pivision.roobasra.com/PIVision/PB/#/PBDisplays/9977"
-    },
-    "Ru-140": {
+   },
+   "Ru-140":
+   {
        "ESP": "NVM",
        "Fluid Rate": "5642",
        "Genset": "Perkins",
@@ -3064,8 +3282,9 @@
        "press_poly_id": null,
        "status_poly_id": null,
        "link": "https://pivision.roobasra.com/PIVision/PB/#/PBDisplays/12958"
-    },
-    "Ru-141": {
+   },
+   "Ru-141":
+   {
        "ESP": "NVM",
        "Fluid Rate": "7298",
        "Genset": "Perkins",
@@ -3078,8 +3297,9 @@
        "press_poly_id": null,
        "status_poly_id": null,
        "link": "https://pivision.roobasra.com/PIVision/PB/#/PBDisplays/9979"
-    },
-    "Ru-148z": {
+   },
+   "Ru-148z":
+   {
        "ESP": "BHI",
        "Fluid Rate": "4261",
        "Genset": "",
@@ -3092,8 +3312,9 @@
        "press_poly_id": null,
        "status_poly_id": null,
        "link": "https://pivision.roobasra.com/PIVision/PB/#/PBDisplays/9981"
-    },
-    "Ru-149": {
+   },
+   "Ru-149":
+   {
        "ESP": "NVM",
        "Fluid Rate": "23",
        "Genset": "Perkins",
@@ -3106,8 +3327,9 @@
        "press_poly_id": null,
        "status_poly_id": null,
        "link": "https://pivision.roobasra.com/PIVision/PB/#/PBDisplays/9982"
-    },
-    "Ru-151a": {
+   },
+   "Ru-151a":
+   {
        "ESP": "BHI",
        "Fluid Rate": "8108",
        "Genset": "CAT",
@@ -3120,8 +3342,9 @@
        "press_poly_id": 259,
        "status_poly_id": 423,
        "link": "https://pivision.roobasra.com/PIVision/PB/#/PBDisplays/13781"
-    },
-    "Ru-157": {
+   },
+   "Ru-157":
+   {
        "ESP": "BHI",
        "Fluid Rate": "3038",
        "Genset": "Perkins",
@@ -3134,8 +3357,9 @@
        "press_poly_id": null,
        "status_poly_id": null,
        "link": "https://pivision.roobasra.com/PIVision/PB/#/PBDisplays/9984"
-    },
-    "Ru-160": {
+   },
+   "Ru-160":
+   {
        "ESP": "NVM",
        "Fluid Rate": "6441",
        "Genset": "Perkins",
@@ -3148,8 +3372,9 @@
        "press_poly_id": null,
        "status_poly_id": null,
        "link": "https://pivision.roobasra.com/PIVision/PB/#/PBDisplays/9985"
-    },
-    "Ru-162z": {
+   },
+   "Ru-162z":
+   {
        "ESP": "NVM",
        "Fluid Rate": "1572",
        "Genset": "Perkins",
@@ -3162,8 +3387,9 @@
        "press_poly_id": null,
        "status_poly_id": null,
        "link": "https://pivision.roobasra.com/PIVision/PB/#/PBDisplays/9986"
-    },
-    "Ru-163": {
+   },
+   "Ru-163":
+   {
        "ESP": "BHI",
        "Fluid Rate": "6855",
        "Genset": "Perkins",
@@ -3176,8 +3402,9 @@
        "press_poly_id": null,
        "status_poly_id": null,
        "link": "https://pivision.roobasra.com/PIVision/PB/#/PBDisplays/13825"
-    },
-    "Ru-165": {
+   },
+   "Ru-165":
+   {
        "ESP": "BHI",
        "Fluid Rate": "1480",
        "Genset": "",
@@ -3190,8 +3417,9 @@
        "press_poly_id": null,
        "status_poly_id": null,
        "link": "https://pivision.roobasra.com/PIVision/PB/#/PBDisplays/9987"
-    },
-    "Ru-166": {
+   },
+   "Ru-166":
+   {
        "ESP": "NVM",
        "Fluid Rate": "2050",
        "Genset": "",
@@ -3204,8 +3432,9 @@
        "press_poly_id": null,
        "status_poly_id": null,
        "link": "https://pivision.roobasra.com/PIVision/PB/#/PBDisplays/9988"
-    },
-    "Ru-167": {
+   },
+   "Ru-167":
+   {
        "ESP": "NVM",
        "Fluid Rate": "",
        "Genset": "Perkins",
@@ -3218,8 +3447,9 @@
        "press_poly_id": null,
        "status_poly_id": null,
        "link": "https://pivision.roobasra.com/PIVision/#/Displays/1208/RU-167-Well-Status"
-    },
-    "Ru-172": {
+   },
+   "Ru-172":
+   {
        "ESP": "BHI",
        "Fluid Rate": "3698",
        "Genset": "Perkins",
@@ -3232,8 +3462,9 @@
        "press_poly_id": null,
        "status_poly_id": null,
        "link": "https://pivision.roobasra.com/PIVision/PB/#/PBDisplays/13823"
-    },
-    "Ru-185": {
+   },
+   "Ru-185":
+   {
        "ESP": "BHI",
        "Fluid Rate": "5292",
        "Genset": "Perkins",
@@ -3246,8 +3477,9 @@
        "press_poly_id": null,
        "status_poly_id": null,
        "link": "https://pivision.roobasra.com/PIVision/PB/#/PBDisplays/9989"
-    },
-    "Ru-192": {
+   },
+   "Ru-192":
+   {
        "ESP": "APC",
        "Fluid Rate": "2102",
        "Genset": "",
@@ -3260,8 +3492,9 @@
        "press_poly_id": null,
        "status_poly_id": null,
        "link": "https://pivision.roobasra.com/PIVision/PB/#/PBDisplays/9991"
-    },
-    "Ru-203": {
+   },
+   "Ru-203":
+   {
        "ESP": "NVM",
        "Fluid Rate": "2089",
        "Genset": "Perkins",
@@ -3274,8 +3507,9 @@
        "press_poly_id": null,
        "status_poly_id": null,
        "link": "https://pivision.roobasra.com/PIVision/PB/#/PBDisplays/9992"
-    },
-    "Ru-204": {
+   },
+   "Ru-204":
+   {
        "ESP": "BHI",
        "Fluid Rate": "1165",
        "Genset": "",
@@ -3288,8 +3522,9 @@
        "press_poly_id": null,
        "status_poly_id": null,
        "link": "https://pivision.roobasra.com/PIVision/#/Displays/1210/RU-204-Well-Status"
-    },
-    "Ru-205": {
+   },
+   "Ru-205":
+   {
        "ESP": "BHI",
        "Fluid Rate": "5503",
        "Genset": "Perkins",
@@ -3302,8 +3537,9 @@
        "press_poly_id": null,
        "status_poly_id": null,
        "link": "https://pivision.roobasra.com/PIVision/PB/#/PBDisplays/9993"
-    },
-    "Ru-206": {
+   },
+   "Ru-206":
+   {
        "ESP": "NVM",
        "Fluid Rate": "3701",
        "Genset": "Perkins",
@@ -3316,8 +3552,9 @@
        "press_poly_id": null,
        "status_poly_id": null,
        "link": "https://pivision.roobasra.com/PIVision/PB/#/PBDisplays/9994"
-    },
-    "Ru-211": {
+   },
+   "Ru-211":
+   {
        "ESP": "NVM",
        "Fluid Rate": "1255",
        "Genset": "Perkins",
@@ -3330,8 +3567,9 @@
        "press_poly_id": null,
        "status_poly_id": null,
        "link": "https://pivision.roobasra.com/PIVision/PB/#/PBDisplays/9995"
-    },
-    "Ru-212": {
+   },
+   "Ru-212":
+   {
        "ESP": "NVM",
        "Fluid Rate": "3211",
        "Genset": "",
@@ -3344,8 +3582,9 @@
        "press_poly_id": null,
        "status_poly_id": null,
        "link": "https://pivision.roobasra.com/PIVision/PB/#/PBDisplays/9996"
-    },
-    "Ru-214": {
+   },
+   "Ru-214":
+   {
        "ESP": "NVM",
        "Fluid Rate": "1024",
        "Genset": "Perkins",
@@ -3358,8 +3597,9 @@
        "press_poly_id": null,
        "status_poly_id": null,
        "link": "https://pivision.roobasra.com/PIVision/PB/#/PBDisplays/9997"
-    },
-    "Ru-215": {
+   },
+   "Ru-215":
+   {
        "ESP": "NVM",
        "Fluid Rate": "1727",
        "Genset": "Perkins",
@@ -3372,8 +3612,9 @@
        "press_poly_id": null,
        "status_poly_id": null,
        "link": "https://pivision.roobasra.com/PIVision/PB/#/PBDisplays/9998"
-    },
-    "Ru-218": {
+   },
+   "Ru-218":
+   {
        "ESP": "NVM",
        "Fluid Rate": "1805",
        "Genset": "Perkins",
@@ -3386,8 +3627,9 @@
        "press_poly_id": null,
        "status_poly_id": null,
        "link": "https://pivision.roobasra.com/PIVision/PB/#/PBDisplays/10000"
-    },
-    "Ru-219": {
+   },
+   "Ru-219":
+   {
        "ESP": "NVM",
        "Fluid Rate": "3560",
        "Genset": "Perkins",
@@ -3400,8 +3642,9 @@
        "press_poly_id": null,
        "status_poly_id": null,
        "link": "https://pivision.roobasra.com/PIVision/PB/#/PBDisplays/10001"
-    },
-    "Ru-220": {
+   },
+   "Ru-220":
+   {
        "ESP": "NVM",
        "Fluid Rate": "2329",
        "Genset": "Perkins",
@@ -3414,8 +3657,9 @@
        "press_poly_id": null,
        "status_poly_id": null,
        "link": "https://pivision.roobasra.com/PIVision/PB/#/PBDisplays/10002"
-    },
-    "Ru-223": {
+   },
+   "Ru-223":
+   {
        "ESP": "NVM",
        "Fluid Rate": "1982",
        "Genset": "Perkins",
@@ -3428,8 +3672,9 @@
        "press_poly_id": null,
        "status_poly_id": null,
        "link": "https://pivision.roobasra.com/PIVision/PB/#/PBDisplays/14788"
-    },
-    "Ru-224": {
+   },
+   "Ru-224":
+   {
        "ESP": "BHI",
        "Fluid Rate": "1924",
        "Genset": "",
@@ -3442,8 +3687,9 @@
        "press_poly_id": null,
        "status_poly_id": null,
        "link": "https://pivision.roobasra.com/PIVision/PB/#/PBDisplays/10003"
-    },
-    "Ru-226": {
+   },
+   "Ru-226":
+   {
        "ESP": "NVM",
        "Fluid Rate": "4675",
        "Genset": "Perkins",
@@ -3456,8 +3702,9 @@
        "press_poly_id": null,
        "status_poly_id": null,
        "link": "https://pivision.roobasra.com/PIVision/PB/#/PBDisplays/10004"
-    },
-    "Ru-227": {
+   },
+   "Ru-227":
+   {
        "ESP": "NVM",
        "Fluid Rate": "5860",
        "Genset": "CAT",
@@ -3470,8 +3717,9 @@
        "press_poly_id": null,
        "status_poly_id": null,
        "link": "https://pivision.roobasra.com/PIVision/PB/#/PBDisplays/10005"
-    },
-    "Ru-232z": {
+   },
+   "Ru-232z":
+   {
        "ESP": "NVM",
        "Fluid Rate": "4809",
        "Genset": "Perkins",
@@ -3484,8 +3732,9 @@
        "press_poly_id": null,
        "status_poly_id": null,
        "link": "https://pivision.roobasra.com/PIVision/PB/#/PBDisplays/14123"
-    },
-    "Ru-237": {
+   },
+   "Ru-237":
+   {
        "ESP": "NVM",
        "Fluid Rate": "6120",
        "Genset": "Perkins",
@@ -3498,8 +3747,9 @@
        "press_poly_id": null,
        "status_poly_id": null,
        "link": "https://pivision.roobasra.com/PIVision/PB/#/PBDisplays/13950"
-    },
-    "Ru-239": {
+   },
+   "Ru-239":
+   {
        "ESP": "NVM",
        "Fluid Rate": "4598",
        "Genset": "Perkins",
@@ -3512,8 +3762,9 @@
        "press_poly_id": null,
        "status_poly_id": null,
        "link": "https://pivision.roobasra.com/PIVision/PB/#/PBDisplays/10006"
-    },
-    "Ru-248": {
+   },
+   "Ru-248":
+   {
        "ESP": "NVM",
        "Fluid Rate": "5821",
        "Genset": "Perkins",
@@ -3526,8 +3777,9 @@
        "press_poly_id": null,
        "status_poly_id": null,
        "link": "https://pivision.roobasra.com/PIVision/PB/#/PBDisplays/10007"
-    },
-    "Ru-252": {
+   },
+   "Ru-252":
+   {
        "ESP": "BHI",
        "Fluid Rate": "2000",
        "Genset": "",
@@ -3540,8 +3792,9 @@
        "press_poly_id": null,
        "status_poly_id": null,
        "link": ""
-    },
-    "Ru-255": {
+   },
+   "Ru-255":
+   {
        "ESP": "WFD_BOR",
        "Fluid Rate": "",
        "Genset": "",
@@ -3554,8 +3807,9 @@
        "press_poly_id": null,
        "status_poly_id": null,
        "link": ""
-    },
-    "Ru-256": {
+   },
+   "Ru-256":
+   {
        "ESP": "NVM",
        "Fluid Rate": "3175",
        "Genset": "Perkins",
@@ -3568,8 +3822,9 @@
        "press_poly_id": null,
        "status_poly_id": null,
        "link": "https://pivision.roobasra.com/PIVision/PB/#/PBDisplays/10008"
-    },
-    "Ru-260": {
+   },
+   "Ru-260":
+   {
        "ESP": "NVM",
        "Fluid Rate": "2657",
        "Genset": "Perkins",
@@ -3582,8 +3837,9 @@
        "press_poly_id": null,
        "status_poly_id": null,
        "link": "https://pivision.roobasra.com/PIVision/PB/#/PBDisplays/13080"
-    },
-    "Ru-262": {
+   },
+   "Ru-262":
+   {
        "ESP": "BHI",
        "Fluid Rate": "540",
        "Genset": "",
@@ -3596,8 +3852,9 @@
        "press_poly_id": null,
        "status_poly_id": null,
        "link": "https://pivision.roobasra.com/PIVision/PB/#/PBDisplays/10010"
-    },
-    "Ru-263": {
+   },
+   "Ru-263":
+   {
        "ESP": "NVM",
        "Fluid Rate": "4770",
        "Genset": "Perkins",
@@ -3610,8 +3867,9 @@
        "press_poly_id": null,
        "status_poly_id": null,
        "link": "https://pivision.roobasra.com/PIVision/PB/#/PBDisplays/10011"
-    },
-    "Ru-269": {
+   },
+   "Ru-269":
+   {
        "ESP": "NVM",
        "Fluid Rate": "2064",
        "Genset": "",
@@ -3624,8 +3882,9 @@
        "press_poly_id": null,
        "status_poly_id": null,
        "link": "https://pivision.roobasra.com/PIVision/PB/#/PBDisplays/10012"
-    },
-    "Ru-271": {
+   },
+   "Ru-271":
+   {
        "ESP": "APC",
        "Fluid Rate": "1900",
        "Genset": "",
@@ -3638,8 +3897,9 @@
        "press_poly_id": null,
        "status_poly_id": null,
        "link": "https://pivision.roobasra.com/PIVision/#/Displays/1248/RU-271-Well-Status"
-    },
-    "Ru-286": {
+   },
+   "Ru-286":
+   {
        "ESP": "NVM",
        "Fluid Rate": "",
        "Genset": "Perkins",
@@ -3652,8 +3912,9 @@
        "press_poly_id": null,
        "status_poly_id": null,
        "link": "https://pivision.roobasra.com/PIVision/PB/#/PBDisplays/14899"
-    },
-    "Ru-296": {
+   },
+   "Ru-296":
+   {
        "ESP": "BHI",
        "Fluid Rate": "565",
        "Genset": "Perkins",
@@ -3666,8 +3927,9 @@
        "press_poly_id": null,
        "status_poly_id": null,
        "link": "https://pivision.roobasra.com/PIVision/PB/#/PBDisplays/14716"
-    },
-    "Ru-297": {
+   },
+   "Ru-297":
+   {
        "ESP": "APC",
        "Fluid Rate": "3384",
        "Genset": "CAT",
@@ -3680,8 +3942,9 @@
        "press_poly_id": null,
        "status_poly_id": null,
        "link": "https://pivision.roobasra.com/PIVision/PB/#/PBDisplays/10013"
-    },
-    "Ru-298": {
+   },
+   "Ru-298":
+   {
        "ESP": "NVM",
        "Fluid Rate": "4255",
        "Genset": "Perkins",
@@ -3694,8 +3957,9 @@
        "press_poly_id": null,
        "status_poly_id": null,
        "link": "https://pivision.roobasra.com/PIVision/PB/#/PBDisplays/14824"
-    },
-    "Ru-299": {
+   },
+   "Ru-299":
+   {
        "ESP": "NVM",
        "Fluid Rate": "1522",
        "Genset": "",
@@ -3708,8 +3972,9 @@
        "press_poly_id": null,
        "status_poly_id": null,
        "link": "https://pivision.roobasra.com/PIVision/PB/#/PBDisplays/10014"
-    },
-    "Ru-305": {
+   },
+   "Ru-305":
+   {
        "ESP": "BHI",
        "Fluid Rate": "7887",
        "Genset": "Perkins",
@@ -3722,8 +3987,9 @@
        "press_poly_id": null,
        "status_poly_id": null,
        "link": "https://pivision.roobasra.com/PIVision/PB/#/PBDisplays/13836"
-    },
-    "Ru-309": {
+   },
+   "Ru-309":
+   {
        "ESP": "NVM",
        "Fluid Rate": "4941",
        "Genset": "",
@@ -3736,8 +4002,9 @@
        "press_poly_id": null,
        "status_poly_id": null,
        "link": "https://pivision.roobasra.com/PIVision/PB/#/PBDisplays/10015"
-    },
-    "Ru-311": {
+   },
+   "Ru-311":
+   {
        "ESP": "BHI",
        "Fluid Rate": "5204",
        "Genset": "Perkins",
@@ -3750,8 +4017,9 @@
        "press_poly_id": null,
        "status_poly_id": null,
        "link": "https://pivision.roobasra.com/PIVision/PB/#/PBDisplays/10016"
-    },
-    "Ru-313": {
+   },
+   "Ru-313":
+   {
        "ESP": "BHI",
        "Fluid Rate": "3570",
        "Genset": "Perkins",
@@ -3764,8 +4032,9 @@
        "press_poly_id": null,
        "status_poly_id": null,
        "link": "https://pivision.roobasra.com/PIVision/PB/#/PBDisplays/10017"
-    },
-    "Ru-314": {
+   },
+   "Ru-314":
+   {
        "ESP": "BHI",
        "Fluid Rate": "7065",
        "Genset": "Perkins",
@@ -3778,8 +4047,9 @@
        "press_poly_id": null,
        "status_poly_id": null,
        "link": "https://pivision.roobasra.com/PIVision/PB/#/PBDisplays/10018"
-    },
-    "Ru-315": {
+   },
+   "Ru-315":
+   {
        "ESP": "BHI",
        "Fluid Rate": "2038",
        "Genset": "Perkins",
@@ -3792,8 +4062,9 @@
        "press_poly_id": null,
        "status_poly_id": null,
        "link": "https://pivision.roobasra.com/PIVision/PB/#/PBDisplays/14846"
-    },
-    "Ru-319": {
+   },
+   "Ru-319":
+   {
        "ESP": "",
        "Fluid Rate": "",
        "Genset": "Perkins",
@@ -3806,8 +4077,9 @@
        "press_poly_id": null,
        "status_poly_id": null,
        "link": "https://pivision.roobasra.com/PIVision/#/Displays/1263/RU-319-Well-Status"
-    },
-    "Ru-358": {
+   },
+   "Ru-358":
+   {
        "ESP": "NVM",
        "Fluid Rate": "6720",
        "Genset": "Perkins",
@@ -3820,8 +4092,9 @@
        "press_poly_id": null,
        "status_poly_id": null,
        "link": "https://pivision.roobasra.com/PIVision/PB/#/PBDisplays/13819"
-    },
-    "Ru-359": {
+   },
+   "Ru-359":
+   {
        "ESP": "NVM",
        "Fluid Rate": "",
        "Genset": "",
@@ -3834,8 +4107,9 @@
        "press_poly_id": null,
        "status_poly_id": null,
        "link": "https://pivision.roobasra.com/PIVision/PB/#/PBDisplays/14744"
-    },
-    "Ru-360": {
+   },
+   "Ru-360":
+   {
        "ESP": "BHI",
        "Fluid Rate": "6905",
        "Genset": "Perkins",
@@ -3848,8 +4122,9 @@
        "press_poly_id": null,
        "status_poly_id": null,
        "link": "https://pivision.roobasra.com/PIVision/PB/#/PBDisplays/13952"
-    },
-    "Ru-362": {
+   },
+   "Ru-362":
+   {
        "ESP": "BHI",
        "Fluid Rate": "4158",
        "Genset": "Perkins",
@@ -3862,8 +4137,9 @@
        "press_poly_id": null,
        "status_poly_id": null,
        "link": "https://pivision.roobasra.com/PIVision/PB/#/PBDisplays/10020"
-    },
-    "Ru-363": {
+   },
+   "Ru-363":
+   {
        "ESP": "BHI",
        "Fluid Rate": "5458",
        "Genset": "Perkins",
@@ -3876,8 +4152,9 @@
        "press_poly_id": null,
        "status_poly_id": null,
        "link": "https://pivision.roobasra.com/PIVision/PB/#/PBDisplays/12941"
-    },
-    "Ru-364": {
+   },
+   "Ru-364":
+   {
        "ESP": "NVM",
        "Fluid Rate": "6852",
        "Genset": "Perkins",
@@ -3890,8 +4167,9 @@
        "press_poly_id": null,
        "status_poly_id": null,
        "link": "https://pivision.roobasra.com/PIVision/PB/#/PBDisplays/10021"
-    },
-    "Ru-366": {
+   },
+   "Ru-366":
+   {
        "ESP": "BHI",
        "Fluid Rate": "5658",
        "Genset": "Perkins",
@@ -3904,8 +4182,9 @@
        "press_poly_id": null,
        "status_poly_id": null,
        "link": "https://pivision.roobasra.com/PIVision/PB/#/PBDisplays/10022"
-    },
-    "Ru-367": {
+   },
+   "Ru-367":
+   {
        "ESP": "NVM",
        "Fluid Rate": "7237",
        "Genset": "Perkins",
@@ -3918,8 +4197,9 @@
        "press_poly_id": null,
        "status_poly_id": null,
        "link": "https://pivision.roobasra.com/PIVision/PB/#/PBDisplays/10023"
-    },
-    "Ru-368": {
+   },
+   "Ru-368":
+   {
        "ESP": "BHI",
        "Fluid Rate": "7753",
        "Genset": "Perkins",
@@ -3932,8 +4212,9 @@
        "press_poly_id": null,
        "status_poly_id": null,
        "link": "https://pivision.roobasra.com/PIVision/PB/#/PBDisplays/10024"
-    },
-    "Ru-369": {
+   },
+   "Ru-369":
+   {
        "ESP": "NVM",
        "Fluid Rate": "4996",
        "Genset": "Perkins",
@@ -3946,8 +4227,9 @@
        "press_poly_id": null,
        "status_poly_id": null,
        "link": "https://pivision.roobasra.com/PIVision/PB/#/PBDisplays/14090"
-    },
-    "Ru-371": {
+   },
+   "Ru-371":
+   {
        "ESP": "BHI",
        "Fluid Rate": "7775",
        "Genset": "Perkins",
@@ -3960,8 +4242,9 @@
        "press_poly_id": null,
        "status_poly_id": null,
        "link": "https://pivision.roobasra.com/PIVision/PB/#/PBDisplays/10025"
-    },
-    "Ru-372": {
+   },
+   "Ru-372":
+   {
        "ESP": "BHI",
        "Fluid Rate": "8256",
        "Genset": "Perkins",
@@ -3974,8 +4257,9 @@
        "press_poly_id": null,
        "status_poly_id": null,
        "link": "https://pivision.roobasra.com/PIVision/PB/#/PBDisplays/10026"
-    },
-    "Ru-373": {
+   },
+   "Ru-373":
+   {
        "ESP": "BHI",
        "Fluid Rate": "6493",
        "Genset": "Perkins",
@@ -3988,8 +4272,9 @@
        "press_poly_id": null,
        "status_poly_id": null,
        "link": "https://pivision.roobasra.com/PIVision/PB/#/PBDisplays/10027"
-    },
-    "Ru-374": {
+   },
+   "Ru-374":
+   {
        "ESP": "NVM",
        "Fluid Rate": "6424",
        "Genset": "Perkins",
@@ -4002,8 +4287,9 @@
        "press_poly_id": null,
        "status_poly_id": null,
        "link": "https://pivision.roobasra.com/PIVision/PB/#/PBDisplays/10028"
-    },
-    "Ru-376": {
+   },
+   "Ru-376":
+   {
        "ESP": "NVM",
        "Fluid Rate": "7237",
        "Genset": "CAT",
@@ -4016,8 +4302,9 @@
        "press_poly_id": null,
        "status_poly_id": null,
        "link": "https://pivision.roobasra.com/PIVision/PB/#/PBDisplays/10030"
-    },
-    "Ru-377": {
+   },
+   "Ru-377":
+   {
        "ESP": "NVM",
        "Fluid Rate": "3110",
        "Genset": "",
@@ -4030,8 +4317,9 @@
        "press_poly_id": null,
        "status_poly_id": null,
        "link": "https://pivision.roobasra.com/PIVision/#/Displays/1288/RU-377-Well-Status"
-    },
-    "Ru-378": {
+   },
+   "Ru-378":
+   {
        "ESP": "NVM",
        "Fluid Rate": "7947",
        "Genset": "",
@@ -4044,8 +4332,9 @@
        "press_poly_id": null,
        "status_poly_id": null,
        "link": "https://pivision.roobasra.com/PIVision/PB/#/PBDisplays/10031"
-    },
-    "Ru-379": {
+   },
+   "Ru-379":
+   {
        "ESP": "BHI",
        "Fluid Rate": "7028",
        "Genset": "Perkins",
@@ -4058,8 +4347,9 @@
        "press_poly_id": null,
        "status_poly_id": null,
        "link": "https://pivision.roobasra.com/PIVision/PB/#/PBDisplays/14352"
-    },
-    "Ru-380": {
+   },
+   "Ru-380":
+   {
        "ESP": "BHI",
        "Fluid Rate": "7611",
        "Genset": "",
@@ -4072,8 +4362,9 @@
        "press_poly_id": null,
        "status_poly_id": null,
        "link": "https://pivision.roobasra.com/PIVision/PB/#/PBDisplays/10033"
-    },
-    "Ru-381": {
+   },
+   "Ru-381":
+   {
        "ESP": "BHI",
        "Fluid Rate": "4627",
        "Genset": "Perkins",
@@ -4086,8 +4377,9 @@
        "press_poly_id": null,
        "status_poly_id": null,
        "link": "https://pivision.roobasra.com/PIVision/PB/#/PBDisplays/10034"
-    },
-    "Ru-382": {
+   },
+   "Ru-382":
+   {
        "ESP": "BHI",
        "Fluid Rate": "3978",
        "Genset": "Jinan",
@@ -4100,8 +4392,9 @@
        "press_poly_id": null,
        "status_poly_id": null,
        "link": "https://pivision.roobasra.com/PIVision/PB/#/PBDisplays/10035"
-    },
-    "Ru-383": {
+   },
+   "Ru-383":
+   {
        "ESP": "NVM",
        "Fluid Rate": "8024",
        "Genset": "Perkins",
@@ -4114,8 +4407,9 @@
        "press_poly_id": null,
        "status_poly_id": null,
        "link": "https://pivision.roobasra.com/PIVision/PB/#/PBDisplays/14833"
-    },
-    "Ru-384": {
+   },
+   "Ru-384":
+   {
        "ESP": "",
        "Fluid Rate": "",
        "Genset": "Perkins",
@@ -4128,8 +4422,9 @@
        "press_poly_id": null,
        "status_poly_id": null,
        "link": "https://pivision.roobasra.com/PIVision/#/Displays/1295/RU-384-Well-Status"
-    },
-    "Ru-385": {
+   },
+   "Ru-385":
+   {
        "ESP": "BHI",
        "Fluid Rate": "4226",
        "Genset": "Perkins",
@@ -4142,8 +4437,9 @@
        "press_poly_id": null,
        "status_poly_id": null,
        "link": "https://pivision.roobasra.com/PIVision/PB/#/PBDisplays/10036"
-    },
-    "Ru-386": {
+   },
+   "Ru-386":
+   {
        "ESP": "NVM",
        "Fluid Rate": "7856",
        "Genset": "Perkins",
@@ -4156,8 +4452,9 @@
        "press_poly_id": null,
        "status_poly_id": null,
        "link": "https://pivision.roobasra.com/PIVision/PB/#/PBDisplays/10037"
-    },
-    "Ru-387": {
+   },
+   "Ru-387":
+   {
        "ESP": "NVM",
        "Fluid Rate": "6729",
        "Genset": "Perkins",
@@ -4170,8 +4467,9 @@
        "press_poly_id": null,
        "status_poly_id": null,
        "link": "https://pivision.roobasra.com/PIVision/PB/#/PBDisplays/10038"
-    },
-    "Ru-388": {
+   },
+   "Ru-388":
+   {
        "ESP": "BHI",
        "Fluid Rate": "4358",
        "Genset": "Perkins",
@@ -4184,8 +4482,9 @@
        "press_poly_id": null,
        "status_poly_id": null,
        "link": "https://pivision.roobasra.com/PIVision/PB/#/PBDisplays/10039"
-    },
-    "Ru-389": {
+   },
+   "Ru-389":
+   {
        "ESP": "BHI",
        "Fluid Rate": "6730",
        "Genset": "Perkins",
@@ -4198,8 +4497,9 @@
        "press_poly_id": null,
        "status_poly_id": null,
        "link": "https://pivision.roobasra.com/PIVision/PB/#/PBDisplays/10040"
-    },
-    "Ru-390": {
+   },
+   "Ru-390":
+   {
        "ESP": "BHI",
        "Fluid Rate": "7333",
        "Genset": "Perkins",
@@ -4212,8 +4512,9 @@
        "press_poly_id": null,
        "status_poly_id": null,
        "link": "https://pivision.roobasra.com/PIVision/PB/#/PBDisplays/10041"
-    },
-    "Ru-391": {
+   },
+   "Ru-391":
+   {
        "ESP": "NVM",
        "Fluid Rate": "3914",
        "Genset": "Perkins",
@@ -4226,8 +4527,9 @@
        "press_poly_id": null,
        "status_poly_id": null,
        "link": "https://pivision.roobasra.com/PIVision/PB/#/PBDisplays/10042"
-    },
-    "Ru-392": {
+   },
+   "Ru-392":
+   {
        "ESP": "BHI",
        "Fluid Rate": "4798",
        "Genset": "Perkins",
@@ -4240,8 +4542,9 @@
        "press_poly_id": null,
        "status_poly_id": null,
        "link": "https://pivision.roobasra.com/PIVision/PB/#/PBDisplays/14096"
-    },
-    "Ru-393": {
+   },
+   "Ru-393":
+   {
        "ESP": "NVM",
        "Fluid Rate": "8478",
        "Genset": "Perkins",
@@ -4254,8 +4557,9 @@
        "press_poly_id": null,
        "status_poly_id": null,
        "link": "https://pivision.roobasra.com/PIVision/PB/#/PBDisplays/10187"
-    },
-    "Ru-394": {
+   },
+   "Ru-394":
+   {
        "ESP": "BHI",
        "Fluid Rate": "4331",
        "Genset": "Perkins",
@@ -4268,8 +4572,9 @@
        "press_poly_id": null,
        "status_poly_id": null,
        "link": "https://pivision.roobasra.com/PIVision/PB/#/PBDisplays/10043"
-    },
-    "Ru-395a": {
+   },
+   "Ru-395a":
+   {
        "ESP": "BHI",
        "Fluid Rate": "7807",
        "Genset": "Perkins",
@@ -4282,8 +4587,9 @@
        "press_poly_id": null,
        "status_poly_id": null,
        "link": "https://pivision.roobasra.com/PIVision/PB/#/PBDisplays/10044"
-    },
-    "Ru-396": {
+   },
+   "Ru-396":
+   {
        "ESP": "NVM",
        "Fluid Rate": "6591",
        "Genset": "Perkins",
@@ -4296,8 +4602,9 @@
        "press_poly_id": null,
        "status_poly_id": null,
        "link": "https://pivision.roobasra.com/PIVision/PB/#/PBDisplays/10045"
-    },
-    "Ru-397": {
+   },
+   "Ru-397":
+   {
        "ESP": "BHI",
        "Fluid Rate": "4553",
        "Genset": "Perkins",
@@ -4310,8 +4617,9 @@
        "press_poly_id": null,
        "status_poly_id": null,
        "link": "https://pivision.roobasra.com/PIVision/PB/#/PBDisplays/10046"
-    },
-    "Ru-400": {
+   },
+   "Ru-400":
+   {
        "ESP": "NVM",
        "Fluid Rate": "4615",
        "Genset": "",
@@ -4324,8 +4632,9 @@
        "press_poly_id": null,
        "status_poly_id": null,
        "link": "https://pivision.roobasra.com/PIVision/PB/#/PBDisplays/10047"
-    },
-    "Ru-401": {
+   },
+   "Ru-401":
+   {
        "ESP": "BHI",
        "Fluid Rate": "4355",
        "Genset": "Perkins",
@@ -4338,8 +4647,9 @@
        "press_poly_id": null,
        "status_poly_id": null,
        "link": "https://pivision.roobasra.com/PIVision/PB/#/PBDisplays/10048"
-    },
-    "Ru-403": {
+   },
+   "Ru-403":
+   {
        "ESP": "BHI",
        "Fluid Rate": "4621",
        "Genset": "Perkins",
@@ -4352,8 +4662,9 @@
        "press_poly_id": null,
        "status_poly_id": null,
        "link": "https://pivision.roobasra.com/PIVision/PB/#/PBDisplays/14540"
-    },
-    "Ru-405": {
+   },
+   "Ru-405":
+   {
        "ESP": "NVM",
        "Fluid Rate": "9128",
        "Genset": "Perkins",
@@ -4366,8 +4677,9 @@
        "press_poly_id": null,
        "status_poly_id": null,
        "link": "https://pivision.roobasra.com/PIVision/PB/#/PBDisplays/13818"
-    },
-    "Ru-406": {
+   },
+   "Ru-406":
+   {
        "ESP": "NVM",
        "Fluid Rate": "7392",
        "Genset": "Perkins",
@@ -4380,8 +4692,9 @@
        "press_poly_id": null,
        "status_poly_id": null,
        "link": "https://pivision.roobasra.com/PIVision/PB/#/PBDisplays/13817"
-    },
-    "Ru-409": {
+   },
+   "Ru-409":
+   {
        "ESP": "NVM",
        "Fluid Rate": "5477",
        "Genset": "Perkins",
@@ -4394,8 +4707,9 @@
        "press_poly_id": null,
        "status_poly_id": null,
        "link": "https://pivision.roobasra.com/PIVision/PB/#/PBDisplays/13816"
-    },
-    "Ru-410": {
+   },
+   "Ru-410":
+   {
        "ESP": "BHI",
        "Fluid Rate": "6122",
        "Genset": "Perkins",
@@ -4408,8 +4722,9 @@
        "press_poly_id": null,
        "status_poly_id": null,
        "link": "https://pivision.roobasra.com/PIVision/PB/#/PBDisplays/10049"
-    },
-    "Ru-411": {
+   },
+   "Ru-411":
+   {
        "ESP": "BHI",
        "Fluid Rate": "0",
        "Genset": "Perkins",
@@ -4422,8 +4737,9 @@
        "press_poly_id": null,
        "status_poly_id": null,
        "link": "https://pivision.roobasra.com/PIVision/PB/#/PBDisplays/14167"
-    },
-    "Ru-412": {
+   },
+   "Ru-412":
+   {
        "ESP": "NVM",
        "Fluid Rate": "3686",
        "Genset": "Perkins",
@@ -4436,8 +4752,9 @@
        "press_poly_id": null,
        "status_poly_id": null,
        "link": "https://pivision.roobasra.com/PIVision/PB/#/PBDisplays/10050"
-    },
-    "Ru-413z": {
+   },
+   "Ru-413z":
+   {
        "ESP": "BHI",
        "Fluid Rate": "3049",
        "Genset": "Perkins",
@@ -4450,8 +4767,9 @@
        "press_poly_id": null,
        "status_poly_id": null,
        "link": "https://pivision.roobasra.com/PIVision/PB/#/PBDisplays/10051"
-    },
-    "Ru-419z": {
+   },
+   "Ru-419z":
+   {
        "ESP": "NVM",
        "Fluid Rate": "2326",
        "Genset": "Perkins",
@@ -4464,8 +4782,9 @@
        "press_poly_id": null,
        "status_poly_id": null,
        "link": "https://pivision.roobasra.com/PIVision/PB/#/PBDisplays/14463"
-    },
-    "Ru-420": {
+   },
+   "Ru-420":
+   {
        "ESP": "BHI",
        "Fluid Rate": "5693",
        "Genset": "Perkins",
@@ -4478,8 +4797,9 @@
        "press_poly_id": null,
        "status_poly_id": null,
        "link": "https://pivision.roobasra.com/PIVision/PB/#/PBDisplays/10052"
-    },
-    "Ru-422": {
+   },
+   "Ru-422":
+   {
        "ESP": "NVM",
        "Fluid Rate": "7404",
        "Genset": "Perkins",
@@ -4492,8 +4812,9 @@
        "press_poly_id": null,
        "status_poly_id": null,
        "link": "https://pivision.roobasra.com/PIVision/PB/#/PBDisplays/10053"
-    },
-    "Ru-423y": {
+   },
+   "Ru-423y":
+   {
        "ESP": "BHI",
        "Fluid Rate": "7450",
        "Genset": "Perkins",
@@ -4506,8 +4827,9 @@
        "press_poly_id": null,
        "status_poly_id": null,
        "link": "https://pivision.roobasra.com/PIVision/PB/#/PBDisplays/10054"
-    },
-    "Ru-425": {
+   },
+   "Ru-425":
+   {
        "ESP": "NVM",
        "Fluid Rate": "7029",
        "Genset": "Perkins",
@@ -4520,8 +4842,9 @@
        "press_poly_id": null,
        "status_poly_id": null,
        "link": "https://pivision.roobasra.com/PIVision/PB/#/PBDisplays/13078"
-    },
-    "Ru-430": {
+   },
+   "Ru-430":
+   {
        "ESP": "BHI",
        "Fluid Rate": "6902",
        "Genset": "Perkins",
@@ -4534,8 +4857,9 @@
        "press_poly_id": null,
        "status_poly_id": null,
        "link": "https://pivision.roobasra.com/PIVision/PB/#/PBDisplays/13815"
-    },
-    "Ru-440": {
+   },
+   "Ru-440":
+   {
        "ESP": "NVM",
        "Fluid Rate": "7513",
        "Genset": "Perkins",
@@ -4548,8 +4872,9 @@
        "press_poly_id": null,
        "status_poly_id": null,
        "link": "https://pivision.roobasra.com/PIVision/PB/#/PBDisplays/10056"
-    },
-    "Ru-441": {
+   },
+   "Ru-441":
+   {
        "ESP": "BHI",
        "Fluid Rate": "4570",
        "Genset": "Perkins",
@@ -4562,8 +4887,9 @@
        "press_poly_id": null,
        "status_poly_id": null,
        "link": "https://pivision.roobasra.com/PIVision/PB/#/PBDisplays/14600"
-    },
-    "Ru-443": {
+   },
+   "Ru-443":
+   {
        "ESP": "BHI",
        "Fluid Rate": "6877",
        "Genset": "Perkins",
@@ -4576,8 +4902,9 @@
        "press_poly_id": null,
        "status_poly_id": null,
        "link": "https://pivision.roobasra.com/PIVision/PB/#/PBDisplays/10057"
-    },
-    "Ru-444": {
+   },
+   "Ru-444":
+   {
        "ESP": "NVM",
        "Fluid Rate": "3825",
        "Genset": "Perkins",
@@ -4590,8 +4917,9 @@
        "press_poly_id": null,
        "status_poly_id": null,
        "link": "https://pivision.roobasra.com/PIVision/PB/#/PBDisplays/14365"
-    },
-    "Ru-447": {
+   },
+   "Ru-447":
+   {
        "ESP": "NVM",
        "Fluid Rate": "7467",
        "Genset": "Perkins",
@@ -4604,8 +4932,9 @@
        "press_poly_id": null,
        "status_poly_id": null,
        "link": "https://pivision.roobasra.com/PIVision/PB/#/PBDisplays/10058"
-    },
-    "Ru-450": {
+   },
+   "Ru-450":
+   {
        "ESP": "NVM",
        "Fluid Rate": "4035",
        "Genset": "CAT",
@@ -4618,8 +4947,9 @@
        "press_poly_id": null,
        "status_poly_id": null,
        "link": "https://pivision.roobasra.com/PIVision/PB/#/PBDisplays/10059"
-    },
-    "Ru-451": {
+   },
+   "Ru-451":
+   {
        "ESP": "NVM",
        "Fluid Rate": "3551",
        "Genset": "Perkins",
@@ -4632,8 +4962,9 @@
        "press_poly_id": null,
        "status_poly_id": null,
        "link": "https://pivision.roobasra.com/PIVision/PB/#/PBDisplays/10060"
-    },
-    "Ru-453": {
+   },
+   "Ru-453":
+   {
        "ESP": "NVM",
        "Fluid Rate": "7717",
        "Genset": "Perkins",
@@ -4646,8 +4977,9 @@
        "press_poly_id": null,
        "status_poly_id": null,
        "link": "https://pivision.roobasra.com/PIVision/PB/#/PBDisplays/10061"
-    },
-    "Ru-456": {
+   },
+   "Ru-456":
+   {
        "ESP": "NVM",
        "Fluid Rate": "5071",
        "Genset": "Perkins",
@@ -4660,8 +4992,9 @@
        "press_poly_id": null,
        "status_poly_id": null,
        "link": "https://pivision.roobasra.com/PIVision/PB/#/PBDisplays/10062"
-    },
-    "Ru-461": {
+   },
+   "Ru-461":
+   {
        "ESP": "BHI",
        "Fluid Rate": "2201",
        "Genset": "Perkins",
@@ -4674,8 +5007,9 @@
        "press_poly_id": null,
        "status_poly_id": null,
        "link": "https://pivision.roobasra.com/PIVision/PB/#/PBDisplays/10063"
-    },
-    "Ru-463": {
+   },
+   "Ru-463":
+   {
        "ESP": "NVM",
        "Fluid Rate": "3809",
        "Genset": "Perkins",
@@ -4688,8 +5022,9 @@
        "press_poly_id": null,
        "status_poly_id": null,
        "link": "https://pivision.roobasra.com/PIVision/PB/#/PBDisplays/14718"
-    },
-    "Ru-466": {
+   },
+   "Ru-466":
+   {
        "ESP": "NVM",
        "Fluid Rate": "12300",
        "Genset": "Perkins",
@@ -4702,8 +5037,9 @@
        "press_poly_id": null,
        "status_poly_id": null,
        "link": "https://pivision.roobasra.com/PIVision/PB/#/PBDisplays/10064"
-    },
-    "Ru-467": {
+   },
+   "Ru-467":
+   {
        "ESP": "NVM",
        "Fluid Rate": "0",
        "Genset": "Perkins",
@@ -4716,8 +5052,9 @@
        "press_poly_id": null,
        "status_poly_id": null,
        "link": "https://pivision.roobasra.com/PIVision/PB/#/PBDisplays/10065"
-    },
-    "Ru-470": {
+   },
+   "Ru-470":
+   {
        "ESP": "BHI",
        "Fluid Rate": "3263",
        "Genset": "Perkins",
@@ -4730,5 +5067,5 @@
        "press_poly_id": null,
        "status_poly_id": null,
        "link": "https://pivision.roobasra.com/PIVision/PB/#/PBDisplays/14904"
-    }
- }
+   }
+}
