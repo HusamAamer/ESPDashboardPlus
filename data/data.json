@@ -1523,7 +1523,7 @@
        "VSD": "null",
        "WC": "null",
        "Water Rate": "null",
-       "on": 1,
+       "on": 0,
        "press_poly_id": null,
        "status_poly_id": null,
        "link": "https://pivision.roobasra.com/PIVision/#/Displays/1037/R-504-Well-Status"
