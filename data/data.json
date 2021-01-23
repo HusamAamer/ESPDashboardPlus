@@ -5031,7 +5031,7 @@
         "VSD": "-",
         "WC": 0,
         "Water Rate": 0,
-        "on": 0,
+        "on": 1,
         "press_poly_id": null,
         "status_poly_id": null,
         "link": "https://pivision.roobasra.com/PIVision/#/Displays/977/R-383-Well-Status"
