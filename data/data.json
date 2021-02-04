@@ -2826,7 +2826,7 @@
         "VSD": "NVM",
         "WC": 0.45,
         "Water Rate": 2410.6499999999996,
-        "on": 1,
+        "on": 0,
         "press_poly_id": null,
         "status_poly_id": null,
         "link": "https://pivision.roobasra.com/PIVision/PB/#/PBDisplays/9955"
@@ -3197,7 +3197,7 @@
         "VSD": "NVM",
         "WC": 0.06,
         "Water Rate": 277.02000000000044,
-        "on": 1,
+        "on": 0,
         "press_poly_id": null,
         "status_poly_id": null,
         "link": "https://pivision.roobasra.com/PIVision/PB/#/PBDisplays/9976"
@@ -3687,7 +3687,7 @@
         "VSD": "NVM",
         "WC": 0.92,
         "Water Rate": 5099.56,
-        "on": 1,
+        "on": 0,
         "press_poly_id": null,
         "status_poly_id": null,
         "link": "https://pivision.roobasra.com/PIVision/PB/#/PBDisplays/10005"
@@ -3858,7 +3858,7 @@
         "VSD": "APC",
         "WC": 0,
         "Water Rate": 0,
-        "on": 1,
+        "on": 0,
         "press_poly_id": null,
         "status_poly_id": null,
         "link": "https://pivision.roobasra.com/PIVision/#/Displays/1248/RU-271-Well-Status"
