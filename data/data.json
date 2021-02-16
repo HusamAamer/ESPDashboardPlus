@@ -4797,6 +4797,21 @@
         "status_poly_id": null,
         "link": "https://pivision.roobasra.com/PIVision/PB/#/PBDisplays/13078"
     },
+     "Ru-427":
+    {
+        "ESP": "null",
+        "Fluid Rate": null,
+        "Genset": "null",
+        "Oil rate": null,
+        "Station": "Janubia",
+        "VSD": "null",
+        "WC": null,
+        "Water Rate": null,
+        "on": 1,
+        "press_poly_id": null,
+        "status_poly_id": null,
+        "link": "https://pivision.roobasra.com/PIVision/#/Displays/1338/RU-427-Well-Status"
+    },
     "Ru-430":
     {
         "ESP": "BHI",
