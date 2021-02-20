@@ -5037,6 +5037,21 @@
         "status_poly_id": null,
         "link": "https://pivision.roobasra.com/PIVision/PB/#/PBDisplays/14904"
     },
+    "Ru-478":
+    {
+        "ESP": "null",
+        "Fluid Rate": null,
+        "Genset": "null",
+        "Oil rate": null,
+        "Station": "Shamiya",
+        "VSD": "null",
+        "WC": null,
+        "Water Rate": null,
+        "on": 1,
+        "press_poly_id": null,
+        "status_poly_id": null,
+        "link": "https://pivision.roobasra.com/PIVision/#/Displays/14394/Ru-478-New"
+    },
     "R-383":
     {
         "ESP": "BHI",
