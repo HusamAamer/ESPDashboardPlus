@@ -1300,7 +1300,7 @@
         "VSD": "BHI",
         "WC": 0.425,
         "Water Rate": 1581.4250000000002,
-        "on": 1,
+        "on": 0,
         "press_poly_id": null,
         "status_poly_id": null,
         "link": "https://pivision.roobasra.com/PIVision/PB/#/PBDisplays/9665"
@@ -1493,7 +1493,7 @@
         "VSD": "BHI",
         "WC": 0.76,
         "Water Rate": 1998.8000000000002,
-        "on": 1,
+        "on": 0,
         "press_poly_id": null,
         "status_poly_id": null,
         "link": "https://pivision.roobasra.com/PIVision/PB/#/PBDisplays/9676"
@@ -2567,7 +2567,7 @@
         "VSD": "NVM",
         "WC": 0,
         "Water Rate": 0,
-        "on": 0,
+        "on": 1,
         "press_poly_id": null,
         "status_poly_id": null,
         "link": "https://pivision.roobasra.com/PIVision/PB/#/PBDisplays/13827"
@@ -3302,7 +3302,7 @@
         "VSD": "BHI",
         "WC": 0.6,
         "Water Rate": 2556.6,
-        "on": 0,
+        "on": 1,
         "press_poly_id": null,
         "status_poly_id": null,
         "link": "https://pivision.roobasra.com/PIVision/PB/#/PBDisplays/9981"
@@ -3988,7 +3988,7 @@
         "VSD": "NVM",
         "WC": 0.88,
         "Water Rate": 3932.7200000000003,
-        "on": 0,
+        "on": 1,
         "press_poly_id": null,
         "status_poly_id": null,
         "link": "https://pivision.roobasra.com/PIVision/PB/#/PBDisplays/10016"
@@ -4582,7 +4582,7 @@
         "VSD": "BHI",
         "WC": 0.41,
         "Water Rate": 1866.7299999999996,
-        "on": 0,
+        "on": 1,
         "press_poly_id": null,
         "status_poly_id": null,
         "link": "https://pivision.roobasra.com/PIVision/PB/#/PBDisplays/10046"
@@ -4812,7 +4812,7 @@
         "status_poly_id": null,
         "link": "https://pivision.roobasra.com/PIVision/PB/#/PBDisplays/13078"
     },
-     "Ru-427":
+    "Ru-427":
     {
         "ESP": "null",
         "Fluid Rate": null,
