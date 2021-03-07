@@ -2081,6 +2081,19 @@
         "status_poly_id": null,
         "link": "https://pivision.roobasra.com/PIVision/PB/#/PBDisplays/9924"
     },
+    "R-593":
+    {
+        "ESP": "NVM",
+        "Fluid Rate": 0,
+        "Genset": "",
+        "Oil rate": 0,
+        "Station": "DS2",
+        "VSD": "BHI",
+        "WC": 0,
+        "Water Rate": 0,
+        "on": 1,
+        "link": "https://pivision.roobasra.com/PIVision/#/Displays/1098/R-593-Well-Status"
+    },
     "R-605":
     {
         "ESP": "NVM",
