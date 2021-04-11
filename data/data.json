@@ -1330,7 +1330,7 @@
         "VSD": "NVM",
         "WC": 0.26,
         "Water Rate": 751.9200000000001,
-        "on": 0,
+        "on": 1,
         "press_poly_id": null,
         "status_poly_id": null,
         "link": "https://pivision.roobasra.com/PIVision/PB/#/PBDisplays/9666"
@@ -1493,7 +1493,7 @@
         "VSD": "-",
         "WC": 0.86,
         "Water Rate": 1321.82,
-        "on": 0,
+        "on": 1,
         "press_poly_id": null,
         "status_poly_id": null,
         "link": "https://pivision.roobasra.com/PIVision/PB/#/PBDisplays/9674"
@@ -2298,7 +2298,7 @@
         "VSD": "NVM",
         "WC": 0.23,
         "Water Rate": 536.1299999999999,
-        "on": 0,
+        "on": 1,
         "press_poly_id": null,
         "status_poly_id": null,
         "link": "https://pivision.roobasra.com/PIVision/PB/#/PBDisplays/14162"
