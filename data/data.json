@@ -2505,7 +2505,7 @@
         "VSD": "BHI",
         "WC": 0.15,
         "Water Rate": 262.6500000000001,
-        "on": 0,
+        "on": 1,
         "press_poly_id": null,
         "status_poly_id": null,
         "link": "https://pivision.roobasra.com/PIVision/PB/#/PBDisplays/9936"
@@ -2565,7 +2565,7 @@
         "VSD": "NVM",
         "WC": 0,
         "Water Rate": 0,
-        "on": 0,
+        "on": 1,
         "press_poly_id": null,
         "status_poly_id": null,
         "link": "https://pivision.roobasra.com/PIVision/PB/#/PBDisplays/9939"
@@ -2697,7 +2697,7 @@
         "VSD": "NVM",
         "WC": 0,
         "Water Rate": 0,
-        "on": 1,
+        "on": 0,
         "press_poly_id": null,
         "status_poly_id": null,
         "link": "https://pivision.roobasra.com/PIVision/PB/#/PBDisplays/9944"
@@ -2795,7 +2795,7 @@
         "Genset": "Perkins",
         "Station": "Markazia",
         "VSD": "BKR",
-        "on": 0,
+        "on": 1,
         "press_poly_id": null,
         "status_poly_id": null,
         "link": "https://pivision.roobasra.com/PIVision/PB/#/PBDisplays/13867"
@@ -4886,7 +4886,7 @@
         "Genset": "Perkins",
         "Station": "Janubia",
         "VSD": "BKR",
-        "on": 0,
+        "on": 1,
         "press_poly_id": null,
         "status_poly_id": null,
         "link": null
