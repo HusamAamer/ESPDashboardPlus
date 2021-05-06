@@ -845,7 +845,7 @@
         "VSD": "BHI",
         "WC": 0.8,
         "Water Rate": 1640.8000000000002,
-        "on": 0,
+        "on": 1,
         "press_poly_id": null,
         "status_poly_id": null,
         "link": "https://pivision.roobasra.com/PIVision/PB/#/PBDisplays/9642"
@@ -1500,7 +1500,7 @@
         "VSD": "NVM",
         "WC": 0.85,
         "Water Rate": 2549.15,
-        "on": 0,
+        "on": 1,
         "press_poly_id": null,
         "status_poly_id": null,
         "link": "https://pivision.roobasra.com/PIVision/PB/#/PBDisplays/9676"
