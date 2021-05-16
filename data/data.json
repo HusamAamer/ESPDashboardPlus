@@ -389,7 +389,7 @@
         "VSD": "NVM",
         "WC": 0.515,
         "Water Rate": 4491.3150000000005,
-        "on": 1,
+        "on": 0,
         "press_poly_id": null,
         "status_poly_id": null,
         "link": "https://pivision.roobasra.com/PIVision/PB/#/PBDisplays/9880"
@@ -766,7 +766,7 @@
         "Fluid Rate": 5077,
         "Genset": "Perkins",
         "Oil rate": 2650.194,
-        "Station": "DS4",
+        "Station": "DS5",
         "VSD": "BKR",
         "WC": 0.478,
         "Water Rate": 2426.806,
@@ -1824,7 +1824,7 @@
         "Fluid Rate": 1850,
         "Genset": "Perkins",
         "Oil rate": 1825.95,
-        "Station": "DS4",
+        "Station": "DS5",
         "VSD": "BHI",
         "WC": 0.013,
         "Water Rate": 24.049999999999955,
@@ -2359,7 +2359,7 @@
         "on": 1,
         "press_poly_id": null,
         "status_poly_id": null,
-        "link": null
+        "link": "https://pivision.roobasra.com/PIVision/#/Displays/14155/R-697-Well-Status"
     },
     "R-700":
     {
