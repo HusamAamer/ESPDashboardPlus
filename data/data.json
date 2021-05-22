@@ -2506,7 +2506,7 @@
         "VSD": "BKR",
         "WC": 0.31,
         "Water Rate": 905.8200000000002,
-        "on": 1,
+        "on": 0,
         "press_poly_id": null,
         "status_poly_id": null,
         "link": "https://pivision.roobasra.com/PIVision/PB/#/PBDisplays/14831"
@@ -3224,7 +3224,7 @@
         "VSD": "NVM",
         "WC": 0.5,
         "Water Rate": 3595,
-        "on": 1,
+        "on": 0,
         "press_poly_id": null,
         "status_poly_id": null,
         "link": "https://pivision.roobasra.com/PIVision/PB/#/PBDisplays/9972"
