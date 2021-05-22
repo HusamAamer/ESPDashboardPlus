@@ -3209,7 +3209,7 @@
         "VSD": "BHI",
         "WC": 0.05,
         "Water Rate": 203.60000000000036,
-        "on": 0,
+        "on": 1,
         "press_poly_id": null,
         "status_poly_id": null,
         "link": "https://pivision.roobasra.com/PIVision/PB/#/PBDisplays/9971"
