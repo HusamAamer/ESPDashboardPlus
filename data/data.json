@@ -790,6 +790,23 @@
         "status_poly_id": null,
         "link": "https://pivision.roobasra.com/PIVision/PB/#/PBDisplays/9638"
     },
+
+"R-196":
+    {
+        "ESP": "null",
+        "Fluid Rate": null,
+        "Genset": "null",
+        "Oil rate": null,
+        "Station": "DS5",
+        "VSD": "null",
+        "WC": null,
+        "Water Rate": null,
+        "on": 0,
+        "press_poly_id": null,
+        "status_poly_id": null,
+        "link": "https://pivision.roobasra.com/PIVision/#/Displays/13128/ESP_PI_Module"
+    },
+
     "R-199":
     {
         "ESP": "BHI",
@@ -845,7 +862,7 @@
         "VSD": "BHI",
         "WC": 0.8,
         "Water Rate": 1640.8000000000002,
-        "on": 1,
+        "on": 0,
         "press_poly_id": null,
         "status_poly_id": null,
         "link": "https://pivision.roobasra.com/PIVision/PB/#/PBDisplays/9642"
