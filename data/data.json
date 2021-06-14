@@ -44,6 +44,22 @@
         "status_poly_id": null,
         "link": "https://pivision.roobasra.com/PIVision/PB/#/PBDisplays/9858"
     },
+
+"R-008":
+    {
+        "ESP": "null",
+        "Fluid Rate": null,
+        "Oil rate": null,
+        "Station": "NIDS",
+        "VSD": "null",
+        "WC": 0,
+        "Water Rate": 0,
+        "on": 1,
+        "press_poly_id": null,
+        "status_poly_id": null,
+        "link": "https://pivision.roobasra.com/PIVision/#/Displays/13128/ESP_PI_Module"
+    },
+
     "R-010":
     {
         "ESP": "NVM",
@@ -1458,7 +1474,7 @@
         "VSD": "BHI",
         "WC": null,
         "Water Rate": null,
-        "on": 0,
+        "on": 1,
         "press_poly_id": null,
         "status_poly_id": null,
         "link": "https://pivision.roobasra.com/PIVision/#/Displays/13128/ESP_PI_Module"
