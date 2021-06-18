@@ -57,7 +57,7 @@
         "on": 1,
         "press_poly_id": null,
         "status_poly_id": null,
-        "link": "https://pivision.roobasra.com/PIVision/#/Displays/13128/ESP_PI_Module"
+        "link": null
     },
 
     "R-010":
@@ -1311,7 +1311,7 @@
         "on": 1,
         "press_poly_id": null,
         "status_poly_id": null,
-        "link": "https://pivision.roobasra.com/PIVision/#/Displays/977/R-382-Well-Status"
+        "link": null
     },
     "R-419":
     {
@@ -1477,7 +1477,7 @@
         "on": 1,
         "press_poly_id": null,
         "status_poly_id": null,
-        "link": "https://pivision.roobasra.com/PIVision/#/Displays/13128/ESP_PI_Module"
+        "link": null
     },
 
     "R-467":
@@ -5318,7 +5318,7 @@
         "on": 1,
         "press_poly_id": null,
         "status_poly_id": null,
-        "link": "https://pivision.roobasra.com/PIVision/#/Displays/977/R-383-Well-Status"
+        "link": null
     },
     "Ru-151A":
     {
