@@ -820,7 +820,7 @@
         "on": 0,
         "press_poly_id": null,
         "status_poly_id": null,
-        "link": "https://pivision.roobasra.com/PIVision/#/Displays/13128/ESP_PI_Module"
+        "link": null
     },
 
     "R-199":
@@ -4818,7 +4818,7 @@
         "on": 1,
         "press_poly_id": null,
         "status_poly_id": null,
-        "link": "https://pivision.roobasra.com/PIVision/#/Displays/13128/ESP_PI_Module"
+        "link": null
     },
     "Ru-403":
     {
@@ -5273,7 +5273,7 @@
         "on": 1,
         "press_poly_id": null,
         "status_poly_id": null,
-        "link": "https://pivision.roobasra.com/PIVision/#/Displays/13128/ESP_PI_Module"
+        "link": null
     },
     "Ru-470":
     {
