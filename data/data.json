@@ -4595,21 +4595,7 @@
         "status_poly_id": null,
         "link": "https://pivision.roobasra.com/PIVision/PB/#/PBDisplays/10036"
     },
-    "Ru-386":
-    {
-        "ESP": "NVM",
-        "Fluid Rate": 8339,
-        "Genset": "Perkins",
-        "Oil rate": 2084.75,
-        "Station": "Markazia",
-        "VSD": "NVM",
-        "WC": 0.75,
-        "Water Rate": 6254.25,
-        "on": 1,
-        "press_poly_id": null,
-        "status_poly_id": null,
-        "link": "https://pivision.roobasra.com/PIVision/PB/#/PBDisplays/10037"
-    },
+    
     "Ru-387":
     {
         "ESP": "NVM",
@@ -4755,7 +4741,7 @@
         "VSD": "NVM",
         "WC": 0.86,
         "Water Rate": 5668.26,
-        "on": 0,
+        "on": 1,
         "press_poly_id": null,
         "status_poly_id": null,
         "link": "https://pivision.roobasra.com/PIVision/PB/#/PBDisplays/10045"
