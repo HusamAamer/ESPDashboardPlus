@@ -609,7 +609,7 @@
         "on": 1,
         "press_poly_id": null,
         "status_poly_id": null,
-        "link": "https://pivision.roobasra.com/PIVision/#/Displays/9575/R-106-Well-Status"
+        "link": null
     },
     "R-124":
     {
@@ -1386,7 +1386,7 @@
         "on": 1,
         "press_poly_id": null,
         "status_poly_id": null,
-        "link": "https://pivision.roobasra.com/PIVision/#/Displays/1001/R-428-Well-Status"
+        "link": null
     },
     "R-435":
     {
@@ -1598,7 +1598,7 @@
         "on": 0,
         "press_poly_id": null,
         "status_poly_id": null,
-        "link": "https://pivision.roobasra.com/PIVision/#/Displays/1037/R-504-Well-Status"
+        "link": null
     },
     "R-508":
     {
@@ -1836,7 +1836,7 @@
         "on": 0,
         "press_poly_id": null,
         "status_poly_id": null,
-        "link": "https://pivision.roobasra.com/PIVision/#/Displays/1060/R-531-Well-Status"
+        "link": null
     },
     "R-534":
     {
@@ -2098,7 +2098,7 @@
         "on": 0,
         "press_poly_id": null,
         "status_poly_id": null,
-        "link": "https://pivision.roobasra.com/PIVision/#/Displays/1088/R-581-Well-Status"
+        "link": null
     },
     "R-588":
     {
@@ -2156,7 +2156,7 @@
         "WC": 0.317,
         "Water Rate": 2253.87,
         "on": 1,
-        "link": "https://pivision.roobasra.com/PIVision/#/Displays/1098/R-593-Well-Status"
+        "link": null
     },
     "R-605":
     {
@@ -2246,7 +2246,7 @@
         "on": 0,
         "press_poly_id": null,
         "status_poly_id": null,
-        "link": "https://pivision.roobasra.com/PIVision/#/Displays/1117/R-624-Well-Status"
+        "link": null
     },
     "R-630":
     {
@@ -2409,7 +2409,7 @@
         "on": 1,
         "press_poly_id": null,
         "status_poly_id": null,
-        "link": "https://pivision.roobasra.com/PIVision/#/Displays/14155/R-697-Well-Status"
+        "link": null
     },
     "R-700":
     {
