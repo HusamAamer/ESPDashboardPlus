@@ -3011,7 +3011,7 @@
         "VSD": "NVM",
         "WC": 0.34,
         "Water Rate": 1936.6400000000003,
-        "on": 0,
+        "on": 1,
         "press_poly_id": null,
         "status_poly_id": null,
         "link": "https://pivision.roobasra.com/PIVision/PB/#/PBDisplays/9955"
@@ -4184,7 +4184,7 @@
         "VSD": "NVM",
         "WC": 0.85,
         "Water Rate": 4199.85,
-        "on": 1,
+        "on": 0,
         "press_poly_id": null,
         "status_poly_id": null,
         "link": "https://pivision.roobasra.com/PIVision/PB/#/PBDisplays/10015"
@@ -4793,6 +4793,21 @@
         "press_poly_id": null,
         "status_poly_id": null,
         "link": "https://pivision.roobasra.com/PIVision/PB/#/PBDisplays/10046"
+    },
+     "Ru-398":
+    {
+        "ESP": "null",
+        "Fluid Rate": null,
+        "Genset": "null",
+        "Oil rate": null,
+        "Station": "Qurainat",
+        "VSD": "null",
+        "WC": null,
+        "Water Rate": null,
+        "on": 0,
+        "press_poly_id": null,
+        "status_poly_id": null,
+        "link": null
     },
     "Ru-400":
     {
