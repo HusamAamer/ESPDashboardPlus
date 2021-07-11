@@ -2720,7 +2720,7 @@
         "WC": 0.64,
         "Water Rate": 3162.24,
         "link": "https://pivision.roobasra.com/PIVision/PB/#/PBDisplays/14194",
-        "on": 0,
+        "on": 1,
         "press_poly_id": null,
         "status_poly_id": null
     },
@@ -2903,7 +2903,7 @@
         "WC": 0.45,
         "Water Rate": 2987.5499999999997,
         "link": "https://pivision.roobasra.com/PIVision/PB/#/PBDisplays/9959",
-        "on": 0,
+        "on": 1,
         "press_poly_id": null,
         "status_poly_id": null
     },
@@ -3483,7 +3483,7 @@
         "WC": 1,
         "Water Rate": 3787,
         "link": "https://pivision.roobasra.com/PIVision/PB/#/PBDisplays/13823",
-        "on": 0,
+        "on": 1,
         "press_poly_id": null,
         "status_poly_id": null
     },
@@ -4715,7 +4715,7 @@
         "WC": 0.6,
         "Water Rate": 4672.799999999999,
         "link": "https://pivision.roobasra.com/PIVision/PB/#/PBDisplays/13817",
-        "on": 0,
+        "on": 1,
         "press_poly_id": null,
         "status_poly_id": null
     },
@@ -4841,7 +4841,7 @@
         "WC": 0.21,
         "Water Rate": 1617.63,
         "link": "https://pivision.roobasra.com/PIVision/PB/#/PBDisplays/10053",
-        "on": 0,
+        "on": 1,
         "press_poly_id": null,
         "status_poly_id": null
     },
@@ -4897,7 +4897,7 @@
         "WC": 0.5,
         "Water Rate": 2360,
         "link": "https://pivision.roobasra.com/PIVision/#/Displays/1340/RU-429-Well-Status",
-        "on": 0,
+        "on": 1,
         "press_poly_id": null,
         "status_poly_id": null
     },
@@ -5046,7 +5046,7 @@
         "WC": 0.56,
         "Water Rate": 2604,
         "link": "https://pivision.roobasra.com/PIVision/PB/#/PBDisplays/10062",
-        "on": 0,
+        "on": 1,
         "press_poly_id": null,
         "status_poly_id": null
     },
@@ -5074,7 +5074,7 @@
         "WC": 0.43,
         "Water Rate": 1596.1599999999999,
         "link": "https://pivision.roobasra.com/PIVision/PB/#/PBDisplays/14718",
-        "on": 0,
+        "on": 1,
         "press_poly_id": null,
         "status_poly_id": null
     },
