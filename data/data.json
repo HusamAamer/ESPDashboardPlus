@@ -149,7 +149,7 @@
         "WC": 0.78,
         "Water Rate": 3691.7400000000002,
         "link": "https://pivision.roobasra.com/PIVision/PB/#/PBDisplays/13866",
-        "on": 0,
+        "on": 1,
         "press_poly_id": null,
         "status_poly_id": null
     },
@@ -481,7 +481,7 @@
         "WC": 0.663,
         "Water Rate": 3141.9570000000003,
         "link": "https://pivision.roobasra.com/PIVision/PB/#/PBDisplays/9886",
-        "on": 0,
+        "on": 1,
         "press_poly_id": null,
         "status_poly_id": null
     },
@@ -758,7 +758,7 @@
         "WC": 0.88,
         "Water Rate": 3421.44,
         "link": "https://pivision.roobasra.com/PIVision/PB/#/PBDisplays/9638",
-        "on": 0,
+        "on": 1,
         "press_poly_id": null,
         "status_poly_id": null
     },
@@ -934,7 +934,7 @@
         "WC": 0.27,
         "Water Rate": 1382.94,
         "link": "https://pivision.roobasra.com/PIVision/PB/#/PBDisplays/9650",
-        "on": 0,
+        "on": 1,
         "press_poly_id": null,
         "status_poly_id": null
     },
@@ -1158,7 +1158,7 @@
         "WC": 0.818,
         "Water Rate": 4176.708,
         "link": "https://pivision.roobasra.com/PIVision/PB/#/PBDisplays/9662",
-        "on": 0,
+        "on": 1,
         "press_poly_id": null,
         "status_poly_id": null
     },
@@ -1474,7 +1474,7 @@
         "WC": 0.411,
         "Water Rate": 421.68600000000004,
         "link": "https://pivision.roobasra.com/PIVision/PB/#/PBDisplays/9674",
-        "on": 0,
+        "on": 1,
         "press_poly_id": null,
         "status_poly_id": null
     },
@@ -1642,7 +1642,7 @@
         "WC": 0.7,
         "Water Rate": 2424.8,
         "link": "https://pivision.roobasra.com/PIVision/PB/#/PBDisplays/9903",
-        "on": 0,
+        "on": 1,
         "press_poly_id": null,
         "status_poly_id": null
     },
@@ -1850,7 +1850,7 @@
         "WC": 0.72,
         "Water Rate": 3430.8,
         "link": "https://pivision.roobasra.com/PIVision/PB/#/PBDisplays/9914",
-        "on": 0,
+        "on": 1,
         "press_poly_id": null,
         "status_poly_id": null
     },
@@ -2038,7 +2038,7 @@
         "WC": 0.53,
         "Water Rate": 2681.8,
         "link": "https://pivision.roobasra.com/PIVision/PB/#/PBDisplays/9924",
-        "on": 0,
+        "on": 1,
         "press_poly_id": null,
         "status_poly_id": null
     },
@@ -2106,7 +2106,7 @@
         "WC": 0.65,
         "Water Rate": 4514.25,
         "link": "https://pivision.roobasra.com/PIVision/PB/#/PBDisplays/9927",
-        "on": 0,
+        "on": 1,
         "press_poly_id": null,
         "status_poly_id": null
     },
@@ -2274,7 +2274,7 @@
         "WC": 0.57,
         "Water Rate": 1443.81,
         "link": "https://pivision.roobasra.com/PIVision/PB/#/PBDisplays/14130",
-        "on": 0,
+        "on": 1,
         "press_poly_id": null,
         "status_poly_id": null
     },
