@@ -767,7 +767,7 @@
         "Station": "DS5",
         "VSD": "BKR",
         "link": null,
-        "on": 0,
+        "on": 1,
         "press_poly_id": null,
         "status_poly_id": null
     },
@@ -3848,7 +3848,7 @@
         "WC": 0.43,
         "Water Rate": 723.2599999999999,
         "link": null,
-        "on": 1,
+        "on": 0,
         "press_poly_id": null,
         "status_poly_id": null
     },
@@ -3982,7 +3982,7 @@
         "WC": 0.07,
         "Water Rate": 276.0800000000004,
         "link": "https://pivision.roobasra.com/PIVision/PB/#/PBDisplays/10013",
-        "on": 1,
+        "on": 0,
         "press_poly_id": null,
         "status_poly_id": null
     },
