@@ -4156,7 +4156,7 @@
         "WC": 0.92,
         "Water Rate": 3471.1600000000003,
         "link": "https://pivision.roobasra.com/PIVision/PB/#/PBDisplays/10020",
-        "on": 1,
+        "on": 0,
         "press_poly_id": null,
         "status_poly_id": null
     },
