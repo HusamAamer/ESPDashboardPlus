@@ -2926,7 +2926,7 @@
         "Station": "Ratqa",
         "VSD": "BKR",
         "link": null,
-        "on": 0,
+        "on": 1,
         "press_poly_id": null,
         "status_poly_id": null
     },
@@ -3142,7 +3142,7 @@
         "WC": 0.5,
         "Water Rate": 3527.5,
         "link": "https://pivision.roobasra.com/PIVision/PB/#/PBDisplays/9972",
-        "on": 0,
+        "on": 1,
         "press_poly_id": null,
         "status_poly_id": null
     },
@@ -3335,7 +3335,7 @@
         "WC": 0.81,
         "Water Rate": 4966.92,
         "link": "https://pivision.roobasra.com/PIVision/PB/#/PBDisplays/9982",
-        "on": 0,
+        "on": 1,
         "press_poly_id": null,
         "status_poly_id": null
     },
@@ -3756,7 +3756,7 @@
         "Station": "Qurainat",
         "VSD": "BKR",
         "link": null,
-        "on": 0,
+        "on": 1,
         "press_poly_id": null,
         "status_poly_id": null
     },
@@ -3793,7 +3793,7 @@
         "Station": "Shamiya",
         "VSD": "BKR",
         "link": null,
-        "on": 0,
+        "on": 1,
         "press_poly_id": null,
         "status_poly_id": null
     },
@@ -4142,7 +4142,7 @@
         "VSD": "BKR",
         "WC": "",
         "link": "https://pivision.roobasra.com/PIVision/PB/#/PBDisplays/14744",
-        "on": 0,
+        "on": 1,
         "press_poly_id": null,
         "status_poly_id": null
     },
@@ -4240,7 +4240,7 @@
         "WC": 0.6,
         "Water Rate": 4651.799999999999,
         "link": "https://pivision.roobasra.com/PIVision/PB/#/PBDisplays/10024",
-        "on": 0,
+        "on": 1,
         "press_poly_id": null,
         "status_poly_id": null
     },
@@ -4603,7 +4603,7 @@
         "WC": 0.638,
         "Water Rate": 4980.866,
         "link": "https://pivision.roobasra.com/PIVision/PB/#/PBDisplays/10044",
-        "on": 0,
+        "on": 1,
         "press_poly_id": null,
         "status_poly_id": null
     },
