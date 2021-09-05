@@ -697,7 +697,7 @@
         "Fluid Rate": 4331,
         "Genset": "Perkins",
         "Oil rate": 3161.63,
-        "Station": "DS4",
+        "Station": "DS5",
         "VSD": "BKR",
         "WC": 0.27,
         "Water Rate": 1169.37,
@@ -2162,7 +2162,7 @@
         "WC": 0.778,
         "Water Rate": 1923.216,
         "link": null,
-        "on": 1,
+        "on": 0,
         "press_poly_id": null,
         "status_poly_id": null
     },
