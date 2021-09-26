@@ -2006,6 +2006,16 @@
         "press_poly_id": null,
         "status_poly_id": null
     },
+
+"R-576": {
+        "Station": "DS2",
+        "VSD": "-",
+        "link": null,
+        "on": 1,
+        "press_poly_id": null,
+        "status_poly_id": null
+    },
+
     "R-581": {
         "Station": "DS2",
         "VSD": "-",
