@@ -3523,7 +3523,7 @@
         "WC": 0,
         "Water Rate": 3787,
         "link": "https://pivision.roobasra.com/PIVision/PB/#/PBDisplays/13823",
-        "on": 1,
+        "on": 0,
         "press_poly_id": null,
         "status_poly_id": null
     },
@@ -4129,7 +4129,7 @@
         "WC": 0.85,
         "Water Rate": 3711.1,
         "link": "https://pivision.roobasra.com/PIVision/PB/#/PBDisplays/14846",
-        "on": 1,
+        "on": 0,
         "press_poly_id": null,
         "status_poly_id": null
     },
@@ -4143,7 +4143,7 @@
         "WC": 0.53,
         "Water Rate": 4242.120000000001,
         "link": "https://pivision.roobasra.com/PIVision/#/Displays/1263/RU-319-Well-Status",
-        "on": 0,
+        "on": 1, 
         "press_poly_id": null,
         "status_poly_id": null
     },
