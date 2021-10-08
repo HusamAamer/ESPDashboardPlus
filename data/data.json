@@ -1089,7 +1089,7 @@
         "WC": 0.46,
         "Water Rate": 3597.2,
         "link": "https://pivision.roobasra.com/PIVision/PB/#/PBDisplays/9658",
-        "on": 0,
+        "on": 1,
         "press_poly_id": null,
         "status_poly_id": null
     },
@@ -3007,7 +3007,7 @@
         "WC": 0,
         "Water Rate": 0,
         "link": "https://pivision.roobasra.com/PIVision/PB/#/PBDisplays/9964",
-        "on": 1,
+        "on": 0,
         "press_poly_id": null,
         "status_poly_id": null
     },
@@ -3333,7 +3333,7 @@
         "VSD": "BHI",
         "WC": "",
         "link": null,
-        "on": 0,
+        "on": 1,
         "press_poly_id": null,
         "status_poly_id": null
     },
