@@ -453,7 +453,7 @@
         "WC": 0.73,
         "Water Rate": 3410.56,
         "link": "https://pivision.roobasra.com/PIVision/PB/#/PBDisplays/9884",
-        "on": 1,
+        "on": 0,
         "press_poly_id": null,
         "status_poly_id": null
     },
@@ -484,6 +484,17 @@
         "on": 1,
         "press_poly_id": null,
         "status_poly_id": null
+    },
+    "R-073": {
+        "ESP": "NVM",
+        "Fluid Rate": 0,
+        "Genset": "0",
+        "Oil rate": 0,
+        "Station": "SIDS",
+        "VSD": "BKR",
+        "WC": 0,
+        "Water Rate": 0,
+        "on": 1
     },
     "R-075": {
         "ESP": "NVM",
@@ -1448,7 +1459,7 @@
         "WC": 0,
         "Water Rate": 0,
         "link": null,
-        "on": 1,
+        "on": 0,
         "press_poly_id": null,
         "status_poly_id": null
     },
