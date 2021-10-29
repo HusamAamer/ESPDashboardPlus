@@ -2858,7 +2858,7 @@
         "VSD": "BHI",
         "WC": "",
         "link": null,
-        "on": 1
+        "on": 0
     },
     "Ru-148z": {
         "ESP": "BHI",
@@ -3421,7 +3421,7 @@
         "Station": "Janubia",
         "VSD": "BKR",
         "link": null,
-        "on": 0
+        "on": 1
     },
     "Ru-296": {
         "ESP": "BHI",
