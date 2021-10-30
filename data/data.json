@@ -2858,7 +2858,7 @@
         "VSD": "BHI",
         "WC": "",
         "link": null,
-        "on": 0
+        "on": 1
     },
     "Ru-148z": {
         "ESP": "BHI",
@@ -4096,7 +4096,7 @@
         "WC": 0.71,
         "Water Rate": 4595.12,
         "link": "https://pivision.roobasra.com/PIVision/PB/#/PBDisplays/10049",
-        "on": 0
+        "on": 1
     },
     "Ru-411": {
         "ESP": "BHI",
