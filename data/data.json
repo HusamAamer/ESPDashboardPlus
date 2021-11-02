@@ -2420,7 +2420,7 @@
         "WC": 0,
         "Water Rate": 0,
         "link": "https://pivision.roobasra.com/PIVision/#/Displays/10105/RU-059-Well-Status",
-        "on": 0
+        "on": 1
     },
     "Ru-060": {
         "ESP": "BHI",
@@ -2858,7 +2858,7 @@
         "VSD": "BHI",
         "WC": "",
         "link": null,
-        "on": 1
+        "on": 0
     },
     "Ru-148z": {
         "ESP": "BHI",
