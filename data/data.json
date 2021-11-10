@@ -33,7 +33,7 @@
         "WC": 0.73,
         "Water Rate": 3917.91,
         "link": "https://pivision.roobasra.com/PIVision/PB/#/PBDisplays/9858",
-        "on": 0
+        "on": 1
     },
     "R-008": {
         "ESP": "NVM",
@@ -129,7 +129,7 @@
         "WC": 0.78,
         "Water Rate": 3691.7400000000002,
         "link": "https://pivision.roobasra.com/PIVision/PB/#/PBDisplays/13866",
-        "on": 1
+        "on": 0
     },
     "R-023": {
         "ESP": "NVM",
