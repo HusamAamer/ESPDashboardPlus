@@ -33,7 +33,7 @@
         "WC": 0.73,
         "Water Rate": 3917.91,
         "link": "https://pivision.roobasra.com/PIVision/PB/#/PBDisplays/9858",
-        "on": 0
+        "on": 1
     },
     "R-008": {
         "ESP": "NVM",
@@ -2544,7 +2544,7 @@
         "WC": 0.21,
         "Water Rate": 1337.4899999999998,
         "link": "https://pivision.roobasra.com/PIVision/PB/#/PBDisplays/9960",
-        "on": 1
+        "on": 0
     },
     "Ru-082": {
         "ESP": "BHI",
@@ -3240,7 +3240,7 @@
         "Station": "Qurainat",
         "VSD": "BKR",
         "link": null,
-        "on": 1
+        "on": 0
     },
     "Ru-237": {
         "ESP": "NVM",
