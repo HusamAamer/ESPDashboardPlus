@@ -2501,7 +2501,7 @@
         "WC": 0.67,
         "Water Rate": 4333.56,
         "link": "https://pivision.roobasra.com/PIVision/PB/#/PBDisplays/9957",
-        "on": 0
+        "on": 1
     },
     "Ru-075": {
         "ESP": "NVM",
@@ -2800,7 +2800,7 @@
         "WC": 0.78,
         "Water Rate": 3353.2200000000003,
         "link": "https://pivision.roobasra.com/PIVision/PB/#/PBDisplays/13869",
-        "on": 0
+        "on": 1
     },
     "Ru-138B": {
         "ESP": "NVM",
@@ -2856,6 +2856,18 @@
         "Station": "Janubia",
         "VSD": "BHI",
         "WC": "",
+        "link": null,
+        "on": 0
+    },
+    "Ru-147": {
+        "ESP": "null",
+        "Fluid Rate": null,
+        "Genset": "null",
+        "Oil rate": null,
+        "Station": "Janubia",
+        "VSD": "NVM",
+        "WC": null,
+        "Water Rate": null,
         "link": null,
         "on": 0
     },
