@@ -2389,7 +2389,7 @@
         "WC": 0.417,
         "Water Rate": 756.855,
         "link": "https://pivision.roobasra.com/PIVision/PB/#/PBDisplays/13867",
-        "on": 0
+        "on": 1
     },
     "Ru-057": {
         "Genset": "Perkins",
@@ -2544,7 +2544,7 @@
         "WC": 0.21,
         "Water Rate": 1337.4899999999998,
         "link": "https://pivision.roobasra.com/PIVision/PB/#/PBDisplays/9960",
-        "on": 0
+        "on": 1
     },
     "Ru-082": {
         "ESP": "BHI",
