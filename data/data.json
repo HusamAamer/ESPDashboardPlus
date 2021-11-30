@@ -1572,7 +1572,7 @@
         "WC": 0.025,
         "Water Rate": 45.299999999999955,
         "link": "https://pivision.roobasra.com/PIVision/PB/#/PBDisplays/9911",
-        "on": 0
+        "on": 1
     },
     "R-542z": {
         "ESP": "NVM",
@@ -1727,7 +1727,7 @@
         "WC": 0,
         "Water Rate": 0,
         "link": "https://pivision.roobasra.com/PIVision/PB/#/PBDisplays/9921",
-        "on": 0
+        "on": 1
     },
     "R-574z": {
         "ESP": "NVM",
