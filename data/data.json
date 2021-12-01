@@ -1250,7 +1250,7 @@
         "WC": 0,
         "Water Rate": 0,
         "link": null,
-        "on": 1
+        "on": 0
     },
     "R-467": {
         "ESP": "NVM",
