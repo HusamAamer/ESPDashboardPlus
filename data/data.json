@@ -2869,7 +2869,7 @@
         "WC": null,
         "Water Rate": null,
         "link": null,
-        "on": 0
+        "on": 1
     },
     "Ru-148z": {
         "ESP": "BHI",
@@ -3456,7 +3456,7 @@
         "WC": 0.07,
         "Water Rate": 276.0800000000004,
         "link": "https://pivision.roobasra.com/PIVision/PB/#/PBDisplays/10013",
-        "on": 1
+        "on": 0
     },
     "Ru-298": {
         "ESP": "NVM",
