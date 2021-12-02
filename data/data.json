@@ -649,7 +649,7 @@
         "WC": 0.513,
         "Water Rate": 2600.397,
         "link": "https://pivision.roobasra.com/PIVision/PB/#/PBDisplays/14916",
-        "on": 0
+        "on": 1
     },
     "R-194": {
         "ESP": "NVM",
@@ -826,7 +826,7 @@
         "WC": 0.562,
         "Water Rate": 1499.4160000000002,
         "link": "https://pivision.roobasra.com/PIVision/PB/#/PBDisplays/9651",
-        "on": 0
+        "on": 1
     },
     "R-238": {
         "Genset": "Perkins",
