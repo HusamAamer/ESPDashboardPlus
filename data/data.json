@@ -969,6 +969,18 @@
         "link": null,
         "on": 1
     },
+   "R-305": {
+        "ESP": "NVM",
+        "Fluid Rate": null,
+        "Genset": "nul",
+        "Oil rate": null,
+        "Station": "DS4",
+        "VSD": " null",
+        "WC": null,
+        "Water Rate": null,
+        "link": null,
+        "on": 1
+    },
     "R-309": {
         "ESP": "NVM",
         "Fluid Rate": 4898,
@@ -1428,7 +1440,7 @@
         "WC": 0.876,
         "Water Rate": 4266.996,
         "link": "https://pivision.roobasra.com/PIVision/PB/#/PBDisplays/14956",
-        "on": 1
+        "on": 0
     },
     "R-515": {
         "ESP": "BHI",
