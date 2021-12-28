@@ -668,7 +668,7 @@
         "Station": "DS5",
         "VSD": "BKR",
         "link": null,
-        "on": 1
+        "on": 0
     },
     "R-199": {
         "ESP": "BHI",
