@@ -1219,6 +1219,20 @@
         "link": "https://pivision.roobasra.com/PIVision/PB/#/PBDisplays/13810",
         "on": 1
     },
+
+"R-442": {
+        "ESP": "null",
+        "Fluid Rate": null,
+        "Genset": "null",
+        "Oil rate": null,
+        "Station": "DS2",
+        "VSD": "null",
+        "WC": null,
+        "Water Rate": null,
+        "link": null,
+        "on": 1
+    },
+
     "R-446": {
         "ESP": "NVM",
         "Fluid Rate": 1677,
