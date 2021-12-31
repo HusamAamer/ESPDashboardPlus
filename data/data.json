@@ -1933,19 +1933,7 @@
         "link": null,
         "on": 0
     },
-    "R-628": {
-        "ESP": "null",
-        "Fluid Rate": null,
-        "Genset": "null",
-        "Oil rate": null,
-        "Station": "DS3",
-        "VSD": "null",
-        "WC": null,
-        "Water Rate": null,
-        "link": null,
-        "on": 1
-    },
-     "R-630": {
+    "R-630": {
         "ESP": "NVM",
         "Fluid Rate": 2472,
         "Genset": "Perkins",
