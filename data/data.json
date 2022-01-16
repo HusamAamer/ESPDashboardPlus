@@ -32,7 +32,7 @@
 		"VSD": "NVM",
 		"WC": 0.48,
 		"Water Rate": 2454.24,
-		"on": 1,
+		"on": 0,
 		"link": "https://pivision.roobasra.com/PIVision/PB/#/PBDisplays/9858"
 	},
 	"R-008": {
@@ -271,7 +271,7 @@
 		"VSD": "NVM",
 		"WC": 0.03,
 		"Water Rate": 127.07999999999993,
-		"on": 1,
+		"on": 0,
 		"link": "https://pivision.roobasra.com/PIVision/PB/#/PBDisplays/9877"
 	},
 	"R-052y": {
@@ -307,7 +307,7 @@
 		"Genset": "Perkins",
 		"Station": "DS3",
 		"VSD": "BKR",
-		"on": 0,
+		"on": 1,
 		"link": "https://pivision.roobasra.com/PIVision/PB/#/PBDisplays/9879"
 	},
 	"R-058": {
@@ -841,7 +841,7 @@
 		"VSD": "NVM",
 		"WC": 0.652,
 		"Water Rate": 2951.6040000000003,
-		"on": 1,
+		"on": 0,
 		"link": "https://pivision.roobasra.com/PIVision/PB/#/PBDisplays/9652"
 	},
 	"R-254": {
@@ -1716,7 +1716,7 @@
 	},
 	"R-557": {
 		"Station": "DS5",
-		"on": 0,
+		"on": 1,
 		"press_poly_id": null,
 		"status_poly_id": null,
 		"link": null
@@ -2373,7 +2373,7 @@
 		"VSD": "NVM",
 		"WC": 0.819,
 		"Water Rate": 4195.737,
-		"on": 0,
+		"on": 1,
 		"link": "https://pivision.roobasra.com/PIVision/PB/#/PBDisplays/9941"
 	},
 	"Ru-043": {
@@ -2719,7 +2719,7 @@
 		"VSD": "BKR",
 		"WC": 0.89,
 		"Water Rate": 4380.58,
-		"on": 1,
+		"on": 0,
 		"link": "https://pivision.roobasra.com/PIVision/PB/#/PBDisplays/14417"
 	},
 	"Ru-092": {
@@ -3392,7 +3392,7 @@
 		"VSD": "NVM",
 		"WC": 0.86,
 		"Water Rate": 5168.6,
-		"on": 0,
+		"on": 1,
 		"link": "https://pivision.roobasra.com/PIVision/PB/#/PBDisplays/10005"
 	},
 	"Ru-232z": {
@@ -3466,7 +3466,7 @@
 		"VSD": "BKR",
 		"WC": 0.76,
 		"Water Rate": 2213.12,
-		"on": 1,
+		"on": 0,
 		"link": null
 	},
 	"Ru-248": {
@@ -4034,7 +4034,7 @@
 		"VSD": "BKR",
 		"WC": 0.58,
 		"Water Rate": 4724.68,
-		"on": 0,
+		"on": 1,
 		"link": "https://pivision.roobasra.com/PIVision/PB/#/PBDisplays/14833"
 	},
 	"Ru-384": {
@@ -4154,7 +4154,7 @@
 		"VSD": "NVM",
 		"WC": 0.69,
 		"Water Rate": 5513.789999999999,
-		"on": 1,
+		"on": 0,
 		"link": "https://pivision.roobasra.com/PIVision/PB/#/PBDisplays/10187"
 	},
 	"Ru-394": {
@@ -4615,7 +4615,7 @@
 		"VSD": "BKR",
 		"WC": 0.39,
 		"Water Rate": 1873.9500000000003,
-		"on": 0,
+		"on": 1,
 		"press_poly_id": null,
 		"status_poly_id": null,
 		"link": null
@@ -4707,7 +4707,7 @@
 		"Genset": "Perkins",
 		"Station": "Qurainat",
 		"VSD": "BKR",
-		"on": 0,
+		"on": 1,
 		"press_poly_id": null,
 		"status_poly_id": null,
 		"link": null
