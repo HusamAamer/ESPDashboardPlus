@@ -20,7 +20,7 @@
 		"VSD": "NVM",
 		"WC": 0.81,
 		"Water Rate": 3474.9,
-		"on": 1,
+		"on": 0,
 		"link": "https://pivision.roobasra.com/PIVision/PB/#/PBDisplays/9857"
 	},
 	"R-007": {
@@ -44,7 +44,7 @@
 		"VSD": "BKR",
 		"WC": 0.72,
 		"Water Rate": 4844.88,
-		"on": 1,
+		"on": 0,
 		"link": null
 	},
 	"R-010": {
@@ -80,7 +80,7 @@
 		"VSD": "BKR",
 		"WC": 0,
 		"Water Rate": 0,
-		"on": 1,
+		"on": 0,
 		"link": "https://pivision.roobasra.com/PIVision/PB/#/PBDisplays/9861"
 	},
 	"R-013": {
@@ -92,7 +92,7 @@
 		"VSD": "BKR",
 		"WC": 0.72,
 		"Water Rate": 3391.2,
-		"on": 1,
+		"on": 0,
 		"link": "https://pivision.roobasra.com/PIVision/PB/#/PBDisplays/9862"
 	},
 	"R-014": {
@@ -140,7 +140,7 @@
 		"VSD": "BHI",
 		"WC": 0.256,
 		"Water Rate": 570.624,
-		"on": 1,
+		"on": 0,
 		"link": "https://pivision.roobasra.com/PIVision/PB/#/PBDisplays/9865"
 	},
 	"R-030": {
@@ -164,7 +164,7 @@
 		"VSD": "NVM",
 		"WC": 0.825,
 		"Water Rate": 3347.85,
-		"on": 1,
+		"on": 0,
 		"link": "https://pivision.roobasra.com/PIVision/PB/#/PBDisplays/9868"
 	},
 	"R-037": {
@@ -200,7 +200,7 @@
 		"VSD": "NVM",
 		"WC": 0.614,
 		"Water Rate": 4998.5740000000005,
-		"on": 1,
+		"on": 0,
 		"link": "https://pivision.roobasra.com/PIVision/PB/#/PBDisplays/9871"
 	},
 	"R-040": {
@@ -212,7 +212,7 @@
 		"VSD": "BHI",
 		"WC": 0.539,
 		"Water Rate": 1541.5400000000002,
-		"on": 1,
+		"on": 0,
 		"link": "https://pivision.roobasra.com/PIVision/PB/#/PBDisplays/9872"
 	},
 	"R-042": {
@@ -236,7 +236,7 @@
 		"VSD": "BKR",
 		"WC": 0.133,
 		"Water Rate": 354.1790000000001,
-		"on": 1,
+		"on": 0,
 		"link": "https://pivision.roobasra.com/PIVision/PB/#/PBDisplays/9874"
 	},
 	"R-044": {
@@ -319,7 +319,7 @@
 		"VSD": "NVM",
 		"WC": 0.703,
 		"Water Rate": 5728.044,
-		"on": 1,
+		"on": 0,
 		"link": "https://pivision.roobasra.com/PIVision/PB/#/PBDisplays/9880"
 	},
 	"R-061": {
@@ -331,7 +331,7 @@
 		"VSD": "NVM",
 		"WC": 0.693,
 		"Water Rate": 1932.7769999999998,
-		"on": 1,
+		"on": 0,
 		"link": "https://pivision.roobasra.com/PIVision/PB/#/PBDisplays/9881"
 	},
 	"R-062z": {
@@ -378,7 +378,7 @@
 		"VSD": "NVM",
 		"WC": 0.729,
 		"Water Rate": 2626.587,
-		"on": 1,
+		"on": 0,
 		"link": "https://pivision.roobasra.com/PIVision/PB/#/PBDisplays/9884"
 	},
 	"R-071": {
@@ -437,7 +437,7 @@
 		"VSD": "NVM",
 		"WC": 0.547,
 		"Water Rate": 2112.514,
-		"on": 1,
+		"on": 0,
 		"link": "https://pivision.roobasra.com/PIVision/PB/#/PBDisplays/14099"
 	},
 	"R-077": {
@@ -470,7 +470,7 @@
 		"VSD": "NVM",
 		"WC": 0.64,
 		"Water Rate": 934.4,
-		"on": 1,
+		"on": 0,
 		"link": "https://pivision.roobasra.com/PIVision/PB/#/PBDisplays/13695"
 	},
 	"R-086": {
@@ -566,7 +566,7 @@
 		"VSD": "NVM",
 		"WC": 0.63,
 		"Water Rate": 2833.74,
-		"on": 1,
+		"on": 0,
 		"link": "https://pivision.roobasra.com/PIVision/PB/#/PBDisplays/9896"
 	},
 	"R-175": {
@@ -602,7 +602,7 @@
 		"VSD": "BKR",
 		"WC": 0.642,
 		"Water Rate": 3538.062,
-		"on": 1,
+		"on": 0,
 		"link": "https://pivision.roobasra.com/PIVision/PB/#/PBDisplays/14454"
 	},
 	"R-188": {
@@ -626,7 +626,7 @@
 		"VSD": "NVM",
 		"WC": 0.66,
 		"Water Rate": 2457.84,
-		"on": 1,
+		"on": 0,
 		"link": "https://pivision.roobasra.com/PIVision/PB/#/PBDisplays/9637"
 	},
 	"R-193": {
@@ -638,7 +638,7 @@
 		"VSD": "BKR",
 		"WC": 0.604,
 		"Water Rate": 2674.5119999999997,
-		"on": 1,
+		"on": 0,
 		"link": "https://pivision.roobasra.com/PIVision/PB/#/PBDisplays/14916"
 	},
 	"R-194": {
@@ -671,7 +671,7 @@
 		"Station": "DS2",
 		"VSD": "BKR",
 		"WC": "",
-		"on": 1,
+		"on": 0,
 		"link": "https://pivision.roobasra.com/PIVision/PB/#/PBDisplays/9639"
 	},
 	"R-200": {
@@ -683,7 +683,7 @@
 		"VSD": "NVM",
 		"WC": 0.54,
 		"Water Rate": 2560.1400000000003,
-		"on": 1,
+		"on": 0,
 		"link": "https://pivision.roobasra.com/PIVision/PB/#/PBDisplays/9640"
 	},
 	"R-201": {
@@ -695,7 +695,7 @@
 		"VSD": "BHI",
 		"WC": 0.6,
 		"Water Rate": 1761.6,
-		"on": 1,
+		"on": 0,
 		"link": "https://pivision.roobasra.com/PIVision/PB/#/PBDisplays/9641"
 	},
 	"R-203": {
@@ -787,7 +787,7 @@
 		"VSD": "BHI",
 		"WC": 0.536,
 		"Water Rate": 1452.0240000000001,
-		"on": 1,
+		"on": 0,
 		"link": "https://pivision.roobasra.com/PIVision/PB/#/PBDisplays/9648"
 	},
 	"R-225": {
@@ -823,7 +823,7 @@
 		"VSD": "NVM",
 		"WC": 0.55,
 		"Water Rate": 1407.45,
-		"on": 1,
+		"on": 0,
 		"link": "https://pivision.roobasra.com/PIVision/PB/#/PBDisplays/9651"
 	},
 	"R-238": {
@@ -852,7 +852,7 @@
 		"VSD": "-",
 		"WC": 0,
 		"Water Rate": 0,
-		"on": 1,
+		"on": 0,
 		"link": "https://pivision.roobasra.com/PIVision/PB/#/PBDisplays/9653"
 	},
 	"R-259": {
@@ -887,7 +887,7 @@
 		"VSD": "BHI",
 		"WC": 0.649,
 		"Water Rate": 2768.634,
-		"on": 1,
+		"on": 0,
 		"link": "https://pivision.roobasra.com/PIVision/PB/#/PBDisplays/13831"
 	},
 	"R-267": {
@@ -942,7 +942,7 @@
 		"Genset": "Perkins",
 		"Station": "SIDS",
 		"VSD": "BKR",
-		"on": 1,
+		"on": 0,
 		"link": null
 	},
 	"R-277": {
@@ -954,7 +954,7 @@
 		"VSD": "NVM",
 		"WC": 0.702,
 		"Water Rate": 4328.531999999999,
-		"on": 1,
+		"on": 0,
 		"link": "https://pivision.roobasra.com/PIVision/PB/#/PBDisplays/9658"
 	},
 	"R-285": {
@@ -1010,7 +1010,7 @@
 		"VSD": "NVM",
 		"WC": 0.662,
 		"Water Rate": 3107.428,
-		"on": 1,
+		"on": 0,
 		"link": "https://pivision.roobasra.com/PIVision/PB/#/PBDisplays/9659"
 	},
 	"R-316": {
@@ -1102,7 +1102,7 @@
 		"VSD": "BKR",
 		"WC": 0.845,
 		"Water Rate": 2385.435,
-		"on": 1,
+		"on": 0,
 		"link": null
 	},
 	"R-368": {
@@ -1239,7 +1239,7 @@
 	},
 	"R-442": {
 		"Station": "DS2",
-		"on": 1,
+		"on": 0,
 		"link": null
 	},
 	"R-446": {
@@ -1335,7 +1335,7 @@
 		"VSD": "NVM",
 		"WC": 0.705,
 		"Water Rate": 1870.3649999999998,
-		"on": 1,
+		"on": 0,
 		"link": "https://pivision.roobasra.com/PIVision/PB/#/PBDisplays/9672"
 	},
 	"R-474": {
@@ -1371,7 +1371,7 @@
 		"VSD": "NVM",
 		"WC": 0.76,
 		"Water Rate": 1313.28,
-		"on": 1,
+		"on": 0,
 		"link": "https://pivision.roobasra.com/PIVision/PB/#/PBDisplays/9676"
 	},
 	"R-490y": {
@@ -1418,7 +1418,7 @@
 		"VSD": "BHI",
 		"WC": 0.683,
 		"Water Rate": 2159.646,
-		"on": 1,
+		"on": 0,
 		"link": "https://pivision.roobasra.com/PIVision/PB/#/PBDisplays/9677"
 	},
 	"R-510": {
@@ -1430,7 +1430,7 @@
 		"VSD": "BHI",
 		"WC": 0.592,
 		"Water Rate": 2858.768,
-		"on": 1,
+		"on": 0,
 		"link": "https://pivision.roobasra.com/PIVision/PB/#/PBDisplays/9899"
 	},
 	"R-511": {
@@ -1442,7 +1442,7 @@
 		"VSD": "BHI",
 		"WC": 0.658,
 		"Water Rate": 3345.272,
-		"on": 1,
+		"on": 0,
 		"link": "https://pivision.roobasra.com/PIVision/PB/#/PBDisplays/9900"
 	},
 	"R-513": {
@@ -1454,7 +1454,7 @@
 		"VSD": "NVM",
 		"WC": 0.79,
 		"Water Rate": 5127.89,
-		"on": 1,
+		"on": 0,
 		"link": "https://pivision.roobasra.com/PIVision/PB/#/PBDisplays/9901"
 	},
 	"R-514": {
@@ -1484,7 +1484,7 @@
 		"VSD": "BKR",
 		"WC": 0.64,
 		"Water Rate": 3066.88,
-		"on": 1,
+		"on": 0,
 		"link": "https://pivision.roobasra.com/PIVision/PB/#/PBDisplays/14721"
 	},
 	"R-518": {
@@ -1508,7 +1508,7 @@
 		"VSD": "NVM",
 		"WC": 0.483,
 		"Water Rate": 1442.721,
-		"on": 1,
+		"on": 0,
 		"link": "https://pivision.roobasra.com/PIVision/PB/#/PBDisplays/12962"
 	},
 	"R-520": {
@@ -1517,7 +1517,7 @@
 		"Station": "NIDS",
 		"VSD": "NVM",
 		"WC": "",
-		"on": 1,
+		"on": 0,
 		"link": "https://pivision.roobasra.com/PIVision/PB/#/PBDisplays/9904"
 	},
 	"R-521": {
@@ -1529,7 +1529,7 @@
 		"VSD": "BHI",
 		"WC": 0.75,
 		"Water Rate": 6603.75,
-		"on": 1,
+		"on": 0,
 		"link": "https://pivision.roobasra.com/PIVision/PB/#/PBDisplays/9905"
 	},
 	"R-522": {
@@ -1541,7 +1541,7 @@
 		"VSD": "NVM",
 		"WC": 0.675,
 		"Water Rate": 4436.1,
-		"on": 1,
+		"on": 0,
 		"link": "https://pivision.roobasra.com/PIVision/PB/#/PBDisplays/9906"
 	},
 	"R-525": {
@@ -1571,7 +1571,7 @@
 		"VSD": "BHI",
 		"WC": 0.582,
 		"Water Rate": 1713.9899999999998,
-		"on": 1,
+		"on": 0,
 		"link": "https://pivision.roobasra.com/PIVision/PB/#/PBDisplays/9909"
 	},
 	"R-529": {
@@ -1580,7 +1580,7 @@
 		"Station": "DS3",
 		"VSD": "NVM",
 		"WC": "",
-		"on": 1,
+		"on": 0,
 		"link": "https://pivision.roobasra.com/PIVision/PB/#/PBDisplays/9910"
 	},
 	"R-531": {
@@ -1603,7 +1603,7 @@
 		"VSD": "BKR",
 		"WC": 0.697,
 		"Water Rate": 3784.71,
-		"on": 1,
+		"on": 0,
 		"link": "https://pivision.roobasra.com/PIVision/PB/#/PBDisplays/14452"
 	},
 	"R-537": {
@@ -1615,7 +1615,7 @@
 		"VSD": "BKR",
 		"WC": 0.557,
 		"Water Rate": 2761.0490000000004,
-		"on": 1,
+		"on": 0,
 		"link": "https://pivision.roobasra.com/PIVision/PB/#/PBDisplays/14116"
 	},
 	"R-539": {
@@ -1687,7 +1687,7 @@
 		"VSD": "NVM",
 		"WC": 0.615,
 		"Water Rate": 4526.4,
-		"on": 1,
+		"on": 0,
 		"link": "https://pivision.roobasra.com/PIVision/PB/#/PBDisplays/13829"
 	},
 	"R-552": {
@@ -1730,7 +1730,7 @@
 		"VSD": "NVM",
 		"WC": 0.702,
 		"Water Rate": 4824.144,
-		"on": 1,
+		"on": 0,
 		"link": "https://pivision.roobasra.com/PIVision/PB/#/PBDisplays/9917"
 	},
 	"R-560": {
@@ -1742,7 +1742,7 @@
 		"VSD": "NVM",
 		"WC": 0.72,
 		"Water Rate": 2982.24,
-		"on": 1,
+		"on": 0,
 		"link": "https://pivision.roobasra.com/PIVision/PB/#/PBDisplays/9918"
 	},
 	"R-564": {
@@ -1754,7 +1754,7 @@
 		"VSD": "NVM",
 		"WC": 0.56,
 		"Water Rate": 1782.4800000000002,
-		"on": 1,
+		"on": 0,
 		"link": "https://pivision.roobasra.com/PIVision/PB/#/PBDisplays/9920"
 	},
 	"R-567": {
@@ -1790,7 +1790,7 @@
 		"VSD": "BKR",
 		"WC": 0,
 		"Water Rate": 0,
-		"on": 1,
+		"on": 0,
 		"link": "https://pivision.roobasra.com/PIVision/PB/#/PBDisplays/9921"
 	},
 	"R-574z": {
@@ -1896,7 +1896,7 @@
 		"VSD": "BKR",
 		"WC": 0.796,
 		"Water Rate": 4189.348,
-		"on": 1,
+		"on": 0,
 		"link": "https://pivision.roobasra.com/PIVision/PB/#/PBDisplays/14918"
 	},
 	"R-606": {
@@ -1908,7 +1908,7 @@
 		"VSD": "BKR",
 		"WC": 0.685,
 		"Water Rate": 3460.6200000000003,
-		"on": 1,
+		"on": 0,
 		"link": "https://pivision.roobasra.com/PIVision/PB/#/PBDisplays/14925"
 	},
 	"R-607": {
@@ -1940,7 +1940,7 @@
 		"VSD": "NVM",
 		"WC": 0.707,
 		"Water Rate": 4582.067,
-		"on": 1,
+		"on": 0,
 		"link": "https://pivision.roobasra.com/PIVision/PB/#/PBDisplays/9927"
 	},
 	"R-612": {
@@ -1995,7 +1995,7 @@
 		"VSD": "BHI",
 		"WC": 0.727,
 		"Water Rate": 3780.3999999999996,
-		"on": 1,
+		"on": 0,
 		"link": "https://pivision.roobasra.com/PIVision/PB/#/PBDisplays/13749"
 	},
 	"R-642": {
@@ -2007,7 +2007,7 @@
 		"VSD": "BKR",
 		"WC": 0.505,
 		"Water Rate": 4976.27,
-		"on": 1,
+		"on": 0,
 		"link": null
 	},
 	"R-644": {
@@ -2031,7 +2031,7 @@
 		"VSD": "NVM",
 		"WC": 0.533,
 		"Water Rate": 2760.94,
-		"on": 1,
+		"on": 0,
 		"link": "https://pivision.roobasra.com/PIVision/PB/#/PBDisplays/14112"
 	},
 	"R-653": {
@@ -2043,7 +2043,7 @@
 		"VSD": "NVM",
 		"WC": 0.658,
 		"Water Rate": 1510.1100000000001,
-		"on": 1,
+		"on": 0,
 		"link": "https://pivision.roobasra.com/PIVision/PB/#/PBDisplays/14339"
 	},
 	"R-654": {
@@ -2055,7 +2055,7 @@
 		"VSD": "NVM",
 		"WC": 0.62,
 		"Water Rate": 2001.36,
-		"on": 1,
+		"on": 0,
 		"link": "https://pivision.roobasra.com/PIVision/PB/#/PBDisplays/13864"
 	},
 	"R-656": {
@@ -2115,7 +2115,7 @@
 		"VSD": "NVM",
 		"WC": 0.535,
 		"Water Rate": 968.35,
-		"on": 1,
+		"on": 0,
 		"link": "https://pivision.roobasra.com/PIVision/PB/#/PBDisplays/14007"
 	},
 	"R-680z": {
@@ -2719,7 +2719,7 @@
 		"VSD": "BKR",
 		"WC": 0.89,
 		"Water Rate": 4380.58,
-		"on": 0,
+		"on": 1,
 		"link": "https://pivision.roobasra.com/PIVision/PB/#/PBDisplays/14417"
 	},
 	"Ru-092": {
@@ -3643,7 +3643,7 @@
 		"VSD": "NVM",
 		"WC": 0.07,
 		"Water Rate": 269.9200000000001,
-		"on": 1,
+		"on": 0,
 		"link": "https://pivision.roobasra.com/PIVision/PB/#/PBDisplays/10013"
 	},
 	"Ru-298": {
