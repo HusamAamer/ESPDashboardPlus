@@ -743,7 +743,7 @@
 		"VSD": "BHI",
 		"WC": 0.907,
 		"Water Rate": 3662.4660000000003,
-		"on": 0,
+		"on": 1,
 		"link": "https://pivision.roobasra.com/PIVision/PB/#/PBDisplays/9645"
 	},
 	"R-211": {
@@ -775,7 +775,7 @@
 		"Station": "DS1",
 		"VSD": "BHI",
 		"WC": "",
-		"on": 0,
+		"on": 1,
 		"link": "https://pivision.roobasra.com/PIVision/PB/#/PBDisplays/9647"
 	},
 	"R-221": {
