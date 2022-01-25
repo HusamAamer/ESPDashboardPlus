@@ -2127,7 +2127,7 @@
 		"VSD": "BKR",
 		"WC": 0.56,
 		"Water Rate": 2340.8,
-		"on": 1,
+		"on": 0,
 		"press_poly_id": null,
 		"status_poly_id": null,
 		"link": null
