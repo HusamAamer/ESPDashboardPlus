@@ -2186,7 +2186,7 @@
 		"VSD": "NVM",
 		"WC": 0.486,
 		"Water Rate": 719.766,
-		"on": 1,
+		"on": 0,
 		"link": "https://pivision.roobasra.com/PIVision/PB/#/PBDisplays/14774"
 	},
 	"Ru-004": {
@@ -2222,7 +2222,7 @@
 		"VSD": "NVM",
 		"WC": 0,
 		"Water Rate": 0,
-		"on": 1,
+		"on": 0,
 		"link": "https://pivision.roobasra.com/PIVision/PB/#/PBDisplays/9932"
 	},
 	"Ru-012": {
@@ -2361,7 +2361,7 @@
 		"VSD": "NVM",
 		"WC": 1,
 		"Water Rate": 1892,
-		"on": 1,
+		"on": 0,
 		"link": "https://pivision.roobasra.com/PIVision/PB/#/PBDisplays/13828"
 	},
 	"Ru-041": {
@@ -2460,7 +2460,7 @@
 	"Ru-051": {
 		"Station": "Markazia",
 		"VSD": "-",
-		"on": 1,
+		"on": 0,
 		"link": "https://pivision.roobasra.com/PIVision/PB/#/PBDisplays/9946"
 	},
 	"Ru-052": {
@@ -2754,7 +2754,7 @@
 		"VSD": "NVM",
 		"WC": 0.51,
 		"Water Rate": 3536.85,
-		"on": 1,
+		"on": 0,
 		"link": "https://pivision.roobasra.com/PIVision/PB/#/PBDisplays/9965"
 	},
 	"Ru-096": {
@@ -2778,7 +2778,7 @@
 		"VSD": "NVM",
 		"WC": 0.729,
 		"Water Rate": 2410.074,
-		"on": 1,
+		"on": 0,
 		"link": "https://pivision.roobasra.com/PIVision/PB/#/PBDisplays/9966"
 	},
 	"Ru-100": {
@@ -2832,7 +2832,7 @@
 		"VSD": "BHI",
 		"WC": 0.11,
 		"Water Rate": 454.0799999999999,
-		"on": 1,
+		"on": 0,
 		"link": "https://pivision.roobasra.com/PIVision/PB/#/PBDisplays/9971"
 	},
 	"Ru-115": {
@@ -3260,7 +3260,7 @@
 		"VSD": "NVM",
 		"WC": 0,
 		"Water Rate": 0,
-		"on": 1,
+		"on": 0,
 		"link": "https://pivision.roobasra.com/PIVision/PB/#/PBDisplays/9994"
 	},
 	"Ru-211": {
@@ -3908,7 +3908,7 @@
 		"VSD": "NVM",
 		"WC": 0.61,
 		"Water Rate": 4812.9,
-		"on": 1,
+		"on": 0,
 		"link": "https://pivision.roobasra.com/PIVision/PB/#/PBDisplays/10025"
 	},
 	"Ru-372": {
@@ -4058,7 +4058,7 @@
 		"VSD": "BKR",
 		"WC": 0.555,
 		"Water Rate": 2793.8700000000003,
-		"on": 1,
+		"on": 0,
 		"link": "https://pivision.roobasra.com/PIVision/PB/#/PBDisplays/10036"
 	},
 	"Ru-386": {
@@ -4403,7 +4403,7 @@
 		"VSD": "NVM",
 		"WC": 0.21,
 		"Water Rate": 1630.8599999999997,
-		"on": 1,
+		"on": 0,
 		"link": "https://pivision.roobasra.com/PIVision/PB/#/PBDisplays/10053"
 	},
 	"Ru-423y": {
@@ -4641,7 +4641,7 @@
 		"VSD": "BKR",
 		"WC": 0.59,
 		"Water Rate": 1879.1499999999999,
-		"on": 1,
+		"on": 0,
 		"link": "https://pivision.roobasra.com/PIVision/PB/#/PBDisplays/14718"
 	},
 	"Ru-466": {
