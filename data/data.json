@@ -1663,7 +1663,7 @@
 		"VSD": "NVM",
 		"WC": 0.746,
 		"Water Rate": 2335.726,
-		"on": 0,
+		"on": 1,
 		"link": "https://pivision.roobasra.com/PIVision/PB/#/PBDisplays/9913"
 	},
 	"R-547": {
@@ -2754,7 +2754,7 @@
 		"VSD": "NVM",
 		"WC": 0.51,
 		"Water Rate": 3536.85,
-		"on": 0,
+		"on": 1,
 		"link": "https://pivision.roobasra.com/PIVision/PB/#/PBDisplays/9965"
 	},
 	"Ru-096": {
