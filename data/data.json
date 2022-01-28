@@ -3595,7 +3595,7 @@
 		"VSD": "NVM",
 		"WC": 0.08,
 		"Water Rate": 242.48000000000002,
-		"on": 0,
+		"on": 1,
 		"link": "https://pivision.roobasra.com/PIVision/#/Displays/1248/RU-271-Well-Status"
 	},
 	"Ru-286": {
@@ -4106,7 +4106,7 @@
 		"VSD": "NVM",
 		"WC": 0.85,
 		"Water Rate": 4833.1,
-		"on": 0,
+		"on": 1,
 		"link": "https://pivision.roobasra.com/PIVision/PB/#/PBDisplays/10040"
 	},
 	"Ru-390": {
