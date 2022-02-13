@@ -972,7 +972,7 @@
 	"R-292": {
 		"Station": "DS4",
 		"VSD": "BKR",
-		"on": 0,
+		"on": 1,
 		"press_poly_id": null,
 		"status_poly_id": null,
 		"link": null
