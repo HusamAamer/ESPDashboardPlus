@@ -2156,9 +2156,20 @@
 		"on": 1,
 		"link": "https://pivision.roobasra.com/PIVision/PB/#/PBDisplays/14971"
 	},
-	"R-705": {
+
+"R-705": {
 		"Genset": "Perkins",
 		"Station": "DS5",
+		"VSD": "BKR",
+		"on": 1,
+		"press_poly_id": null,
+		"status_poly_id": null,
+		"link": null
+	},
+
+	"R-703": {
+		"Genset": "Perkins",
+		"Station": "DS3",
 		"VSD": "BKR",
 		"on": 1,
 		"press_poly_id": null,
